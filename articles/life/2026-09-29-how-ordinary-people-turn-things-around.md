@@ -28,11 +28,7 @@ the precondition for success is believing in yourself.
 Two-times Tesla:
 yesterday I kept adding, another small 1000 shares.
 
-**Screenshot:** Sep 28, 2026 · Realized P&L $0 · 1 trade
-
-| Date | Ticker | Venue | Side | Shares | Order | Price | Amount | Commission | P&L | Time |
-|---|---|---|---|---|---|---|---|---|---|---|
-| September 28, 2026 | TSLL | DARK | Buy | 1000 | 9.15 Limit, Gtc | $9.15 | $9,150 | $3.71 | $0 | 22:32:33 |
+![Screenshot attached to the original post](../../images/Dd3ScW0jlwE-1.jpg)
 
 ## Replies
 

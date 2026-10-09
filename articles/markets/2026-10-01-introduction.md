@@ -22,12 +22,7 @@ Especially when the Treasury is handing you a free put:
 if something goes wrong later, it's the one holding up the floor.
 Or does everyone still think the Treasury is the one that's going to break? 🤣
 
-**Screenshot:** Sep 25, 2026 – Oct 01, 2026 · Realized P&L $0 · 9 trades
-
-| Date | Ticker | Exchange | Side | Shares | Order | Price | Amount | Commission | P&L | Time |
-|---|---|---|---|---|---|---|---|---|---|---|
-| September 30, 2026 | GOOG | NASDAQ | Buy | 100 | 341 Limit, Gtc | $341 | $34,100 | $0.24 | $0 | 13:54:10 |
-| September 30, 2026 | TSLL | NASDAQ | Buy | 1000 | 8.75 Limit, Gtc | $8.75 | $8,750 | $6.53 | $0 | 13:53:25 |
+![Screenshot attached to the original post](../../images/Dd8ZYrnDgDL-1.jpg)
 
 ## Replies
 

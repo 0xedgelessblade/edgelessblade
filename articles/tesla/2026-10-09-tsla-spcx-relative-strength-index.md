@@ -33,7 +33,7 @@ Data source: Yahoo Finance closing prices.
 Too much compute.
 I'll make it into a website later 🤣
 
-**Chart:** "TSLA vs SPCX daily relative strength (2026-06-15 to 2026-10-08)" · "> 0 = TSLA stronger, < 0 = TSLA weaker" · top panel "TSLA % - SPCX % (pp)" with 5-day avg and 20-day avg · bottom panel "Cumulative strength (pp)", −15.04 pp · "Source: Yahoo Finance daily adjusted close"
+![Chart attached to the original post](../../images/DeQxmd3jnpt-1.jpg)
 
 **Part 2:** [edgelessblade.com/tsla-spcx](https://edgelessblade.com/tsla-spcx/) (TSLA・SPCX 合併預測, "TSLA・SPCX Merger Forecast")
 

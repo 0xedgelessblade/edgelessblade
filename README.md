@@ -32,11 +32,14 @@ All of these names are me.
 
 | Date | Category | Title | Path |
 |---|---|---|---|
+| 2026-10-09 | tesla | [Tesla Fleet Daily: 150 More Cybercabs in Texas](articles/tesla/2026-10-09-tesla-fleet-daily.md) | `articles/tesla/2026-10-09-tesla-fleet-daily.md` |
 | 2026-10-09 | tesla | [TSLA vs. SPCX: A Relative Strength Index for a Possible Acquisition](articles/tesla/2026-10-09-tsla-spcx-relative-strength-index.md) | `articles/tesla/2026-10-09-tsla-spcx-relative-strength-index.md` |
+| 2026-10-08 | tesla | [Tesla Fleet Status: Texas, Houston, NHTSA, California, Nevada](articles/tesla/2026-10-08-tesla-fleet-status.md) | `articles/tesla/2026-10-08-tesla-fleet-status.md` |
 | 2026-10-03 | life | [For People Just Starting Out](articles/life/2026-10-03-for-people-just-starting-out.md) | `articles/life/2026-10-03-for-people-just-starting-out.md` |
 | 2026-10-01 | markets | [Introduction: Where I Stand on the Market](articles/markets/2026-10-01-introduction.md) | `articles/markets/2026-10-01-introduction.md` |
 | 2026-09-29 | life | [How Ordinary People Turn Things Around](articles/life/2026-09-29-how-ordinary-people-turn-things-around.md) | `articles/life/2026-09-29-how-ordinary-people-turn-things-around.md` |
 | 2026-09-09 | tesla | [Why Tesla Doesn't Need to Buy Uber](articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md) | `articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md` |
+| 2026-09-01 | tesla | [Carried by My Good-for-Nothing Son](articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md) | `articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md` |
 
 ## Not to be confused with
 
