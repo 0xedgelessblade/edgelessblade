@@ -38,7 +38,10 @@ All of these names are me.
 | 2026-10-05 | markets | [The 30-Year Yield at 5.6%: What's Left in the Treasury's Toolbox](articles/markets/2026-10-05-30-year-yield-and-the-treasury-toolbox.md) | `articles/markets/2026-10-05-30-year-yield-and-the-treasury-toolbox.md` |
 | 2026-10-03 | life | [For People Just Starting Out](articles/life/2026-10-03-for-people-just-starting-out.md) | `articles/life/2026-10-03-for-people-just-starting-out.md` |
 | 2026-10-02 | ai | [Meta's Muse Is Buying Your Inbox with Tokens](articles/ai/2026-10-02-metas-muse-buys-your-inbox-with-tokens.md) | `articles/ai/2026-10-02-metas-muse-buys-your-inbox-with-tokens.md` |
+| 2026-10-02 | markets | [When AI Does the Price-Comparing, Hassle Stops Being a Moat](articles/markets/2026-10-02-ai-price-comparison-erodes-the-hassle-moat.md) | `articles/markets/2026-10-02-ai-price-comparison-erodes-the-hassle-moat.md` |
 | 2026-10-01 | markets | [Introduction: Where I Stand on the Market](articles/markets/2026-10-01-introduction.md) | `articles/markets/2026-10-01-introduction.md` |
+| 2026-09-30 | markets | [Adding GOOG, Waiting for META at 640](articles/markets/2026-09-30-adding-goog-waiting-for-meta-at-640.md) | `articles/markets/2026-09-30-adding-goog-waiting-for-meta-at-640.md` |
+| 2026-09-30 | life | [Easy Wins in Life](articles/life/2026-09-30-easy-wins-in-life.md) | `articles/life/2026-09-30-easy-wins-in-life.md` |
 | 2026-09-29 | life | [How Ordinary People Turn Things Around](articles/life/2026-09-29-how-ordinary-people-turn-things-around.md) | `articles/life/2026-09-29-how-ordinary-people-turn-things-around.md` |
 | 2026-09-09 | tesla | [Why Tesla Doesn't Need to Buy Uber](articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md) | `articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md` |
 | 2026-09-01 | tesla | [Carried by My Good-for-Nothing Son](articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md) | `articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md` |
