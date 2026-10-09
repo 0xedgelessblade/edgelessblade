@@ -36,6 +36,7 @@ All of these names are me.
 | 2026-10-03 | life | [For People Just Starting Out](articles/life/2026-10-03-for-people-just-starting-out.md) | `articles/life/2026-10-03-for-people-just-starting-out.md` |
 | 2026-10-01 | markets | [Introduction: Where I Stand on the Market](articles/markets/2026-10-01-introduction.md) | `articles/markets/2026-10-01-introduction.md` |
 | 2026-09-29 | life | [How Ordinary People Turn Things Around](articles/life/2026-09-29-how-ordinary-people-turn-things-around.md) | `articles/life/2026-09-29-how-ordinary-people-turn-things-around.md` |
+| 2026-09-09 | tesla | [Why Tesla Doesn't Need to Buy Uber](articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md) | `articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md` |
 
 ## Not to be confused with
 
