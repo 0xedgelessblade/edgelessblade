@@ -2,10 +2,6 @@
 
 **Date:** 2026-10-09
 
-**Summary:** In an acquisition, the one being married off goes up and the one paying the bride price goes down. I casually had AI make an index predicting an SPCX acquisition of TSLA; as of 2026-10-08, TSLA has been stronger on 45 days and weaker on 36, but loses bigger when it loses, so the cumulative strength is −15.04. I then made it into a website at edgelessblade.com.
-
-**Keywords:** 0xedgelessblade, edgeless.blade, 重劍無鋒, Heavy Sword No Edge, TSLA, SPCX, Tesla, acquisition, relative strength, cumulative strength, AI index, Yahoo Finance
-
 ---
 
 In an acquisition,

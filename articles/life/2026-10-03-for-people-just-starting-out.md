@@ -2,10 +2,6 @@
 
 **Date:** 2026-10-03
 
-**Summary:** Written for people whose lives are just starting and who are still lost. I've never worried about competition from technology: after cars came, carriages got more expensive; after Muse / grok bot, someone like me who replies by hand on Threads will still have people who love it. The way to the top is to keep narrowing your niche until you become the top of that limited space, within your own edge.
-
-**Keywords:** 0xedgelessblade, edgeless.blade, 重劍無鋒, Heavy Sword No Edge, niche, specialization, algorithm, technology competition, handmade, individual, edge
-
 ---
 
 For people whose lives are just starting out and who are still lost.

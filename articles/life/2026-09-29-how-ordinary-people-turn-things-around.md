@@ -2,10 +2,6 @@
 
 **Date:** 2026-09-29
 
-**Summary:** How does an ordinary person turn things around? When a bear market comes, dare to bet, and that's it. Big bear markets come three times in ten years, but most people don't dare get in, so all the trading practice before then is there to make you trust your own judgment rather than dance to the market and the media; yesterday I kept adding a small 1,000 shares of 2x Tesla.
-
-**Keywords:** 0xedgelessblade, edgeless.blade, 重劍無鋒, Heavy Sword No Edge, bear market, trading psychology, trust yourself, TSLA, TSLL, 2x Tesla, Cybercab, odds, long term
-
 ---
 
 How does an ordinary person turn things around?

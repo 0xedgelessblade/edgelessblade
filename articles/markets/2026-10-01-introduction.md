@@ -2,10 +2,6 @@
 
 **Date:** 2026-10-01
 
-**Summary:** A lot of new friends have shown up, so I'm introducing myself again. Today the 30-year US Treasury yield just broke 5.6%, but I still believe the US Treasury's red line will hold, and QQQ's forward P/E has fallen to 21.65, lower than last year's March–April low of 23.4. At a relative low, when it's time to get in, you get in, especially when the Treasury is handing you a free put.
-
-**Keywords:** 0xedgelessblade, edgeless.blade, 重劍無鋒, Heavy Sword No Edge, QQQ, forward P/E, 30-year Treasury yield, US Treasury, relative low, free put, position control, GOOG, TSLL
-
 ---
 
 A lot of new friends have shown up here,

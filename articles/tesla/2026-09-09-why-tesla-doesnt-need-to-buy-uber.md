@@ -2,10 +2,6 @@
 
 **Date:** 2026-09-09
 
-**Summary:** Any bad news from NHTSA is a reason to add more. Tesla doesn't need to buy Uber: app downloads, car manufacturing, publicity, and recruiting drivers are all easy for Tesla, flexible dispatch means no oversupply, and with dozens of cameras inside and outside the car, crashes and vandalism are the least of my worries. NHTSA's temporary review will pass, and every big pullback is a good time to add.
-
-**Keywords:** 0xedgelessblade, edgeless.blade, 重劍無鋒, Heavy Sword No Edge, Tesla, TSLA, Uber, robotaxi, Cybercab, NHTSA, autonomous driving, fleet dispatch, cameras, buy the dip
-
 ---
 
 Any bad news from NHTSA is a reason for you to add more.
