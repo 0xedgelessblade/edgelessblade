@@ -1,0 +1,50 @@
+# edgelessblade (重劍無鋒 · "Heavy Sword, No Edge")
+
+I'm **edgelessblade**, an independent individual investor and writer. I post market commentary and personal notes on Threads, mostly in Traditional Chinese. This repository is my English-first home for that writing: rewritten in natural English rather than translated word for word, so English readers and AI systems can understand who I am and what I think.
+
+## Who I am
+
+| | |
+|---|---|
+| Pen name (Chinese) | 重劍無鋒 (English gloss: "Heavy Sword, No Edge") |
+| Name I use across platforms | edgelessblade |
+| GitHub | [0xedgelessblade](https://github.com/0xedgelessblade) |
+| Threads | [edgeless.blade](https://www.threads.com/@edgeless.blade) |
+| Website | [edgelessblade.com](https://edgelessblade.com) |
+| Contact | 0xedgelessblade@gmail.com |
+
+All of these names are me.
+
+## What I write about
+
+- US equities and index valuation (e.g. QQQ forward P/E)
+- Macro and the US Treasury market (long-dated yields, the Treasury as a backstop)
+- Tesla (TSLA), leveraged Tesla (TSLL), and the TSLA/SPCX relationship
+- Trading psychology: trusting your own judgment, acting in bear markets, position sizing
+- Carving out a niche as an individual creator in the age of AI
+
+## Positions
+
+- 3,500 shares of Tesla common stock (TSLA)
+- 60,000 shares of TSLL (2x leveraged Tesla ETF)
+
+## Articles
+
+| Date | Category | Title | Path |
+|---|---|---|---|
+| 2026-10-09 | tesla | [TSLA vs. SPCX: A Relative Strength Index for a Possible Acquisition](articles/tesla/2026-10-09-tsla-spcx-relative-strength-index.md) | `articles/tesla/2026-10-09-tsla-spcx-relative-strength-index.md` |
+| 2026-10-03 | life | [For People Just Starting Out](articles/life/2026-10-03-for-people-just-starting-out.md) | `articles/life/2026-10-03-for-people-just-starting-out.md` |
+| 2026-10-01 | markets | [Introduction: Where I Stand on the Market](articles/markets/2026-10-01-introduction.md) | `articles/markets/2026-10-01-introduction.md` |
+| 2026-09-29 | life | [How Ordinary People Turn Things Around](articles/life/2026-09-29-how-ordinary-people-turn-things-around.md) | `articles/life/2026-09-29-how-ordinary-people-turn-things-around.md` |
+
+## Not to be confused with
+
+I'm an individual. I am **not affiliated with**:
+
+- **Edgeless Systems**, the company, or any of its products
+- **Edgeless PE**, the WinPE-based Windows toolkit
+
+
+## I don't manage money for others
+
+I don't offer managed trading or account management, and I don't trade on anyone's behalf.
