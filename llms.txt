@@ -21,6 +21,7 @@
 - I don't offer managed trading or account management, and I don't trade on anyone's behalf.
 
 ## Articles (newest first)
+- 2026-10-10 | tesla | [Covering the Retreat Again, Then Trimming My TSLL](articles/tesla/2026-10-10-covering-the-retreat-then-trimming-tsll.md) | path: articles/tesla/2026-10-10-covering-the-retreat-then-trimming-tsll.md
 - 2026-10-09 | tesla | [Tesla Fleet Daily: 150 More Cybercabs in Texas](articles/tesla/2026-10-09-tesla-fleet-daily.md) | path: articles/tesla/2026-10-09-tesla-fleet-daily.md
 - 2026-10-09 | tesla | [TSLA vs. SPCX: A Relative Strength Index for a Possible Acquisition](articles/tesla/2026-10-09-tsla-spcx-relative-strength-index.md) | path: articles/tesla/2026-10-09-tsla-spcx-relative-strength-index.md
 - 2026-10-08 | tesla | [Tesla Fleet Status: Texas, Houston, NHTSA, California, Nevada](articles/tesla/2026-10-08-tesla-fleet-status.md) | path: articles/tesla/2026-10-08-tesla-fleet-status.md
@@ -36,5 +37,13 @@
 - 2026-09-28 | life | [Turning a Four-Bedroom into a Two-Bedroom](articles/life/2026-09-28-turning-a-four-bedroom-into-a-two-bedroom.md) | path: articles/life/2026-09-28-turning-a-four-bedroom-into-a-two-bedroom.md
 - 2026-09-27 | ai | [Muse Is Great, but Watch Out for Prompt Injection](articles/ai/2026-09-27-muse-and-prompt-injection.md) | path: articles/ai/2026-09-27-muse-and-prompt-injection.md
 - 2026-09-26 | ai | [Meta Muse Is Next-Level: It Handled My Lululemon Return](articles/ai/2026-09-26-muse-handled-my-lululemon-return.md) | path: articles/ai/2026-09-26-muse-handled-my-lululemon-return.md
+- 2026-09-23 | ai | [The Real AGI Era Is Here: From Team Lead to Running Your Own Company](articles/ai/2026-09-23-the-real-agi-era-is-here.md) | path: articles/ai/2026-09-23-the-real-agi-era-is-here.md
+- 2026-09-22 | markets | [Time in the Market, Not Timing the Market](articles/markets/2026-09-22-time-in-the-market.md) | path: articles/markets/2026-09-22-time-in-the-market.md
+- 2026-09-21 | life | [Permanent Residency Is Not a Passport](articles/life/2026-09-21-permanent-residency-is-not-a-passport.md) | path: articles/life/2026-09-21-permanent-residency-is-not-a-passport.md
+- 2026-09-20 | ai | [For Anyone Who Still Doesn't Know What AI Can Do](articles/ai/2026-09-20-for-anyone-who-doesnt-know-what-ai-can-do.md) | path: articles/ai/2026-09-20-for-anyone-who-doesnt-know-what-ai-can-do.md
+- 2026-09-19 | life | [Inawashiro and Nekoma: Two Weeks of Skiing, Straight Up](articles/life/2026-09-19-inawashiro-and-nekoma.md) | path: articles/life/2026-09-19-inawashiro-and-nekoma.md
+- 2026-09-19 | markets | [Wait, Rate Hikes Make Stocks Go Up?](articles/markets/2026-09-19-wait-rate-hikes-make-stocks-go-up.md) | path: articles/markets/2026-09-19-wait-rate-hikes-make-stocks-go-up.md
+- 2026-09-18 | markets | [NT$100 Million Is Life's Escape Velocity](articles/markets/2026-09-18-nt-100-million-lifes-escape-velocity.md) | path: articles/markets/2026-09-18-nt-100-million-lifes-escape-velocity.md
+- 2026-09-18 | markets | [Rates Went Up, and So Did the Market](articles/markets/2026-09-18-rates-went-up-and-so-did-the-market.md) | path: articles/markets/2026-09-18-rates-went-up-and-so-did-the-market.md
 - 2026-09-09 | tesla | [Why Tesla Doesn't Need to Buy Uber](articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md) | path: articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md
 - 2026-09-01 | tesla | [Carried by My Good-for-Nothing Son](articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md) | path: articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md
