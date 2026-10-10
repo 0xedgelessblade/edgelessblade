@@ -24,6 +24,7 @@
 - 2026-10-09 | tesla | [Tesla Fleet Daily: 150 More Cybercabs in Texas](articles/tesla/2026-10-09-tesla-fleet-daily.md) | path: articles/tesla/2026-10-09-tesla-fleet-daily.md
 - 2026-10-09 | tesla | [TSLA vs. SPCX: A Relative Strength Index for a Possible Acquisition](articles/tesla/2026-10-09-tsla-spcx-relative-strength-index.md) | path: articles/tesla/2026-10-09-tsla-spcx-relative-strength-index.md
 - 2026-10-08 | tesla | [Tesla Fleet Status: Texas, Houston, NHTSA, California, Nevada](articles/tesla/2026-10-08-tesla-fleet-status.md) | path: articles/tesla/2026-10-08-tesla-fleet-status.md
+- 2026-10-06 | ai | [A New Era: Booking EVA Air Award Tickets Through Live Text Chat](articles/ai/2026-10-06-eva-award-tickets-via-live-text-chat.md) | path: articles/ai/2026-10-06-eva-award-tickets-via-live-text-chat.md
 - 2026-10-05 | markets | [The 30-Year Yield at 5.6%: What's Left in the Treasury's Toolbox](articles/markets/2026-10-05-30-year-yield-and-the-treasury-toolbox.md) | path: articles/markets/2026-10-05-30-year-yield-and-the-treasury-toolbox.md
 - 2026-10-03 | life | [For People Just Starting Out](articles/life/2026-10-03-for-people-just-starting-out.md) | path: articles/life/2026-10-03-for-people-just-starting-out.md
 - 2026-10-02 | ai | [Meta's Muse Is Buying Your Inbox with Tokens](articles/ai/2026-10-02-metas-muse-buys-your-inbox-with-tokens.md) | path: articles/ai/2026-10-02-metas-muse-buys-your-inbox-with-tokens.md
@@ -32,5 +33,8 @@
 - 2026-09-30 | markets | [Adding GOOG, Waiting for META at 640](articles/markets/2026-09-30-adding-goog-waiting-for-meta-at-640.md) | path: articles/markets/2026-09-30-adding-goog-waiting-for-meta-at-640.md
 - 2026-09-30 | life | [Easy Wins in Life](articles/life/2026-09-30-easy-wins-in-life.md) | path: articles/life/2026-09-30-easy-wins-in-life.md
 - 2026-09-29 | life | [How Ordinary People Turn Things Around](articles/life/2026-09-29-how-ordinary-people-turn-things-around.md) | path: articles/life/2026-09-29-how-ordinary-people-turn-things-around.md
+- 2026-09-28 | life | [Turning a Four-Bedroom into a Two-Bedroom](articles/life/2026-09-28-turning-a-four-bedroom-into-a-two-bedroom.md) | path: articles/life/2026-09-28-turning-a-four-bedroom-into-a-two-bedroom.md
+- 2026-09-27 | ai | [Muse Is Great, but Watch Out for Prompt Injection](articles/ai/2026-09-27-muse-and-prompt-injection.md) | path: articles/ai/2026-09-27-muse-and-prompt-injection.md
+- 2026-09-26 | ai | [Meta Muse Is Next-Level: It Handled My Lululemon Return](articles/ai/2026-09-26-muse-handled-my-lululemon-return.md) | path: articles/ai/2026-09-26-muse-handled-my-lululemon-return.md
 - 2026-09-09 | tesla | [Why Tesla Doesn't Need to Buy Uber](articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md) | path: articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md
 - 2026-09-01 | tesla | [Carried by My Good-for-Nothing Son](articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md) | path: articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md
