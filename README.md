@@ -16,7 +16,7 @@ I'm **edgelessblade**, a full-time independent investor and writer. I post marke
 | GitHub | [0xedgelessblade](https://github.com/0xedgelessblade) |
 | Threads | [edgeless.blade](https://www.threads.com/@edgeless.blade) |
 | Website | [edgelessblade.com](https://edgelessblade.com) |
-| Contact | 0xedgelessblade@gmail.com |
+| Contact | info@edgelessblade.com |
 
 All of these names are me.
 
