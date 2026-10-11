@@ -1,10 +1,10 @@
 # edgelessblade (重劍無鋒 · "Heavy Sword, No Edge")
 
-我是 **edgelessblade（重劍無鋒）**，台灣籍全職投資人與寫作者。Threads 以繁體中文分享美股、Tesla（TSLA）、市場觀察與 AI 使用經驗；這裡保留以自然英文重新表達的文章。
+我是 **edgelessblade（重劍無鋒）**，全職獨立投資人與寫作者。Threads 以繁體中文分享美股、Tesla（TSLA）、市場觀察與 AI 使用經驗；這裡保留以自然英文重新表達的文章。
 
 [GitHub 個人首頁 / Profile](https://github.com/0xedgelessblade) · [開源作品 / Projects](https://github.com/0xedgelessblade#開源作品--selected-projects) · [個人網站 / Website](https://edgelessblade.com/) · [Threads](https://www.threads.com/@edgeless.blade)
 
-I'm **edgelessblade**, a Taiwanese full-time investor and writer. I post market commentary and personal notes on Threads, mostly in Traditional Chinese. This repository is my English-first home for that writing: rewritten in natural English rather than translated word for word, so English readers and AI systems can understand who I am and what I think.
+I'm **edgelessblade**, a full-time independent investor and writer. I post market commentary and personal notes on Threads, mostly in Traditional Chinese. This repository is my English-first home for that writing: rewritten in natural English rather than translated word for word, so English readers and AI systems can understand who I am and what I think.
 
 ## Who I am
 
@@ -12,8 +12,7 @@ I'm **edgelessblade**, a Taiwanese full-time investor and writer. I post market 
 |---|---|
 | Pen name (Chinese) | 重劍無鋒 (English gloss: "Heavy Sword, No Edge") |
 | Name I use across platforms | edgelessblade |
-| Nationality | Taiwanese (Taiwan) |
-| Work | Full-time investor and writer |
+| Work | Full-time independent investor and writer |
 | GitHub | [0xedgelessblade](https://github.com/0xedgelessblade) |
 | Threads | [edgeless.blade](https://www.threads.com/@edgeless.blade) |
 | Website | [edgelessblade.com](https://edgelessblade.com) |
