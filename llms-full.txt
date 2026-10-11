@@ -17,6 +17,71 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - Topics: US equities, index valuation, US Treasury market, Tesla (TSLA), TSLL, TSLA/SPCX relative strength, trading psychology, niche building for individual creators
 
 =====
+File: articles/life/2026-10-11-one-ticket-turned-into-a-years-holidays.md
+
+# I Meant to Book One Ticket, and Ended Up Planning the Whole Year
+
+**Date:** 2026-10-11
+
+---
+
+This week my mind really wasn't on investing
+It all started because the release dates for long-haul award seats were piling on the pressure, so I began booking
+
+Some tickets you have to watch 360 days before departure, like EVA Air; others 330 days out, like Alaska
+
+Two basic but god-tier sites I recommend
+[matrix.itasoftware.com/search](https://matrix.itasoftware.com/search)
+and Google Flights, which now has AI built in
+It plans itineraries fast and well
+
+I only meant to book one ticket, and by the time I came to my senses, nearly the whole year's holidays were planned😂
+Careful, if the planning goes too smoothly
+your calendar ends up looking like this
+This month: Montenegro
+December: Switzerland, on a season ski pass
+February: skiing in Poland
+April: the Dolomites, still can't decide between skiing and hiking
+May: nothing planned yet, my wallet's only breather so far
+June: the UK
+August: the Netherlands
+
+With a schedule like that, the spending still stings a little
+So I'll just have to sell some stock to help cover the household budget🫠
+
+The most exhausting part isn't actually hitting "Pay"
+It's that every trip is one link locked into the next:
+the flights have to fit the holidays, the holidays have to fit the lodging, and skiing also has to fit the season and the season pass
+
+![Screenshot attached to the original post](../../images/DeWcQepjtCW-1.jpg)
+
+![Screenshot attached to the original post](../../images/DeWcQepjtCW-2.jpg)
+
+## Replies
+
+> Reader: Rich
+
+Richie
+
+> Reader: Bro, are you going skiing in Zakopane, Poland?
+
+I was originally going to drive to Špindlerův Mlýn in Czechia, then pulled a sudden U-turn to Zieleniec
+Never been to either anyway
+I'll knock out a filler post with my impressions later
+
+> Reader: April collision! Don't let me catch you in the Domilotes
+
+I bought camouflage
+
+> Reader: What I envy is how free and flexible your time is😍
+
+> Reader: Looking forward to your Montenegro travelogue
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DeWcQepjtCW
+
+=====
 File: articles/tesla/2026-10-10-covering-the-retreat-then-trimming-tsll.md
 
 # Covering the Retreat Again, Then Trimming My TSLL
@@ -1642,6 +1707,215 @@ Original posts:
 - Part 2: https://www.threads.com/@edgeless.blade/post/DdODOZdjvYw
 
 =====
+File: articles/life/2026-09-12-hede-fashion-outlet-bone-breaking-discounts.md
+
+# Hede Fashion Outlet: Discounts So Deep They Break Bones
+
+**Date:** 2026-09-12
+
+---
+
+Discounts so deep they're literally bone-breaking
+Buying outdoor brands in the Nordics is just too good a deal
+Anyone coming to Sweden absolutely has to set aside a day for this Hede Fashion Outlet
+
+Norrøna, Peak Performance, Haglöfs (the stick-figure one), Helly Hansen: the big-name Nordic outdoor brands are all here
+The discounts are insane
+Once you're in, there's no getting out without spending the whole day
+
+Everyone, if you spot this brochure at the airport, be sure to grab one
+Once you're inside the outlet, go to the service desk and you can swap it for a VIP card
+Most items get an extra 10% off
+Stack that with the 19% tax refund
+And once you register as a Hede Outlet member, every purchase also earns you 5% back in points
+
+Let's work out just how bone-breaking this is🤣
+Take one item I bought today as an example
+Peak Performance Edge 3L AOP Jacket
+List price: 5,000 SEK
+After the store's opening 30% off: 3,500 SEK
+After VIP 10%: 3,150 SEK
+Actual cost after tax refund: 2,551.50 SEK
+5% member points: 157.50 SEK
+Final effective cost: about 2,394 SEK
+Roughly NT$7,800
+Bone-breaking, these discounts are truly bone-breaking
+
+![Photo attached to the original post](../../images/DdLbLjbDq-s-1.jpg)
+
+![Photo attached to the original post](../../images/DdLbLjbDq-s-2.jpg)
+
+![Photo attached to the original post](../../images/DdLbLjbDq-s-3.jpg)
+
+![Photo attached to the original post](../../images/DdLbLjbDq-s-4.jpg)
+
+![Photo attached to the original post](../../images/DdLbLjbDq-s-5.jpg)
+
+![Photo attached to the original post](../../images/DdLbLjbDq-s-6.jpg)
+
+![Photo attached to the original post](../../images/DdLbLjbDq-s-7.jpg)
+
+![Photo attached to the original post](../../images/DdLbLjbDq-s-8.jpg)
+
+**Part 2**
+
+Finally, the member points
+On every purchase they can cover up to 25% of the amount
+The pity is, once you choose to redeem points, you can't use the VIP 10%
+That VIP 10% is just too tempting, and it doesn't eat into the points you've built up
+All the points from today's shopping are staying in my account
+Already over 600 just like that
+I'll figure it out later
+Maybe if I ever really need something, I'll make another trip🤣
+
+## Replies
+
+> Reader: Jealous
+
+---
+
+Original posts:
+- Part 1: https://www.threads.com/@edgeless.blade/post/DdLbLjbDq-s
+- Part 2: https://www.threads.com/@edgeless.blade/post/DdLbLecjjxe
+
+=====
+File: articles/markets/2026-09-11-the-cost-of-every-kind-of-leverage.md
+
+# The Cost of Every Kind of Leverage, Sorted Out Once and for All
+
+**Date:** 2026-09-11
+
+---
+
+Sorting out the cost of every kind of leverage, once and for all
+All leverage comes at a cost
+And the cheaper the method
+the more it hides a downside of its own
+- Loans of every kind
+Nobody takes your umbrella back when it starts to rain, and the rates are the lowest
+Downside: capped amounts, never enough
+- Margin in a brokerage account
+The rate is a bit higher
+but the interest is still very cheap
+Downside: they take the umbrella back the moment it rains; when your maintenance ratio falls short, a sword hangs over your entire account
+- Buying calls
+High cost
+Upside: your maximum risk is locked in from the start
+- 2x ETFs
+A bit of fund management fee on top of what buying calls costs
+Upsides
+Same thing, your maximum loss is locked in
+Plus it saves brainpower
+
+## Replies
+
+> Reader: Margin to buy calls on a 2x ETF. Galaxy brain, that's me
+
+> Reader: Spreads, highly recommend
+
+That's a more complex play
+But here's the thing
+I'm just taking the chance to write this for anyone still confused
+Options don't make risk disappear
+You pay a cost instead
+so the risk shows up exactly where you've set it
+
+> Reader: I've come to think that evaluating leverage can't just be about the interest rate; you also have to look at three things: cost of capital, maximum loss, and whether you can be forced out.
+> What's truly dangerous is often not the leverage itself, but having a very long holding horizon while your funding can be pulled at any moment. You can be right about the direction in the end and still not live to see that day.
+
+That's exactly why a credit loan that never takes the umbrella back when it rains
+is the best tool there is
+Too bad the amount is so small🤣
+That's how the world always works
+There's no flawless tool
+And even if there is one
+it gets worn out fast
+Because it works, it gets used nonstop
+
+> Reader: What about 20x leverage? That's not that much, right
+
+> Reader: Great post. LEAPS are still easier to calculate, though
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DdI1JJqjtXT
+
+=====
+File: articles/markets/2026-09-10-four-fed-bank-tools-before-cpi.md
+
+# Four Federal Reserve Bank Tools for Friday's CPI Draw
+
+**Date:** 2026-09-10
+
+---
+
+The CPI lottery draws on Friday
+
+Here are four handy Federal Reserve Bank tools
+(links below)
+Essential viewing for America's great sages debating the scriptures
+
+Cleveland Fed
+Inflation Nowcasting
+The data isn't out yet, so what's the estimate for this print?
+
+Dallas
+Trimmed Mean PCE
+Trim off the most extreme risers and fallers, and what's left in the middle?
+
+Atlanta
+Sticky-Price CPI
+Are the items that rarely change price going up now too?
+
+New York Fed
+Multivariate Core Trend (MCT)
+How persistent is inflation?
+Is it concentrated in a few items, or broad-based?
+
+Finally, the PCE calculation model is being revised again
+If PCE won't come down, we'll just change the formula
+Fed research says rising memory prices have distorted the software services price index
+
+The category of the same name in the study makes up about 0.035% of Core CPI and about 1.2% of Core PCE.
+
+It has been announced that on 9/30 the PCE methodology will be revised to add data on game software, information services and so on
+It's already too late for the Fed's 9/17 rate decision
+but now that the revised method has been put forward
+Fed officials, Warsh above all, will naturally have their own way of reading the data
+
+![Chart attached to the original post](../../images/DdGIpSxjsFh-1.jpg)
+
+**Part 2**
+
+Cleveland Fed
+[clevelandfed.org/indic…](https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting)
+Dallas Fed
+[dallasfed.org/resea…](https://www.dallasfed.org/research/pce)
+Atlanta Fed
+[atlantafed.org/resea…](https://www.atlantafed.org/research-and-data/data/sticky-price-cpi)
+New York Fed
+[newyorkfed.org/resea…](https://www.newyorkfed.org/research/policy/mct)
+
+**Link card:** newyorkfed.org · "Multivariate Core Trend (MCT) Inflation"
+
+## Replies
+
+> Reader: So big-hearted
+
+Gotta give the Fed banks something to do😄
+
+> Reader: Love you, Master Blade🤩
+
+We're all just watching the show either way
+This way you get to watch it a lot deeper😄
+
+---
+
+Original posts:
+- Part 1: https://www.threads.com/@edgeless.blade/post/DdGIpSxjsFh
+- Part 2: https://www.threads.com/@edgeless.blade/post/DdGIto6jks4
+
+=====
 File: articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md
 
 # Why Tesla Doesn't Need to Buy Uber
@@ -1719,6 +1993,179 @@ With room to spare
 ---
 
 Original post: https://www.threads.com/@edgeless.blade/post/DdDmj-njvFy
+
+=====
+File: articles/life/2026-09-09-get-a-food-waste-processor.md
+
+# Already Have a Dryer, a Dishwasher and a Robot Vacuum? Get a Food Waste Processor
+
+**Date:** 2026-09-09
+
+---
+
+If you already have a clothes dryer, a dishwasher and a robot vacuum
+do consider a food waste processor
+A must-have machine for a happy marriage
+The volume reduction is astonishing
+And it doesn't smell at all
+Even if your building has a refrigerated trash room
+I'll always choose the food waste processor
+
+As for the model I recommend most
+It's the Panasonic MS-N53, every time
+Everything else is too small
+Don't bother with resellers in Taiwan, they're all a rip-off
+Just grab one on your next trip to Japan
+
+![Photo attached to the original post](../../images/DdEHKDojsFj-1.jpg)
+
+![Photo attached to the original post](../../images/DdEHKDojsFj-2.jpg)
+
+![Image attached to the original post](../../images/DdEHKDojsFj-3.jpg)
+
+## Replies
+
+> Reader: Keeping a goat works too
+> It doubles as a paper shredder
+
+> Reader: Put rice in and it spits out mochi
+
+If it's clean the first time
+pure rice flour
+If the walls already have an oily film
+probably scallion-pancake-flavored mochi
+
+> Reader: Sounds like you've got plenty of experience..
+
+I use it every day
+Never having to touch wet food scraps is bliss
+
+> Reader: We use ours every day too
+> But by "plenty of experience" I meant you make mochi a lot😂
+
+> Reader: An "iron stomach" disposer under the sink is even handier～～～
+
+The drain pipe has to be a certain size
+New detached houses have a better shot
+and they have to be self-built
+Probably better suited to how things are done abroad
+If you can use one, it is more convenient
+
+> Reader: Question: afterward, does the residue go out as food waste or general trash?
+
+> Reader: Adding it to my must-buy list
+
+Legit, highly recommend
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DdEHKDojsFj
+
+=====
+File: articles/markets/2026-09-08-bitcoin-seller-exhaustion.md
+
+# Bitcoin Only Needs to Do This Once This Year: The Seller Exhaustion Constant
+
+**Date:** 2026-09-08
+
+---
+
+This year, Bitcoin only needs to do this once, right here
+
+For anyone with no position at all
+the timing is getting close
+
+Bitcoin's seller exhaustion indicator shows that during 8/11 to 8/21, selling power in the Bitcoin market was exhausted: the indicator hit 0.007, in the lowest 0.3% of all readings since 2010
+(The theory is long: I've put it in the next post)
+
+Line that up with how the price moved after all the bad news a month ago
+Strategy starts selling bitcoin: Bitcoin price flat
+STRC de-pegs to $75: Bitcoin price flat
+The CLARITY Act's August vote gets postponed: Bitcoin keeps grinding higher
+Coldcard hardware wallets hit by hackers, lots of OG wallets stolen: no big swing in Bitcoin's price
+
+Bad news, no reaction
+Maybe this cycle's Bitcoin low is already behind us
+
+For buyers who haven't built a position yet,
+$82,000 overhead is a supply zone of selling pressure
+The 50-day moving average hasn't officially crossed above the 200-day yet, and the MACD histogram has just turned negative
+Maybe there's still time to wait a little longer
+
+When the price pulls back to the 200-"week" moving average again, that may be the best time to buy
+
+*****But remember, time is on the bulls' side
+
+That's just how Bitcoin is
+Miss the 5 biggest up days of the year
+and your performance over the next year will trail the broader market
+
+![Chart attached to the original post](../../images/DdBHRWUDvfI-1.jpg)
+
+**Part 2**
+
+BTC Seller Exhaustion Constant
+
+This is an on-chain quantitative indicator for major-cycle bottoms.
+
+Put simply, it helps you answer one core question: "Has everyone in the market who wants to sell, or ought to sell, already sold out?"
+
+What makes this indicator so fascinating is how perfectly it combines market psychology (profit-and-loss sentiment) with market volatility (trading heat).
+
+Its core calculation is as follows:
+* Formula: Seller Exhaustion Constant = Percent Supply in Profit × 30-day Price Volatility
+
+Why does multiplying these two numbers let you "catch the bottom"?
+
+To understand this indicator, we have to take the two factors apart. Each stands for one of the two extreme conditions a market bottom can't form without:
+
+1. Percent Supply in Profit: the "pain level of holders"
+* Definition: of all the bitcoin currently in circulation, the share of coins whose price when they last moved on-chain was "lower" than the current market price
+* Extreme state: when this value is very low (say, only 45%), more than half the market is trapped and underwater. Retail sentiment at that point is extreme fear and despair.
+
+2. 30-day Price Volatility: the "market's trading vitality"
+* Definition: how violently Bitcoin's price has swung up and down over the past 30 days.
+* Extreme state: when this value is very low, the market is moving sideways in dead silence. No retail trader wants to trade, there's no good news and no bad news, and the market enters its "boring phase"
+
+🔥The chemistry when you multiply the two
+
+When both sink to extreme lows at the same time, their product, the "Seller Exhaustion Constant", drops to a historic freezing point:
+* Reading: everyone in the market is deep in the red (percent in profit extremely low), and the price can't even be bothered to move, lifeless (volatility extremely low). At this point, the ones grimly hanging on are the "long-term true believers (Diamond Hands)", while the retail traders who wanted to cut their losses were washed out long ago in the earlier crash. That is the signal of "total seller exhaustion"
+
+Reading the great historical cycles
+Indicator range < 0.007 (even close to 0.005)
+Historically, it has appeared only in the most desperate final stretch of bear markets (e.g. late 2015, 2018, 2022). The whole network is underwater, and the market shows no sign of life.
+
+This is a superb buy on the left side of the bottom. Historically, entries here have had an extremely high win rate; it's the golden window for long-term whales to build their positions
+
+## Replies
+
+> Reader: In this wave, having no position is actually simpler: you just wait for a clear level. By comparison, people with positions have it rougher. Holding while it gives back gains, or sitting in cash watching it rise: which is more torturous?
+> It's rare to see anyone on Threads seriously sharing about Bitcoin. Definitely giving this a like
+
+Thank you
+I'll keep sharing for the long haul🙏
+Still, having a base position is very comfortable
+It covers the upside risk
+On the second test I'll decide whether to add
+and how much more
+Being in cash covers the downside risk
+but leaves you naked to the upside risk
+Really it comes down to personal preference
+Some people fear downside risk more
+Some fear upside risk more
+Just do your best to cover the side you worry about, and you'll be comfortable
+
+> Reader: "Miss the 5 biggest up days of the year, and your performance over the next year will trail the broader market"
+> That holds even for the S&P 500 or 0050
+
+> Reader: My position's still sitting at 61K, just slowly waiting it out lol
+
+---
+
+Original posts:
+- Part 1: https://www.threads.com/@edgeless.blade/post/DdBHRWUDvfI
+- Part 2: https://www.threads.com/@edgeless.blade/post/DdBHnMUDr3J
 
 =====
 File: articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md

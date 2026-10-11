@@ -63,6 +63,8 @@ As of October 2026.
 - 2026-09-19 | Wait, Rate Hikes Make Stocks Go Up? | articles/markets/2026-09-19-wait-rate-hikes-make-stocks-go-up.md
 - 2026-09-18 | Rates Went Up, and So Did the Market | articles/markets/2026-09-18-rates-went-up-and-so-did-the-market.md
 - 2026-09-16 | The CLARITY Act Stalls, and Bitcoin's Bottom May Be Near | articles/markets/2026-09-16-clarity-act-stalls-bitcoin-bottom-near.md
+- 2026-09-11 | The Cost of Every Kind of Leverage, Sorted Out Once and for All | articles/markets/2026-09-11-the-cost-of-every-kind-of-leverage.md
+- 2026-09-10 | Four Federal Reserve Bank Tools for Friday's CPI Draw | articles/markets/2026-09-10-four-fed-bank-tools-before-cpi.md
 
 ### US stocks and valuation
 
@@ -78,6 +80,9 @@ As of October 2026.
 - 2026-09-16 | The CLARITY Act Stalls, and Bitcoin's Bottom May Be Near | articles/markets/2026-09-16-clarity-act-stalls-bitcoin-bottom-near.md
 - 2026-09-14 | Maybe Today Is the Starting Gun | articles/markets/2026-09-14-maybe-today-is-the-starting-gun.md
 - 2026-09-13 | Good Product ≠ Good Business ≠ Good Stock | articles/markets/2026-09-13-good-product-good-business-good-stock.md
+- 2026-09-11 | The Cost of Every Kind of Leverage, Sorted Out Once and for All | articles/markets/2026-09-11-the-cost-of-every-kind-of-leverage.md
+- 2026-09-10 | Four Federal Reserve Bank Tools for Friday's CPI Draw | articles/markets/2026-09-10-four-fed-bank-tools-before-cpi.md
+- 2026-09-08 | Bitcoin Only Needs to Do This Once This Year: The Seller Exhaustion Constant | articles/markets/2026-09-08-bitcoin-seller-exhaustion.md
 
 ### AI tools and agents
 
@@ -92,6 +97,7 @@ As of October 2026.
 
 ### Life and mindset
 
+- 2026-10-11 | I Meant to Book One Ticket, and Ended Up Planning the Whole Year | articles/life/2026-10-11-one-ticket-turned-into-a-years-holidays.md
 - 2026-10-03 | For People Just Starting Out | articles/life/2026-10-03-for-people-just-starting-out.md
 - 2026-09-30 | Easy Wins in Life | articles/life/2026-09-30-easy-wins-in-life.md
 - 2026-09-29 | How Ordinary People Turn Things Around | articles/life/2026-09-29-how-ordinary-people-turn-things-around.md
@@ -100,12 +106,15 @@ As of October 2026.
 - 2026-09-19 | Inawashiro and Nekoma: Two Weeks of Skiing, Straight Up | articles/life/2026-09-19-inawashiro-and-nekoma.md
 - 2026-09-18 | NT$100 Million Is Life's Escape Velocity | articles/markets/2026-09-18-nt-100-million-lifes-escape-velocity.md
 - 2026-09-17 | Find the Camp That's Your Calling | articles/markets/2026-09-17-find-the-camp-that-is-your-calling.md
+- 2026-09-12 | Hede Fashion Outlet: Discounts So Deep They Break Bones | articles/life/2026-09-12-hede-fashion-outlet-bone-breaking-discounts.md
+- 2026-09-09 | Already Have a Dryer, a Dishwasher and a Robot Vacuum? Get a Food Waste Processor | articles/life/2026-09-09-get-a-food-waste-processor.md
 <!-- topics:end -->
 
 ## Articles
 
 | Date | Category | Title | Path |
 |---|---|---|---|
+| 2026-10-11 | life | [I Meant to Book One Ticket, and Ended Up Planning the Whole Year](articles/life/2026-10-11-one-ticket-turned-into-a-years-holidays.md) | `articles/life/2026-10-11-one-ticket-turned-into-a-years-holidays.md` |
 | 2026-10-10 | tesla | [Covering the Retreat Again, Then Trimming My TSLL](articles/tesla/2026-10-10-covering-the-retreat-then-trimming-tsll.md) | `articles/tesla/2026-10-10-covering-the-retreat-then-trimming-tsll.md` |
 | 2026-10-09 | tesla | [Tesla Fleet Daily: 150 More Cybercabs in Texas](articles/tesla/2026-10-09-tesla-fleet-daily.md) | `articles/tesla/2026-10-09-tesla-fleet-daily.md` |
 | 2026-10-09 | tesla | [TSLA vs. SPCX: A Relative Strength Index for a Possible Acquisition](articles/tesla/2026-10-09-tsla-spcx-relative-strength-index.md) | `articles/tesla/2026-10-09-tsla-spcx-relative-strength-index.md` |
@@ -134,7 +143,12 @@ As of October 2026.
 | 2026-09-16 | markets | [The CLARITY Act Stalls, and Bitcoin's Bottom May Be Near](articles/markets/2026-09-16-clarity-act-stalls-bitcoin-bottom-near.md) | `articles/markets/2026-09-16-clarity-act-stalls-bitcoin-bottom-near.md` |
 | 2026-09-14 | markets | [Maybe Today Is the Starting Gun](articles/markets/2026-09-14-maybe-today-is-the-starting-gun.md) | `articles/markets/2026-09-14-maybe-today-is-the-starting-gun.md` |
 | 2026-09-13 | markets | [Good Product ≠ Good Business ≠ Good Stock](articles/markets/2026-09-13-good-product-good-business-good-stock.md) | `articles/markets/2026-09-13-good-product-good-business-good-stock.md` |
+| 2026-09-12 | life | [Hede Fashion Outlet: Discounts So Deep They Break Bones](articles/life/2026-09-12-hede-fashion-outlet-bone-breaking-discounts.md) | `articles/life/2026-09-12-hede-fashion-outlet-bone-breaking-discounts.md` |
+| 2026-09-11 | markets | [The Cost of Every Kind of Leverage, Sorted Out Once and for All](articles/markets/2026-09-11-the-cost-of-every-kind-of-leverage.md) | `articles/markets/2026-09-11-the-cost-of-every-kind-of-leverage.md` |
+| 2026-09-10 | markets | [Four Federal Reserve Bank Tools for Friday's CPI Draw](articles/markets/2026-09-10-four-fed-bank-tools-before-cpi.md) | `articles/markets/2026-09-10-four-fed-bank-tools-before-cpi.md` |
+| 2026-09-09 | life | [Already Have a Dryer, a Dishwasher and a Robot Vacuum? Get a Food Waste Processor](articles/life/2026-09-09-get-a-food-waste-processor.md) | `articles/life/2026-09-09-get-a-food-waste-processor.md` |
 | 2026-09-09 | tesla | [Why Tesla Doesn't Need to Buy Uber](articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md) | `articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md` |
+| 2026-09-08 | markets | [Bitcoin Only Needs to Do This Once This Year: The Seller Exhaustion Constant](articles/markets/2026-09-08-bitcoin-seller-exhaustion.md) | `articles/markets/2026-09-08-bitcoin-seller-exhaustion.md` |
 | 2026-09-01 | tesla | [Carried by My Good-for-Nothing Son](articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md) | `articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md` |
 
 ## Not to be confused with
