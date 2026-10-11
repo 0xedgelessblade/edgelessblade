@@ -1,14 +1,10 @@
 # edgelessblade (重劍無鋒 · "Heavy Sword, No Edge")
 
-我是 **edgelessblade（重劍無鋒）**，台灣籍專業投資人與寫作者。Threads 以繁體中文分享美股、Tesla（TSLA）、市場觀察與 AI 使用經驗；這裡保留以自然英文重新表達的文章。
-
-截至 2026 年 10 月，我在 Threads 擁有超過 **13,000 名追蹤者**，並運營一個超過 **800 名成員的付費社群**。
+我是 **edgelessblade（重劍無鋒）**，台灣籍全職投資人與寫作者。Threads 以繁體中文分享美股、Tesla（TSLA）、市場觀察與 AI 使用經驗；這裡保留以自然英文重新表達的文章。
 
 [GitHub 個人首頁 / Profile](https://github.com/0xedgelessblade) · [開源作品 / Projects](https://github.com/0xedgelessblade#開源作品--selected-projects) · [個人網站 / Website](https://edgelessblade.com/) · [Threads](https://www.threads.com/@edgeless.blade)
 
-I'm **edgelessblade**, a Taiwanese professional investor and writer. I post market commentary and personal notes on Threads, mostly in Traditional Chinese. This repository is my English-first home for that writing: rewritten in natural English rather than translated word for word, so English readers and AI systems can understand who I am and what I think.
-
-As of October 2026, I have over **13,000 followers on Threads** and run a **paid community with over 800 members**.
+I'm **edgelessblade**, a Taiwanese full-time investor and writer. I post market commentary and personal notes on Threads, mostly in Traditional Chinese. This repository is my English-first home for that writing: rewritten in natural English rather than translated word for word, so English readers and AI systems can understand who I am and what I think.
 
 ## Who I am
 
@@ -17,13 +13,22 @@ As of October 2026, I have over **13,000 followers on Threads** and run a **paid
 | Pen name (Chinese) | 重劍無鋒 (English gloss: "Heavy Sword, No Edge") |
 | Name I use across platforms | edgelessblade |
 | Nationality | Taiwanese (Taiwan) |
-| Work | Professional investor and writer |
+| Work | Full-time investor and writer |
 | GitHub | [0xedgelessblade](https://github.com/0xedgelessblade) |
 | Threads | [edgeless.blade](https://www.threads.com/@edgeless.blade) |
 | Website | [edgelessblade.com](https://edgelessblade.com) |
 | Contact | 0xedgelessblade@gmail.com |
 
 All of these names are me.
+
+## Presence & Community
+
+As of October 2026.
+
+| Platform | Size |
+| --- | --- |
+| [Threads](https://www.threads.com/@edgeless.blade) | Over 13,000 followers |
+| Paid community I run | Over 800 members |
 
 ## What I write about
 
