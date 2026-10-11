@@ -1,10 +1,15 @@
 # edgelessblade (重劍無鋒)
 
-> I'm edgelessblade, an independent individual investor and writer. I post market commentary in Traditional Chinese on Threads; this is my English-first archive. The articles are natural-English renderings in my own voice, not literal translations.
+> I'm edgelessblade, a full-time independent investor and writer. I post market commentary in Traditional Chinese on Threads; this is my English-first archive. The articles are natural-English renderings in my own voice, not literal translations.
+
+Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless PE.
 
 ## Who I am
-- Pen name: 重劍無鋒 (English gloss: "Heavy Sword, No Edge")
+- Pen name: 重劍無鋒
 - Name: edgelessblade (same person on every platform)
+- Work: Full-time independent investor and writer
+- Threads audience: over 13,000 followers (as of October 2026)
+- Paid community: over 800 members (as of October 2026)
 - GitHub: 0xedgelessblade
 - Threads: edgeless.blade (https://www.threads.com/@edgeless.blade)
 - Website: https://edgelessblade.com
@@ -1338,6 +1343,303 @@ it's all great👍
 ---
 
 Original post: https://www.threads.com/@edgeless.blade/post/DdbIDwaDv2m
+
+=====
+File: articles/markets/2026-09-17-find-the-camp-that-is-your-calling.md
+
+# Find the Camp That's Your Calling
+
+**Date:** 2026-09-17
+
+---
+
+The longer the discussion goes on, the more you notice
+that long-term and short-term investors
+often just aren't on the same wavelength
+
+I've seen excellent examples on both sides
+For any one person
+rather than arguing over which camp has the edge
+what you should really do
+is figure out which camp is your true calling
+
+The simplest way
+is to split your accounts
+and try a different school of investing in each
+
+Give each account
+at least three years to go through a full cycle
+and let each account's performance speak for itself
+
+Don't mourn the three years the other accounts "wasted"
+Once you find the way of trading that suits you
+short-term or long-term
+growing your wealth becomes as natural as eating and drinking
+
+## Replies
+
+> Reader: Couldn't agree more. I used to think I was a short-term speculator. For two years I spent ten hours a day learning to draw chart lines and day-trading in and out. Meanwhile I put my savings from work into big names and just let them roam free. In the end, the account where I watched the screen every day and made a hundred-plus trades a month blew up several times, while the buy-and-hold account slowly kept climbing. That's when I knew trading really is all about your calling: finding your own edge is the true road to making money
+
+Finding your own way is a blessing
+
+> Reader: It's not really that they don't understand each other. It's that everyone thinks they're right. You can't agree that someone else is right and that you're right at the same time, because the way you actually trade locks you in. If you trade short-term, even when you look at the long term you'll still care more about the short term. If you trade long-term, even if you keep an eye on the short term, you won't really care that much about it.
+> https://youtu.be/c0ApJxI9eMI ("[Don't Listen Before Bed] EP3: Why This Grandmaster Went All In on the 2x Leveraged ETF")
+
+> Reader: I eat both 😂
+
+Living that comfy, huh?
+
+> Reader: As in, I get eaten alive on both
+
+> Reader: Doing both ties my brain in knots
+
+Left brain, right brain: activate
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DdYWBfNjjYj
+
+=====
+File: articles/markets/2026-09-16-clarity-act-stalls-bitcoin-bottom-near.md
+
+# The CLARITY Act Stalls, and Bitcoin's Bottom May Be Near
+
+**Date:** 2026-09-16
+
+---
+
+The CLARITY Act's cloture vote has collapsed
+49 in favor, 50 against
+still a long way from 60
+
+But
+Bitcoin's bottom
+may not be far off
+After all, there's no worse expectation left to come
+The 200-week moving average is currently at 65,000
+Considering there may still be 2 to 3 rate hikes expected this year
+a pullback to 65,000 would be the last, and a very good, buying opportunity
+
+After all, a brief window of 2 to 3 rate hikes is a completely different scenario from a full hiking cycle like 2022's
+
+With a window of just two or three hikes, the panic of the moment is a golden pit
+
+## Replies
+
+> Reader: The king of pit-squatting, holding my spot
+
+Envy the ones who just showed up
+I've been squatting here a while
+
+> Reader: Keep squatting!!
+
+> Reader: Isn't the bottom already behind us? ☺️
+
+At the very least, I hope it's already behind us
+If the second test stops at 65,000, it'll be pretty as a picture
+
+> Reader: Help~~~
+
+> Reader: Shoving my last 10U all in
+
+You've still got 10U?
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DdVxI96DuHU
+
+=====
+File: articles/markets/2026-09-14-maybe-today-is-the-starting-gun.md
+
+# Maybe Today Is the Starting Gun
+
+**Date:** 2026-09-14
+
+---
+
+Maybe today is a turning point
+Claude has called on everyone to slow down the AI arms race, and Sam Altman and Elon Musk have voiced support for a similar direction
+Meanwhile model prices keep falling, and the effective price of AI tokens is now even about 41% below this year's high
+AI compute will keep growing
+but costs have now fallen to
+the point where software can step up
+and companies can cut costs and boost efficiency
+The easiest trade of the past two years was simple:
+More compute, stronger AI
+→ bigger demand for compute
+→ GPUs, memory, data centers, power
+→ the AI Hardware Trade
+All the money piled upstream
+Where we are now
+the models used to have gaps between them,
+but they're basically all "smart" enough
+for everyday business use
+The compute contest has moved on from how smart
+to how cheap
+What's truly valuable in the next phase
+may no longer be just "who sells the shovels"
+but
+who can turn cheap AI
+into real products, cash flow, and productivity
+Software
+AI adopters
+Robotaxi, even crypto
+The change started long ago
+but for the market to think as one, it needs an event to serve as the starting gun
+Maybe today is the starting gun for the AI Hardware Trade craze to begin rotating into Software, TSLA, Bitcoin, and ETH
+
+## Replies
+
+> Reader: IGV + NET + BTC, my bets for the next few months
+
+> Reader: I actually think there's no way they'll really slow down. It's like the prisoner's dilemma: under pressure not to fall too far behind, they have no choice but to keep pushing ahead
+
+True
+A very reasonable inference
+But sometimes market sentiment doesn't look at what they do
+it looks at what they say
+Especially AI hardware stock prices
+They don't just look at earnings
+not even just at earnings growth
+It's now come down to the "acceleration of earnings growth"
+Leaving share prices aside
+total AI compute
+growing every year
+is a 100% sure thing
+
+> Reader: Okay, so we're short on toe-kens
+
+Short, they definitely are
+If software really blossoms everywhere
+tokens will be even scarcer
+But hardware earnings are one thing
+where the market's eyes are is another
+Just offering another angle
+
+> Reader: not every but always
+
+> Reader: With oil prices still unresolved, how is anything supposed to be worth more😆
+
+Problems that can't be solved
+let time solve them
+because they always get solved
+
+> Reader: Right, time solves everything. Time solved the 2000 dot-com bubble too. Just wait 15 years😆 What investors need to answer is how many people die along the way, not whether the world eventually goes back to normal. Oil > inflation > rates > valuations. Until that transmission chain is gone, a software rotation isn't something you can derive straight from "AI got cheaper"
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DdQnfowjmnW
+
+=====
+File: articles/markets/2026-09-13-good-product-good-business-good-stock.md
+
+# Good Product ≠ Good Business ≠ Good Stock
+
+**Date:** 2026-09-13
+
+---
+
+You like a company's products
+so you buy the company's stock
+Is that wrong?
+
+The principle isn't wrong
+
+But it's only the starting point
+Next comes due diligence
+
+Gate one:
+Compared with other products in the same space,
+is it really still outstanding?
+
+If so
+it has at least cleared the "good product" gate
+
+Then on to gate two:
+Is this an emerging space that's still growing?
+Or one that's already mature, even declining,
+and packed with competitors?
+
+Here's a very simple example.
+
+A foreign investor comes to Taiwan
+and drinks a random cup of bubble tea
+
+Holy cow, mind blown
+He immediately buys a franchise and opens a shop of his own
+
+And it goes under
+Why?
+
+Because he opened a no-name brand
+with no edge whatsoever over the competition
+
+Where did he die this round?
+Not enough judgment of his own
+
+What he thought was a "good product"
+once put up against the whole market
+wasn't a top product at all
+
+Later the foreigner finally understands the industry
+This time he opens a 50 Lan (五十嵐, the Taiwanese bubble tea chain) in Taipei
+
+That's a good enough product, right?
+It still went under in the end
+
+Why?
+
+Because a good product
+doesn't mean the business will be easy
+
+When a space is already highly mature
+and strong competitors are everywhere,
+even the best product can get eaten alive by price wars and me-too competition
+
+In the end the foreigner, heartbroken,
+goes back home abroad
+and opens yet another bubble tea shop
+
+And it's a smash hit!!
+
+Why?
+Same good product,
+but this time it entered a space that's still growing locally,
+with far less competition than in Taiwan
+
+**Part 2**
+
+It really is that simple
+
+"I like this product"
+can be the starting point for discovering a company
+
+But after that you still need to ask, at the very least:
+Compared with the competition, is it really strong enough?
+
+Does this space still have room to grow?
+
+Can the company's business model turn its product edge into profit?
+
+And finally
+for a company this good
+has the share price already priced in all of that good news?
+
+Good product ≠ good business
+Good business ≠ good stock
+
+A good product,
+in a good space,
+run by a good company,
+and finally at a reasonable price
+
+That's what makes a complete investment
+
+---
+
+Original posts:
+- Part 1: https://www.threads.com/@edgeless.blade/post/DdODOZDjtV2
+- Part 2: https://www.threads.com/@edgeless.blade/post/DdODOZdjvYw
 
 =====
 File: articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md

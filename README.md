@@ -62,6 +62,7 @@ As of October 2026.
 - 2026-09-30 | Adding GOOG, Waiting for META at 640 | articles/markets/2026-09-30-adding-goog-waiting-for-meta-at-640.md
 - 2026-09-19 | Wait, Rate Hikes Make Stocks Go Up? | articles/markets/2026-09-19-wait-rate-hikes-make-stocks-go-up.md
 - 2026-09-18 | Rates Went Up, and So Did the Market | articles/markets/2026-09-18-rates-went-up-and-so-did-the-market.md
+- 2026-09-16 | The CLARITY Act Stalls, and Bitcoin's Bottom May Be Near | articles/markets/2026-09-16-clarity-act-stalls-bitcoin-bottom-near.md
 
 ### US stocks and valuation
 
@@ -73,6 +74,10 @@ As of October 2026.
 - 2026-09-19 | Wait, Rate Hikes Make Stocks Go Up? | articles/markets/2026-09-19-wait-rate-hikes-make-stocks-go-up.md
 - 2026-09-18 | Rates Went Up, and So Did the Market | articles/markets/2026-09-18-rates-went-up-and-so-did-the-market.md
 - 2026-09-18 | NT$100 Million Is Life's Escape Velocity | articles/markets/2026-09-18-nt-100-million-lifes-escape-velocity.md
+- 2026-09-17 | Find the Camp That's Your Calling | articles/markets/2026-09-17-find-the-camp-that-is-your-calling.md
+- 2026-09-16 | The CLARITY Act Stalls, and Bitcoin's Bottom May Be Near | articles/markets/2026-09-16-clarity-act-stalls-bitcoin-bottom-near.md
+- 2026-09-14 | Maybe Today Is the Starting Gun | articles/markets/2026-09-14-maybe-today-is-the-starting-gun.md
+- 2026-09-13 | Good Product ≠ Good Business ≠ Good Stock | articles/markets/2026-09-13-good-product-good-business-good-stock.md
 
 ### AI tools and agents
 
@@ -83,6 +88,7 @@ As of October 2026.
 - 2026-09-26 | Meta Muse Is Next-Level: It Handled My Lululemon Return | articles/ai/2026-09-26-muse-handled-my-lululemon-return.md
 - 2026-09-23 | The Real AGI Era Is Here: From Team Lead to Running Your Own Company | articles/ai/2026-09-23-the-real-agi-era-is-here.md
 - 2026-09-20 | For Anyone Who Still Doesn't Know What AI Can Do | articles/ai/2026-09-20-for-anyone-who-doesnt-know-what-ai-can-do.md
+- 2026-09-14 | Maybe Today Is the Starting Gun | articles/markets/2026-09-14-maybe-today-is-the-starting-gun.md
 
 ### Life and mindset
 
@@ -93,6 +99,7 @@ As of October 2026.
 - 2026-09-21 | Permanent Residency Is Not a Passport | articles/life/2026-09-21-permanent-residency-is-not-a-passport.md
 - 2026-09-19 | Inawashiro and Nekoma: Two Weeks of Skiing, Straight Up | articles/life/2026-09-19-inawashiro-and-nekoma.md
 - 2026-09-18 | NT$100 Million Is Life's Escape Velocity | articles/markets/2026-09-18-nt-100-million-lifes-escape-velocity.md
+- 2026-09-17 | Find the Camp That's Your Calling | articles/markets/2026-09-17-find-the-camp-that-is-your-calling.md
 <!-- topics:end -->
 
 ## Articles
@@ -123,6 +130,10 @@ As of October 2026.
 | 2026-09-19 | markets | [Wait, Rate Hikes Make Stocks Go Up?](articles/markets/2026-09-19-wait-rate-hikes-make-stocks-go-up.md) | `articles/markets/2026-09-19-wait-rate-hikes-make-stocks-go-up.md` |
 | 2026-09-18 | markets | [NT$100 Million Is Life's Escape Velocity](articles/markets/2026-09-18-nt-100-million-lifes-escape-velocity.md) | `articles/markets/2026-09-18-nt-100-million-lifes-escape-velocity.md` |
 | 2026-09-18 | markets | [Rates Went Up, and So Did the Market](articles/markets/2026-09-18-rates-went-up-and-so-did-the-market.md) | `articles/markets/2026-09-18-rates-went-up-and-so-did-the-market.md` |
+| 2026-09-17 | markets | [Find the Camp That's Your Calling](articles/markets/2026-09-17-find-the-camp-that-is-your-calling.md) | `articles/markets/2026-09-17-find-the-camp-that-is-your-calling.md` |
+| 2026-09-16 | markets | [The CLARITY Act Stalls, and Bitcoin's Bottom May Be Near](articles/markets/2026-09-16-clarity-act-stalls-bitcoin-bottom-near.md) | `articles/markets/2026-09-16-clarity-act-stalls-bitcoin-bottom-near.md` |
+| 2026-09-14 | markets | [Maybe Today Is the Starting Gun](articles/markets/2026-09-14-maybe-today-is-the-starting-gun.md) | `articles/markets/2026-09-14-maybe-today-is-the-starting-gun.md` |
+| 2026-09-13 | markets | [Good Product ≠ Good Business ≠ Good Stock](articles/markets/2026-09-13-good-product-good-business-good-stock.md) | `articles/markets/2026-09-13-good-product-good-business-good-stock.md` |
 | 2026-09-09 | tesla | [Why Tesla Doesn't Need to Buy Uber](articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md) | `articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md` |
 | 2026-09-01 | tesla | [Carried by My Good-for-Nothing Son](articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md) | `articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md` |
 
