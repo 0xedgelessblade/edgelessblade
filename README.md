@@ -1,4 +1,4 @@
-# edgelessblade (重劍無鋒 · "Heavy Sword, No Edge")
+# edgelessblade (重劍無鋒)
 
 我是 **edgelessblade（重劍無鋒）**，全職獨立投資人與寫作者。Threads 以繁體中文分享美股、Tesla（TSLA）、市場觀察與 AI 使用經驗；這裡保留以自然英文重新表達的文章。
 
