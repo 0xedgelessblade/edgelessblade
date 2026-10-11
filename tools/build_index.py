@@ -1,0 +1,107 @@
+#!/usr/bin/env python3
+"""Build llms-full.txt and the topic index (README.md, llms.txt). No dependencies."""
+import re
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+T, R, U, A, L = ("Tesla and TSLA", "US Treasury yields and interest rates",
+                 "US stocks and valuation", "AI tools and agents", "Life and mindset")
+TOPIC_ORDER = [T, R, U, A, L]
+FOLDER_FALLBACK = {"tesla": [T], "markets": [U], "ai": [A], "life": [L]}
+
+# Filled by reading each article (title + opening lines). Keyed by relative path.
+TOPICS = {
+    "articles/tesla/2026-10-10-covering-the-retreat-then-trimming-tsll.md": [T],
+    "articles/tesla/2026-10-09-tesla-fleet-daily.md": [T],
+    "articles/tesla/2026-10-09-tsla-spcx-relative-strength-index.md": [T],
+    "articles/tesla/2026-10-08-tesla-fleet-status.md": [T],
+    "articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md": [T],
+    "articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md": [T],
+    "articles/markets/2026-10-05-30-year-yield-and-the-treasury-toolbox.md": [R],
+    "articles/markets/2026-10-02-ai-price-comparison-erodes-the-hassle-moat.md": [U, A],
+    "articles/markets/2026-10-01-introduction.md": [R, U],
+    "articles/markets/2026-09-30-adding-goog-waiting-for-meta-at-640.md": [R, U],
+    "articles/markets/2026-09-22-time-in-the-market.md": [U],
+    "articles/markets/2026-09-19-wait-rate-hikes-make-stocks-go-up.md": [R, U],
+    "articles/markets/2026-09-18-nt-100-million-lifes-escape-velocity.md": [U, L],
+    "articles/markets/2026-09-18-rates-went-up-and-so-did-the-market.md": [T, R, U],
+    "articles/ai/2026-10-06-eva-award-tickets-via-live-text-chat.md": [A],
+    "articles/ai/2026-10-02-metas-muse-buys-your-inbox-with-tokens.md": [A],
+    "articles/ai/2026-09-27-muse-and-prompt-injection.md": [A],
+    "articles/ai/2026-09-26-muse-handled-my-lululemon-return.md": [A],
+    "articles/ai/2026-09-23-the-real-agi-era-is-here.md": [A],
+    "articles/ai/2026-09-20-for-anyone-who-doesnt-know-what-ai-can-do.md": [A],
+    "articles/life/2026-10-03-for-people-just-starting-out.md": [L],
+    "articles/life/2026-09-30-easy-wins-in-life.md": [L],
+    "articles/life/2026-09-29-how-ordinary-people-turn-things-around.md": [L, U],
+    "articles/life/2026-09-28-turning-a-four-bedroom-into-a-two-bedroom.md": [L],
+    "articles/life/2026-09-21-permanent-residency-is-not-a-passport.md": [L],
+    "articles/life/2026-09-19-inawashiro-and-nekoma.md": [L],
+}
+
+
+def load():
+    items = []
+    for p in sorted((ROOT / "articles").rglob("*.md")):
+        rel = p.relative_to(ROOT).as_posix()
+        text = p.read_text(encoding="utf-8")
+        m = re.search(r"^# (.+)$", text, re.M)
+        title = m.group(1).strip() if m else p.stem
+        date = re.match(r"(\d{4}-\d{2}-\d{2})", p.name)
+        date = date.group(1) if date else ""
+        items.append({"rel": rel, "text": text, "title": title, "date": date,
+                      "folder": p.parent.name})
+    items.sort(key=lambda a: (a["date"], a["rel"]), reverse=True)
+    return items
+
+
+def topic_block(items):
+    out = ["## Topic index", ""]
+    for topic in TOPIC_ORDER:
+        rows = [a for a in items
+                if topic in TOPICS.get(a["rel"], FOLDER_FALLBACK.get(a["folder"], [L]))]
+        if not rows:
+            continue
+        out += [f"### {topic}", ""]
+        out += [f"- {a['date']} | {a['title']} | {a['rel']}" for a in rows]
+        out.append("")
+    return "\n".join(out).rstrip() + "\n"
+
+
+def insert(path, block):
+    s, e = "<!-- topics:start -->", "<!-- topics:end -->"
+    text = path.read_text(encoding="utf-8")
+    new = f"{s}\n{block}{e}"
+    if s in text and e in text:
+        text = re.sub(re.escape(s) + r".*?" + re.escape(e), lambda m: new, text, flags=re.S)
+    else:
+        m = re.search(r"^## Articles.*$", text, re.M)
+        pos = m.start() if m else len(text)
+        text = text[:pos] + new + "\n\n" + text[pos:]
+    path.write_text(text, encoding="utf-8")
+
+
+def identity_header():
+    lines = (ROOT / "llms.txt").read_text(encoding="utf-8").split("\n")
+    out = []
+    for ln in lines:
+        if ln.startswith("## ") and not ln.startswith("## Who I am"):
+            if out and any(x.startswith("## Who I am") for x in out):
+                break
+        out.append(ln)
+    return "\n".join(out).rstrip() + "\n"
+
+
+def main():
+    items = load()
+    insert(ROOT / "README.md", topic_block(items))
+    insert(ROOT / "llms.txt", topic_block(items))
+    parts = [identity_header()]
+    for a in items:
+        parts.append(f"=====\nFile: {a['rel']}\n\n{a['text'].rstrip()}\n")
+    (ROOT / "llms-full.txt").write_text("\n".join(parts), encoding="utf-8")
+    print(f"{len(items)} articles")
+
+
+if __name__ == "__main__":
+    main()

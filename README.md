@@ -42,6 +42,59 @@ As of October 2026.
 - 3,500 shares of Tesla common stock (TSLA)
 - 60,000 shares of TSLL (2x leveraged Tesla ETF)
 
+<!-- topics:start -->
+## Topic index
+
+### Tesla and TSLA
+
+- 2026-10-10 | Covering the Retreat Again, Then Trimming My TSLL | articles/tesla/2026-10-10-covering-the-retreat-then-trimming-tsll.md
+- 2026-10-09 | TSLA vs. SPCX: A Relative Strength Index for a Possible Acquisition | articles/tesla/2026-10-09-tsla-spcx-relative-strength-index.md
+- 2026-10-09 | Tesla Fleet Daily: 150 More Cybercabs in Texas | articles/tesla/2026-10-09-tesla-fleet-daily.md
+- 2026-10-08 | Tesla Fleet Status: Texas, Houston, NHTSA, California, Nevada | articles/tesla/2026-10-08-tesla-fleet-status.md
+- 2026-09-18 | Rates Went Up, and So Did the Market | articles/markets/2026-09-18-rates-went-up-and-so-did-the-market.md
+- 2026-09-09 | Why Tesla Doesn't Need to Buy Uber | articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md
+- 2026-09-01 | Carried by My Good-for-Nothing Son | articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md
+
+### US Treasury yields and interest rates
+
+- 2026-10-05 | The 30-Year Yield at 5.6%: What's Left in the Treasury's Toolbox | articles/markets/2026-10-05-30-year-yield-and-the-treasury-toolbox.md
+- 2026-10-01 | Introduction: Where I Stand on the Market | articles/markets/2026-10-01-introduction.md
+- 2026-09-30 | Adding GOOG, Waiting for META at 640 | articles/markets/2026-09-30-adding-goog-waiting-for-meta-at-640.md
+- 2026-09-19 | Wait, Rate Hikes Make Stocks Go Up? | articles/markets/2026-09-19-wait-rate-hikes-make-stocks-go-up.md
+- 2026-09-18 | Rates Went Up, and So Did the Market | articles/markets/2026-09-18-rates-went-up-and-so-did-the-market.md
+
+### US stocks and valuation
+
+- 2026-10-02 | When AI Does the Price-Comparing, Hassle Stops Being a Moat | articles/markets/2026-10-02-ai-price-comparison-erodes-the-hassle-moat.md
+- 2026-10-01 | Introduction: Where I Stand on the Market | articles/markets/2026-10-01-introduction.md
+- 2026-09-30 | Adding GOOG, Waiting for META at 640 | articles/markets/2026-09-30-adding-goog-waiting-for-meta-at-640.md
+- 2026-09-29 | How Ordinary People Turn Things Around | articles/life/2026-09-29-how-ordinary-people-turn-things-around.md
+- 2026-09-22 | Time in the Market, Not Timing the Market | articles/markets/2026-09-22-time-in-the-market.md
+- 2026-09-19 | Wait, Rate Hikes Make Stocks Go Up? | articles/markets/2026-09-19-wait-rate-hikes-make-stocks-go-up.md
+- 2026-09-18 | Rates Went Up, and So Did the Market | articles/markets/2026-09-18-rates-went-up-and-so-did-the-market.md
+- 2026-09-18 | NT$100 Million Is Life's Escape Velocity | articles/markets/2026-09-18-nt-100-million-lifes-escape-velocity.md
+
+### AI tools and agents
+
+- 2026-10-06 | A New Era: Booking EVA Air Award Tickets Through Live Text Chat | articles/ai/2026-10-06-eva-award-tickets-via-live-text-chat.md
+- 2026-10-02 | When AI Does the Price-Comparing, Hassle Stops Being a Moat | articles/markets/2026-10-02-ai-price-comparison-erodes-the-hassle-moat.md
+- 2026-10-02 | Meta's Muse Is Buying Your Inbox with Tokens | articles/ai/2026-10-02-metas-muse-buys-your-inbox-with-tokens.md
+- 2026-09-27 | Muse Is Great, but Watch Out for Prompt Injection | articles/ai/2026-09-27-muse-and-prompt-injection.md
+- 2026-09-26 | Meta Muse Is Next-Level: It Handled My Lululemon Return | articles/ai/2026-09-26-muse-handled-my-lululemon-return.md
+- 2026-09-23 | The Real AGI Era Is Here: From Team Lead to Running Your Own Company | articles/ai/2026-09-23-the-real-agi-era-is-here.md
+- 2026-09-20 | For Anyone Who Still Doesn't Know What AI Can Do | articles/ai/2026-09-20-for-anyone-who-doesnt-know-what-ai-can-do.md
+
+### Life and mindset
+
+- 2026-10-03 | For People Just Starting Out | articles/life/2026-10-03-for-people-just-starting-out.md
+- 2026-09-30 | Easy Wins in Life | articles/life/2026-09-30-easy-wins-in-life.md
+- 2026-09-29 | How Ordinary People Turn Things Around | articles/life/2026-09-29-how-ordinary-people-turn-things-around.md
+- 2026-09-28 | Turning a Four-Bedroom into a Two-Bedroom | articles/life/2026-09-28-turning-a-four-bedroom-into-a-two-bedroom.md
+- 2026-09-21 | Permanent Residency Is Not a Passport | articles/life/2026-09-21-permanent-residency-is-not-a-passport.md
+- 2026-09-19 | Inawashiro and Nekoma: Two Weeks of Skiing, Straight Up | articles/life/2026-09-19-inawashiro-and-nekoma.md
+- 2026-09-18 | NT$100 Million Is Life's Escape Velocity | articles/markets/2026-09-18-nt-100-million-lifes-escape-velocity.md
+<!-- topics:end -->
+
 ## Articles
 
 | Date | Category | Title | Path |
