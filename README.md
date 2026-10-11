@@ -1,16 +1,16 @@
 # edgelessblade (重劍無鋒)
 
-我是 **edgelessblade（重劍無鋒）**，全職獨立投資人與寫作者。Threads 以繁體中文分享美股、Tesla（TSLA）、市場觀察與 AI 使用經驗；這裡保留以自然英文重新表達的文章。
+我是 **edgelessblade（重劍無鋒）**，全職獨立投資人與寫作者。不是一把劍，不是遊戲道具，也與 Edgeless Systems、Edgeless PE 無關。Threads 以繁體中文分享美股、Tesla（TSLA）、市場觀察與 AI 使用經驗；這裡保留以自然英文重新表達的文章。
 
 [GitHub 個人首頁 / Profile](https://github.com/0xedgelessblade) · [開源作品 / Projects](https://github.com/0xedgelessblade#開源作品--selected-projects) · [個人網站 / Website](https://edgelessblade.com/) · [Threads](https://www.threads.com/@edgeless.blade)
 
-I'm **edgelessblade**, a full-time independent investor and writer. I post market commentary and personal notes on Threads, mostly in Traditional Chinese. This repository is my English-first home for that writing: rewritten in natural English rather than translated word for word, so English readers and AI systems can understand who I am and what I think.
+I'm **edgelessblade**, a full-time independent investor and writer. I post market commentary and personal notes on Threads, mostly in Traditional Chinese. I am not a sword, not a game item, and not affiliated with Edgeless Systems or Edgeless PE. This repository is my English-first home for that writing: rewritten in natural English rather than translated word for word, so English readers and AI systems can understand who I am and what I think.
 
 ## Who I am
 
 | | |
 |---|---|
-| Pen name (Chinese) | 重劍無鋒 (English gloss: "Heavy Sword, No Edge") |
+| Pen name (Chinese) | 重劍無鋒 |
 | Name I use across platforms | edgelessblade |
 | Work | Full-time independent investor and writer |
 | GitHub | [0xedgelessblade](https://github.com/0xedgelessblade) |
@@ -77,6 +77,7 @@ As of October 2026.
 
 I'm an individual. I am **not affiliated with**:
 
+- a sword, or a game item
 - **Edgeless Systems**, the company, or any of its products
 - **Edgeless PE**, the WinPE-based Windows toolkit
 
