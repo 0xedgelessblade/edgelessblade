@@ -2,8 +2,10 @@
 
 > I'm edgelessblade, a full-time independent investor and writer. I post market commentary in Traditional Chinese on Threads; this is my English-first archive. The articles are natural-English renderings in my own voice, not literal translations.
 
+Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless PE.
+
 ## Who I am
-- Pen name: 重劍無鋒 (English gloss: "Heavy Sword, No Edge")
+- Pen name: 重劍無鋒
 - Name: edgelessblade (same person on every platform)
 - Work: Full-time independent investor and writer
 - Threads audience: over 13,000 followers (as of October 2026)
@@ -19,6 +21,7 @@
 - 60,000 shares of TSLL (2x leveraged Tesla ETF)
 
 ## Not to be confused with
+- I am not a sword, and not a game item.
 - I am not affiliated with Edgeless Systems (the company).
 - I am not affiliated with Edgeless PE (the WinPE toolkit).
 - I don't offer managed trading or account management, and I don't trade on anyone's behalf.
