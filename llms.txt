@@ -39,6 +39,8 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - 2026-09-09 | Why Tesla Doesn't Need to Buy Uber | articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md
 - 2026-09-07 | Tesla's Odds Finally Line Up | articles/tesla/2026-09-07-teslas-odds-finally-line-up.md
 - 2026-09-05 | NHTSA Looks Like the Real Bull | articles/tesla/2026-09-05-nhtsa-looks-like-the-real-bull.md
+- 2026-09-04 | Covering the Dip, Per Usual | articles/tesla/2026-09-04-covering-the-dip-per-usual.md
+- 2026-09-03 | To the Tesla Battles We Fought | articles/tesla/2026-09-03-to-the-tesla-battles-we-fought.md
 - 2026-09-01 | Carried by My Good-for-Nothing Son | articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md
 
 ### US Treasury yields and interest rates
