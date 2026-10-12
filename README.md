@@ -69,6 +69,9 @@ As of October 2026.
 - 2026-09-16 | The CLARITY Act Stalls, and Bitcoin's Bottom May Be Near | articles/markets/2026-09-16-clarity-act-stalls-bitcoin-bottom-near.md
 - 2026-09-11 | The Cost of Every Kind of Leverage, Sorted Out Once and for All | articles/markets/2026-09-11-the-cost-of-every-kind-of-leverage.md
 - 2026-09-10 | Four Federal Reserve Bank Tools for Friday's CPI Draw | articles/markets/2026-09-10-four-fed-bank-tools-before-cpi.md
+- 2026-09-02 | Standing With Bessent on Rates and AI | articles/markets/2026-09-02-standing-with-bessent-on-rates-and-ai.md
+- 2026-08-27 | On Collateral | articles/markets/2026-08-27-on-collateral.md
+- 2026-08-24 | Intervening in the 30-Year Is a Great Signal | articles/markets/2026-08-24-intervening-in-the-30-year-is-a-great-signal.md
 
 ### US stocks and valuation
 
@@ -90,6 +93,12 @@ As of October 2026.
 - 2026-09-06 | Maybe the Weather Is Turning | articles/markets/2026-09-06-maybe-the-weather-is-turning.md
 - 2026-09-04 | Bitcoin's 200-Day MA Turns Up | articles/markets/2026-09-04-bitcoins-200-day-ma-turns-up.md
 - 2026-09-03 | The Casino Whose Chips Are Metal | articles/markets/2026-09-03-the-casino-whose-chips-are-metal.md
+- 2026-09-02 | Standing With Bessent on Rates and AI | articles/markets/2026-09-02-standing-with-bessent-on-rates-and-ai.md
+- 2026-08-27 | On Collateral | articles/markets/2026-08-27-on-collateral.md
+- 2026-08-26 | Credit Is a Divine Weapon | articles/markets/2026-08-26-credit-is-a-divine-weapon.md
+- 2026-08-25 | Stop Measuring Your Assets by Your Monthly Salary | articles/markets/2026-08-25-stop-measuring-assets-by-your-salary.md
+- 2026-08-24 | Intervening in the 30-Year Is a Great Signal | articles/markets/2026-08-24-intervening-in-the-30-year-is-a-great-signal.md
+- 2026-08-23 | Options: Many Plays, Same Premise | articles/markets/2026-08-23-options-many-plays-same-premise.md
 
 ### AI tools and agents
 
@@ -115,6 +124,8 @@ As of October 2026.
 - 2026-09-17 | Find the Camp That's Your Calling | articles/markets/2026-09-17-find-the-camp-that-is-your-calling.md
 - 2026-09-12 | Hede Fashion Outlet: Discounts So Deep They Break Bones | articles/life/2026-09-12-hede-fashion-outlet-bone-breaking-discounts.md
 - 2026-09-09 | Already Have a Dryer, a Dishwasher and a Robot Vacuum? Get a Food Waste Processor | articles/life/2026-09-09-get-a-food-waste-processor.md
+- 2026-08-26 | Credit Is a Divine Weapon | articles/markets/2026-08-26-credit-is-a-divine-weapon.md
+- 2026-08-25 | Stop Measuring Your Assets by Your Monthly Salary | articles/markets/2026-08-25-stop-measuring-assets-by-your-salary.md
 <!-- topics:end -->
 
 ## Articles
@@ -161,7 +172,13 @@ As of October 2026.
 | 2026-09-05 | tesla | [NHTSA Looks Like the Real Bull](articles/tesla/2026-09-05-nhtsa-looks-like-the-real-bull.md) | `articles/tesla/2026-09-05-nhtsa-looks-like-the-real-bull.md` |
 | 2026-09-04 | markets | [Bitcoin's 200-Day MA Turns Up](articles/markets/2026-09-04-bitcoins-200-day-ma-turns-up.md) | `articles/markets/2026-09-04-bitcoins-200-day-ma-turns-up.md` |
 | 2026-09-03 | markets | [The Casino Whose Chips Are Metal](articles/markets/2026-09-03-the-casino-whose-chips-are-metal.md) | `articles/markets/2026-09-03-the-casino-whose-chips-are-metal.md` |
+| 2026-09-02 | markets | [Standing With Bessent on Rates and AI](articles/markets/2026-09-02-standing-with-bessent-on-rates-and-ai.md) | `articles/markets/2026-09-02-standing-with-bessent-on-rates-and-ai.md` |
 | 2026-09-01 | tesla | [Carried by My Good-for-Nothing Son](articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md) | `articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md` |
+| 2026-08-27 | markets | [On Collateral](articles/markets/2026-08-27-on-collateral.md) | `articles/markets/2026-08-27-on-collateral.md` |
+| 2026-08-26 | markets | [Credit Is a Divine Weapon](articles/markets/2026-08-26-credit-is-a-divine-weapon.md) | `articles/markets/2026-08-26-credit-is-a-divine-weapon.md` |
+| 2026-08-25 | markets | [Stop Measuring Your Assets by Your Monthly Salary](articles/markets/2026-08-25-stop-measuring-assets-by-your-salary.md) | `articles/markets/2026-08-25-stop-measuring-assets-by-your-salary.md` |
+| 2026-08-24 | markets | [Intervening in the 30-Year Is a Great Signal](articles/markets/2026-08-24-intervening-in-the-30-year-is-a-great-signal.md) | `articles/markets/2026-08-24-intervening-in-the-30-year-is-a-great-signal.md` |
+| 2026-08-23 | markets | [Options: Many Plays, Same Premise](articles/markets/2026-08-23-options-many-plays-same-premise.md) | `articles/markets/2026-08-23-options-many-plays-same-premise.md` |
 
 ## Not to be confused with
 
