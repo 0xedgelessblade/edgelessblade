@@ -37,6 +37,8 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - 2026-10-08 | Tesla Fleet Status: Texas, Houston, NHTSA, California, Nevada | articles/tesla/2026-10-08-tesla-fleet-status.md
 - 2026-09-18 | Rates Went Up, and So Did the Market | articles/markets/2026-09-18-rates-went-up-and-so-did-the-market.md
 - 2026-09-09 | Why Tesla Doesn't Need to Buy Uber | articles/tesla/2026-09-09-why-tesla-doesnt-need-to-buy-uber.md
+- 2026-09-07 | Tesla's Odds Finally Line Up | articles/tesla/2026-09-07-teslas-odds-finally-line-up.md
+- 2026-09-05 | NHTSA Looks Like the Real Bull | articles/tesla/2026-09-05-nhtsa-looks-like-the-real-bull.md
 - 2026-09-01 | Carried by My Good-for-Nothing Son | articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md
 
 ### US Treasury yields and interest rates
@@ -67,6 +69,9 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - 2026-09-11 | The Cost of Every Kind of Leverage, Sorted Out Once and for All | articles/markets/2026-09-11-the-cost-of-every-kind-of-leverage.md
 - 2026-09-10 | Four Federal Reserve Bank Tools for Friday's CPI Draw | articles/markets/2026-09-10-four-fed-bank-tools-before-cpi.md
 - 2026-09-08 | Bitcoin Only Needs to Do This Once This Year: The Seller Exhaustion Constant | articles/markets/2026-09-08-bitcoin-seller-exhaustion.md
+- 2026-09-06 | Maybe the Weather Is Turning | articles/markets/2026-09-06-maybe-the-weather-is-turning.md
+- 2026-09-04 | Bitcoin's 200-Day MA Turns Up | articles/markets/2026-09-04-bitcoins-200-day-ma-turns-up.md
+- 2026-09-03 | The Casino Whose Chips Are Metal | articles/markets/2026-09-03-the-casino-whose-chips-are-metal.md
 
 ### AI tools and agents
 
