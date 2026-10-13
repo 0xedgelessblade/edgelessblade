@@ -44,6 +44,7 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - 2026-09-01 | Carried by My Good-for-Nothing Son | articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md
 - 2026-08-28 | Texas Robotaxi Fleet Hits 270 | articles/tesla/2026-08-28-texas-robotaxi-fleet-hits-270.md
 - 2026-08-22 | Riding Tesla and Bitcoin's Breakout | articles/tesla/2026-08-22-riding-tesla-and-bitcoins-breakout.md
+- 2026-08-18 | My Answer Key for This AI Cycle | articles/tesla/2026-08-18-my-answer-key-for-this-ai-cycle.md
 - 2026-08-15 | My SPCX Got Called Away at 135 | articles/tesla/2026-08-15-spcx-called-away-at-135.md
 - 2026-08-14 | Tesla Gets a Nevada Permit for Ten Cars | articles/tesla/2026-08-14-nevada-permit-for-ten-cars.md
 
@@ -60,6 +61,7 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - 2026-09-02 | Standing With Bessent on Rates and AI | articles/markets/2026-09-02-standing-with-bessent-on-rates-and-ai.md
 - 2026-08-27 | On Collateral | articles/markets/2026-08-27-on-collateral.md
 - 2026-08-24 | Intervening in the 30-Year Is a Great Signal | articles/markets/2026-08-24-intervening-in-the-30-year-is-a-great-signal.md
+- 2026-08-21 | Where Does the Money Come From? | articles/markets/2026-08-21-where-does-the-money-come-from.md
 - 2026-08-20 | The Market Is Short on Cash | articles/markets/2026-08-20-the-market-is-short-on-cash.md
 
 ### US stocks and valuation
@@ -90,7 +92,10 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - 2026-08-24 | Intervening in the 30-Year Is a Great Signal | articles/markets/2026-08-24-intervening-in-the-30-year-is-a-great-signal.md
 - 2026-08-23 | Options: Many Plays, Same Premise | articles/markets/2026-08-23-options-many-plays-same-premise.md
 - 2026-08-22 | Riding Tesla and Bitcoin's Breakout | articles/tesla/2026-08-22-riding-tesla-and-bitcoins-breakout.md
+- 2026-08-21 | Where Does the Money Come From? | articles/markets/2026-08-21-where-does-the-money-come-from.md
+- 2026-08-21 | Ten Years to Turn, Half a Day for Bitcoin | articles/markets/2026-08-21-half-a-day-of-bitcoin.md
 - 2026-08-20 | The Market Is Short on Cash | articles/markets/2026-08-20-the-market-is-short-on-cash.md
+- 2026-08-19 | BTC at 68,000 | articles/markets/2026-08-19-btc-at-68000.md
 - 2026-08-15 | My SPCX Got Called Away at 135 | articles/tesla/2026-08-15-spcx-called-away-at-135.md
 
 ### AI tools and agents
@@ -104,6 +109,7 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - 2026-09-23 | The Real AGI Era Is Here: From Team Lead to Running Your Own Company | articles/ai/2026-09-23-the-real-agi-era-is-here.md
 - 2026-09-20 | For Anyone Who Still Doesn't Know What AI Can Do | articles/ai/2026-09-20-for-anyone-who-doesnt-know-what-ai-can-do.md
 - 2026-09-14 | Maybe Today Is the Starting Gun | articles/markets/2026-09-14-maybe-today-is-the-starting-gun.md
+- 2026-08-18 | My Answer Key for This AI Cycle | articles/tesla/2026-08-18-my-answer-key-for-this-ai-cycle.md
 
 ### Life and mindset
 
