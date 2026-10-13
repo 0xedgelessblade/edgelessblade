@@ -58,6 +58,10 @@ As of October 2026.
 - 2026-09-04 | Covering the Dip, Per Usual | articles/tesla/2026-09-04-covering-the-dip-per-usual.md
 - 2026-09-03 | To the Tesla Battles We Fought | articles/tesla/2026-09-03-to-the-tesla-battles-we-fought.md
 - 2026-09-01 | Carried by My Good-for-Nothing Son | articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md
+- 2026-08-28 | Texas Robotaxi Fleet Hits 270 | articles/tesla/2026-08-28-texas-robotaxi-fleet-hits-270.md
+- 2026-08-22 | Riding Tesla and Bitcoin's Breakout | articles/tesla/2026-08-22-riding-tesla-and-bitcoins-breakout.md
+- 2026-08-15 | My SPCX Got Called Away at 135 | articles/tesla/2026-08-15-spcx-called-away-at-135.md
+- 2026-08-14 | Tesla Gets a Nevada Permit for Ten Cars | articles/tesla/2026-08-14-nevada-permit-for-ten-cars.md
 
 ### US Treasury yields and interest rates
 
@@ -72,9 +76,11 @@ As of October 2026.
 - 2026-09-02 | Standing With Bessent on Rates and AI | articles/markets/2026-09-02-standing-with-bessent-on-rates-and-ai.md
 - 2026-08-27 | On Collateral | articles/markets/2026-08-27-on-collateral.md
 - 2026-08-24 | Intervening in the 30-Year Is a Great Signal | articles/markets/2026-08-24-intervening-in-the-30-year-is-a-great-signal.md
+- 2026-08-20 | The Market Is Short on Cash | articles/markets/2026-08-20-the-market-is-short-on-cash.md
 
 ### US stocks and valuation
 
+- 2026-10-13 | Investing Is Like Playing Baseball | articles/markets/2026-10-13-investing-is-like-baseball.md
 - 2026-10-02 | When AI Does the Price-Comparing, Hassle Stops Being a Moat | articles/markets/2026-10-02-ai-price-comparison-erodes-the-hassle-moat.md
 - 2026-10-01 | Introduction: Where I Stand on the Market | articles/markets/2026-10-01-introduction.md
 - 2026-09-30 | Adding GOOG, Waiting for META at 640 | articles/markets/2026-09-30-adding-goog-waiting-for-meta-at-640.md
@@ -99,9 +105,13 @@ As of October 2026.
 - 2026-08-25 | Stop Measuring Your Assets by Your Monthly Salary | articles/markets/2026-08-25-stop-measuring-assets-by-your-salary.md
 - 2026-08-24 | Intervening in the 30-Year Is a Great Signal | articles/markets/2026-08-24-intervening-in-the-30-year-is-a-great-signal.md
 - 2026-08-23 | Options: Many Plays, Same Premise | articles/markets/2026-08-23-options-many-plays-same-premise.md
+- 2026-08-22 | Riding Tesla and Bitcoin's Breakout | articles/tesla/2026-08-22-riding-tesla-and-bitcoins-breakout.md
+- 2026-08-20 | The Market Is Short on Cash | articles/markets/2026-08-20-the-market-is-short-on-cash.md
+- 2026-08-15 | My SPCX Got Called Away at 135 | articles/tesla/2026-08-15-spcx-called-away-at-135.md
 
 ### AI tools and agents
 
+- 2026-10-12 | I Built an Alaska Miles Award Finder | articles/ai/2026-10-12-i-built-an-alaska-miles-award-finder.md
 - 2026-10-06 | A New Era: Booking EVA Air Award Tickets Through Live Text Chat | articles/ai/2026-10-06-eva-award-tickets-via-live-text-chat.md
 - 2026-10-02 | When AI Does the Price-Comparing, Hassle Stops Being a Moat | articles/markets/2026-10-02-ai-price-comparison-erodes-the-hassle-moat.md
 - 2026-10-02 | Meta's Muse Is Buying Your Inbox with Tokens | articles/ai/2026-10-02-metas-muse-buys-your-inbox-with-tokens.md
@@ -113,6 +123,8 @@ As of October 2026.
 
 ### Life and mindset
 
+- 2026-10-13 | Investing Is Like Playing Baseball | articles/markets/2026-10-13-investing-is-like-baseball.md
+- 2026-10-12 | I Built an Alaska Miles Award Finder | articles/ai/2026-10-12-i-built-an-alaska-miles-award-finder.md
 - 2026-10-11 | I Meant to Book One Ticket, and Ended Up Planning the Whole Year | articles/life/2026-10-11-one-ticket-turned-into-a-years-holidays.md
 - 2026-10-03 | For People Just Starting Out | articles/life/2026-10-03-for-people-just-starting-out.md
 - 2026-09-30 | Easy Wins in Life | articles/life/2026-09-30-easy-wins-in-life.md
@@ -124,6 +136,7 @@ As of October 2026.
 - 2026-09-17 | Find the Camp That's Your Calling | articles/markets/2026-09-17-find-the-camp-that-is-your-calling.md
 - 2026-09-12 | Hede Fashion Outlet: Discounts So Deep They Break Bones | articles/life/2026-09-12-hede-fashion-outlet-bone-breaking-discounts.md
 - 2026-09-09 | Already Have a Dryer, a Dishwasher and a Robot Vacuum? Get a Food Waste Processor | articles/life/2026-09-09-get-a-food-waste-processor.md
+- 2026-08-31 | They Choose to Trust Themselves | articles/life/2026-08-31-they-choose-to-trust-themselves.md
 - 2026-08-26 | Credit Is a Divine Weapon | articles/markets/2026-08-26-credit-is-a-divine-weapon.md
 - 2026-08-25 | Stop Measuring Your Assets by Your Monthly Salary | articles/markets/2026-08-25-stop-measuring-assets-by-your-salary.md
 <!-- topics:end -->
@@ -132,6 +145,8 @@ As of October 2026.
 
 | Date | Category | Title | Path |
 |---|---|---|---|
+| 2026-10-13 | markets | [Investing Is Like Playing Baseball](articles/markets/2026-10-13-investing-is-like-baseball.md) | `articles/markets/2026-10-13-investing-is-like-baseball.md` |
+| 2026-10-12 | ai | [I Built an Alaska Miles Award Finder](articles/ai/2026-10-12-i-built-an-alaska-miles-award-finder.md) | `articles/ai/2026-10-12-i-built-an-alaska-miles-award-finder.md` |
 | 2026-10-11 | life | [I Meant to Book One Ticket, and Ended Up Planning the Whole Year](articles/life/2026-10-11-one-ticket-turned-into-a-years-holidays.md) | `articles/life/2026-10-11-one-ticket-turned-into-a-years-holidays.md` |
 | 2026-10-10 | tesla | [Covering the Retreat Again, Then Trimming My TSLL](articles/tesla/2026-10-10-covering-the-retreat-then-trimming-tsll.md) | `articles/tesla/2026-10-10-covering-the-retreat-then-trimming-tsll.md` |
 | 2026-10-09 | tesla | [Tesla Fleet Daily: 150 More Cybercabs in Texas](articles/tesla/2026-10-09-tesla-fleet-daily.md) | `articles/tesla/2026-10-09-tesla-fleet-daily.md` |
@@ -171,14 +186,22 @@ As of October 2026.
 | 2026-09-06 | markets | [Maybe the Weather Is Turning](articles/markets/2026-09-06-maybe-the-weather-is-turning.md) | `articles/markets/2026-09-06-maybe-the-weather-is-turning.md` |
 | 2026-09-05 | tesla | [NHTSA Looks Like the Real Bull](articles/tesla/2026-09-05-nhtsa-looks-like-the-real-bull.md) | `articles/tesla/2026-09-05-nhtsa-looks-like-the-real-bull.md` |
 | 2026-09-04 | markets | [Bitcoin's 200-Day MA Turns Up](articles/markets/2026-09-04-bitcoins-200-day-ma-turns-up.md) | `articles/markets/2026-09-04-bitcoins-200-day-ma-turns-up.md` |
+| 2026-09-04 | tesla | [Covering the Dip, Per Usual](articles/tesla/2026-09-04-covering-the-dip-per-usual.md) | `articles/tesla/2026-09-04-covering-the-dip-per-usual.md` |
 | 2026-09-03 | markets | [The Casino Whose Chips Are Metal](articles/markets/2026-09-03-the-casino-whose-chips-are-metal.md) | `articles/markets/2026-09-03-the-casino-whose-chips-are-metal.md` |
+| 2026-09-03 | tesla | [To the Tesla Battles We Fought](articles/tesla/2026-09-03-to-the-tesla-battles-we-fought.md) | `articles/tesla/2026-09-03-to-the-tesla-battles-we-fought.md` |
 | 2026-09-02 | markets | [Standing With Bessent on Rates and AI](articles/markets/2026-09-02-standing-with-bessent-on-rates-and-ai.md) | `articles/markets/2026-09-02-standing-with-bessent-on-rates-and-ai.md` |
 | 2026-09-01 | tesla | [Carried by My Good-for-Nothing Son](articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md) | `articles/tesla/2026-09-01-carried-by-my-good-for-nothing-son.md` |
+| 2026-08-31 | life | [They Choose to Trust Themselves](articles/life/2026-08-31-they-choose-to-trust-themselves.md) | `articles/life/2026-08-31-they-choose-to-trust-themselves.md` |
+| 2026-08-28 | tesla | [Texas Robotaxi Fleet Hits 270](articles/tesla/2026-08-28-texas-robotaxi-fleet-hits-270.md) | `articles/tesla/2026-08-28-texas-robotaxi-fleet-hits-270.md` |
 | 2026-08-27 | markets | [On Collateral](articles/markets/2026-08-27-on-collateral.md) | `articles/markets/2026-08-27-on-collateral.md` |
 | 2026-08-26 | markets | [Credit Is a Divine Weapon](articles/markets/2026-08-26-credit-is-a-divine-weapon.md) | `articles/markets/2026-08-26-credit-is-a-divine-weapon.md` |
 | 2026-08-25 | markets | [Stop Measuring Your Assets by Your Monthly Salary](articles/markets/2026-08-25-stop-measuring-assets-by-your-salary.md) | `articles/markets/2026-08-25-stop-measuring-assets-by-your-salary.md` |
 | 2026-08-24 | markets | [Intervening in the 30-Year Is a Great Signal](articles/markets/2026-08-24-intervening-in-the-30-year-is-a-great-signal.md) | `articles/markets/2026-08-24-intervening-in-the-30-year-is-a-great-signal.md` |
 | 2026-08-23 | markets | [Options: Many Plays, Same Premise](articles/markets/2026-08-23-options-many-plays-same-premise.md) | `articles/markets/2026-08-23-options-many-plays-same-premise.md` |
+| 2026-08-22 | tesla | [Riding Tesla and Bitcoin's Breakout](articles/tesla/2026-08-22-riding-tesla-and-bitcoins-breakout.md) | `articles/tesla/2026-08-22-riding-tesla-and-bitcoins-breakout.md` |
+| 2026-08-20 | markets | [The Market Is Short on Cash](articles/markets/2026-08-20-the-market-is-short-on-cash.md) | `articles/markets/2026-08-20-the-market-is-short-on-cash.md` |
+| 2026-08-15 | tesla | [My SPCX Got Called Away at 135](articles/tesla/2026-08-15-spcx-called-away-at-135.md) | `articles/tesla/2026-08-15-spcx-called-away-at-135.md` |
+| 2026-08-14 | tesla | [Tesla Gets a Nevada Permit for Ten Cars](articles/tesla/2026-08-14-nevada-permit-for-ten-cars.md) | `articles/tesla/2026-08-14-nevada-permit-for-ten-cars.md` |
 
 ## Not to be confused with
 

@@ -17,6 +17,93 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - Topics: US equities, index valuation, US Treasury market, Tesla (TSLA), TSLL, TSLA/SPCX relative strength, trading psychology, niche building for individual creators
 
 =====
+File: articles/markets/2026-10-13-investing-is-like-baseball.md
+
+# Investing Is Like Playing Baseball
+
+**Date:** 2026-10-13
+
+---
+
+Investing is like playing baseball
+and the kind with especially simple rules
+
+Watch three good pitches go by, and you're not out
+Even stand there and watch 100 good pitches, and you're still not out
+
+But swing and miss three times, and you really are out
+
+The market offers chances every day,
+but you don't need to take every one of them
+
+The most important skill in investing isn't just knowing when to swing, it's knowing that when you can't read the pitch, you don't need to swing at all
+
+Be patient inside your own edge
+and wait for the market's worst mistake pitch
+
+## Replies
+
+> Reader: I thought it was a straight fastball, but the moment I swung it broke sideways and dropped too......
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DebOuMhDthQ
+
+=====
+File: articles/ai/2026-10-12-i-built-an-alaska-miles-award-finder.md
+
+# I Built an Alaska Miles Award Finder
+
+**Date:** 2026-10-12
+
+---
+
+Too many tokens lying around
+so I built an Alaska miles award-ticketing tool
+
+I kept it as lightweight as possible:
+flights departing from Taiwan or flying back to Taiwan
+
+It only covers 7,500-mile economy and 15,000-mile business awards, including seats remaining
+
+People who know how to search can honestly just do it themselves. This is mainly for the lightest users
+
+It does use Google sign-in, but not because I want anyone's personal data
+it's because I'm afraid scrapers will hammer the site to death
+Can't beat the scrapers, so I beat the accounts instead🤣
+
+Anyone who's known me a while knows
+nothing annoys me more than websites that force you to log in
+So I kept a no-login option
+you can still see routes on the map and the seats left on the next few flights
+
+If you want award seats within the next 60 days, just sign in with your Google account
+
+If you want award seats out to 330 days
+that one's paid
+for now it's US$3 for 6 months
+just a way for you all to chip in on the site's costs
+Anyone who knows me also knows the thing I say most:
+if a site lets you subscribe month to month, never subscribe for longer than a month
+But Stripe's cut on tiny payments is just too high
+so I'm reluctantly charging six months at a time🤣
+If my site shuts down within those six months, everyone gets refunded, minus the processing fee
+so that's a US$2.50 refund
+
+After all, I built it because I love using it myself
+and then made it free for my group members
+Anyone in the group who hasn't activated it yet, just come to me and I'll set you up with free 330-day searches
+
+Original post: https://www.threads.com/@edgeless.blade/post/DeY2TgcjjuA
+
+---
+
+miles.edgelessblade.com
+Forgot to include the link🤣
+
+Original post: https://www.threads.com/@edgeless.blade/post/DeY3BqIDgTO
+
+=====
 File: articles/life/2026-10-11-one-ticket-turned-into-a-years-holidays.md
 
 # I Meant to Book One Ticket, and Ended Up Planning the Whole Year
@@ -2744,6 +2831,123 @@ and we just took another small step forward
 Original post: https://www.threads.com/@edgeless.blade/post/Dcu9WUviMxr
 
 =====
+File: articles/life/2026-08-31-they-choose-to-trust-themselves.md
+
+# They Choose to Trust Themselves
+
+**Date:** 2026-08-31
+
+---
+
+Everyone's way of making big money is a little different
+but what I've noticed is
+at the crucial moment, they all chose to trust themselves
+
+## Replies
+
+> Reader: Because you never see the ones who failed
+> Survivorship bias
+
+Necessary, not sufficient
+
+> Reader: True. Whenever anyone asks me, I open the app and show them the stock that's been doing terribly lately but that I deeply believe in.... wait, where'd my position go?
+
+> Reader: Trade what you understand🙋🏻‍♀️
+
+That's the right way
+
+> Reader: Same when you're losing money
+
+Profit and loss spring from the same source
+
+> Reader: Think September brings a big washout?
+
+Honestly, the best path would have been
+a surprise hike in July
+Warsh would have built credibility on the spot
+and every policy after that would be easy
+Instead it's dragged on to September
+and if it drags again, it's December
+Leaving it hanging is bad
+Hike in July and by now we'd be free and clear
+and the stock market could slowly climb out
+There's also a CLARITY Act vote on 9/15
+which I'm really looking forward to
+
+> Reader: Hits home
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DcsiKF_EVff
+
+=====
+File: articles/tesla/2026-08-28-texas-robotaxi-fleet-hits-270.md
+
+# Texas Robotaxi Fleet Hits 270
+
+**Date:** 2026-08-28
+
+---
+
+Tesla registered 79 more Model Ys as Texas Robotaxi vehicles, bringing the registered Texas fleet to 270.
+
+I went and checked the website
+100 cars per page
+and it really does go to page three
+270 should be about right
+
+Today TSLA is set to rise 0.79%
+Don't laugh, don't laugh, don't laugh
+Next time they add 1,000 cars
+don't come crying with envy🤣
+
+![Texas Robotaxi vehicle registration list, page 1](../../images/Dck24xwkWzi-1.jpg)
+
+![Texas Robotaxi vehicle registration list, continued](../../images/Dck24xwkWzi-2.jpg)
+
+## Replies
+
+> Reader: My lord Chancellor, is the east wind rising?
+
+Judging by the texture of the leather jacket, that's AI
+
+> Reader: A 0.79% gain counts as a moonshot these days🥲
+
+Contentment is its own reward🥸
+
+> Reader: I'll wait patiently
+> wait patiently, wait patiently
+> wait patiently
+
+You've waited this long already
+miss out now and you'll be kicking yourself
+and the odds look even better than last week🥸
+
+> Reader: Back in May it was still 577 to 42.
+> They're catching up fast, but registered doesn't mean on the road.
+
+Right
+Registration is just the step before hitting the road
+
+> Reader: We're that lucky, huh~~
+
+Good thing Tesla has nothing going for it
+except having the most cars
+Pull one off the factory line any time and there's another
+
+> Reader: Hey hey hey.. it's turned red... TSLA forever
+
+Warsh has spoken
+he's the boss
+no big deal
+with time the odds
+keep getting better
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/Dck24xwkWzi
+
+=====
 File: articles/markets/2026-08-27-on-collateral.md
 
 # On Collateral
@@ -3149,3 +3353,204 @@ Finding the field where you have talent matters
 ---
 
 Original post: https://www.threads.com/@edgeless.blade/post/DcXjcsDiO3G
+
+=====
+File: articles/tesla/2026-08-22-riding-tesla-and-bitcoins-breakout.md
+
+# Riding Tesla and Bitcoin's Breakout
+
+**Date:** 2026-08-22
+
+---
+
+Thanks to Tesla and Bitcoin breaking out
+I made back quite a lot this week
+My overall account is up NT$40 million
+
+Yesterday I saw the TSLA news out of Nevada: the deployment permit went from 10 cars to 5,000, so before the open I added another 9,000 shares of TSLL
+
+My reasoning: the stock is priced for low expectations
+and the market loves linear extrapolation
+One state approves 5,000 cars
+What if the next state approves another 5,000?
+
+What the market worries about isn't FSD's ability to make money
+it's the risk that it never gets delivered
+plus the fear of negative free cash flow
+Over the past few trading days
+both fears have eased a little
+
+Finally, about the merger
+Tesla's last annual shareholder meeting was on 11/6
+Under the 13-month rule, I figure the next one has to be held before 12/6, and the date is usually announced about 1-2 months ahead, so the day really isn't far off
+The most fascinating thing about long-term investing is
+miss just a few days of gains
+and your whole year's work is for nothing
+
+![Screenshot attached to the original post](../../images/DcVMYk3CH9X-1.jpg)
+
+## Replies
+
+> Reader: The hardest part of long-term investing may not be calling the direction right, but having enough patience to hold on once you have. Missing a few days of gains is a real shame, but chasing the price so you don't miss out makes it even easier to turn a long-term investment into short-term trading: buying high and selling low.
+
+Neither is easy
+
+> Reader: Amazing! Gotta hold Tesla tight, can't miss this wave
+
+I hope the fundamentals keep changing
+It's about time they did
+
+> Reader: So fierce. Can't imagine what the real breakout will look like😆
+
+Same life as always☺️
+
+> Reader: Big bro
+
+> Reader: That's brutal
+
+One good week of business feeds me for months😺
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DcVMYk3CH9X
+
+=====
+File: articles/markets/2026-08-20-the-market-is-short-on-cash.md
+
+# The Market Is Short on Cash
+
+**Date:** 2026-08-20
+
+---
+
+It's been a long time since I clawed back over 10 million in a single day
+
+The market is short on cash
+Market cap and cash are two different things
+
+Market cap can be very high
+while the market is still starved for cash
+
+This time the buyback of long-dated Treasuries doubled
+easing the duration risk the market had been worried about
+and the pricing of risk assets reacted right away
+especially companies with negative free cash flow
+(yes, that means TSLA 🤣)
+
+There are more and more trillion-dollar monsters in the stock market now
+The SPCX IPO alone soaked up a lot of the market's cash
+and still to come are the Anthropic and OpenAI IPOs, which should turn into trillion-dollar behemoths too
+
+The market has been short of money for a long time
+How do you cure it at the root?
+Expand the US dollar money supply again
+
+The good news is
+at least we've found where the Bessent put sits😁
+
+![Screenshot attached to the original post](../../images/DcQBMApCK27-1.jpg)
+
+![Screenshot attached to the original thread](../../images/DcQGu1kCFLf-1.jpg)
+
+![Screenshot attached to the original thread (third-party name masked)](../../images/DcQGu1kCFLf-2.jpg)
+
+## Replies
+
+> Reader: Pretty strange that it still hasn't printed one big candle. Keep adding!
+
+Fierce
+
+> Reader: It's only been 5 days, boss
+
+Really?
+Let me go back and check
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DcQBMApCK27
+Thread continuation: https://www.threads.com/@edgeless.blade/post/DcQGu1kCFLf
+
+=====
+File: articles/tesla/2026-08-15-spcx-called-away-at-135.md
+
+# My SPCX Got Called Away at 135
+
+**Date:** 2026-08-15
+
+---
+
+My 1,000 shares of SPCX got called away at 135
+ending a roughly month-long sell-call journey
+Then last night I got so caught up chatting that I lost track of time
+and forgot to set another sell put to keep the wheel strategy going
+So now here's the problem
+what do I do with the extra cash?
+After some thought, I just stuffed it into TSLA after hours🤣
+Another 400 shares makes an even 3,000
+We old Taiwan-stock hands just love a share count in neat thousands
+
+![Screenshot attached to the original post](../../images/DcDXvJ6Dp0K-1.jpg)
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DcDXvJ6Dp0K
+
+=====
+File: articles/tesla/2026-08-14-nevada-permit-for-ten-cars.md
+
+# Tesla Gets a Nevada Permit for Ten Cars
+
+**Date:** 2026-08-14
+
+---
+
+Tesla got an operating permit in Nevada for ten cars🤣
+
+"Tesla Robotaxi, LLC is hereby granted this Autonomous Vehicle Network Company Permit, Permit No. AVNC Permit 002."
+"The operating fleet shall be limited to a maximum of ten (10) fully autonomous vehicles."
+"Authorized to operate as an Autonomous Vehicle Network Company (AVNC), transporting passengers and their personal baggage in fully autonomous vehicles."
+"Operating area: Clark County, further restricted to the Las Vegas Strip corridor."
+
+Ten cars and the stock goes up $10
+What happens at 100?🤯
+According to the recent Tesla sermon
+Tesla's current push is state by state, aiming for statewide permits
+
+## Replies
+
+> Reader: Up a dollar per car, buckle your seatbelt tight
+
+I don't dare imagine 100 cars
+or the day it opens up state by state
+
+> Reader: Still money in the drawer, adding more!
+
+> Reader: Master Sword, Dad, I almost thought Tesla had quit making cars
+
+Quitting might actually be a good thing
+Cars don't earn much of a valuation
+The power of having the whole industry in one hand
+still isn't priced in enough🥹
+It could have carried four people
+but they insisted on designing it for two
+That decision
+will only look more golden over time
+
+> Reader: Never thought of that at all. With fewer riders per car, wouldn't you need more cars on the road? (Though it does seem more nimble)
+
+> Reader: You really think I think I'm some die-hard fanboy, that easy to trick into buying off the news?
+
+> Reader: 10 cars, 10%; 100 cars, 100%
+
+Addition is already tempting enough
+Multiplication I don't dare imagine
+
+> Reader: Ten thousand cars would be... too beautiful
+
+Pretty as a picture
+
+> Reader: 😂Right now it's just a starter license for 10 cars; what matters is getting commercial operating approval. I still need to learn from you and join your group
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DcAuUz1jl21
