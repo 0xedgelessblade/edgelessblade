@@ -47,6 +47,7 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - 2026-08-18 | My Answer Key for This AI Cycle | articles/tesla/2026-08-18-my-answer-key-for-this-ai-cycle.md
 - 2026-08-15 | My SPCX Got Called Away at 135 | articles/tesla/2026-08-15-spcx-called-away-at-135.md
 - 2026-08-14 | Tesla Gets a Nevada Permit for Ten Cars | articles/tesla/2026-08-14-nevada-permit-for-ten-cars.md
+- 2026-08-09 | Why TSLL Can Decouple on a Huge Up Day | articles/tesla/2026-08-09-why-tsll-can-decouple-on-a-huge-up-day.md
 
 ### US Treasury yields and interest rates
 
@@ -97,9 +98,12 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - 2026-08-20 | The Market Is Short on Cash | articles/markets/2026-08-20-the-market-is-short-on-cash.md
 - 2026-08-19 | BTC at 68,000 | articles/markets/2026-08-19-btc-at-68000.md
 - 2026-08-15 | My SPCX Got Called Away at 135 | articles/tesla/2026-08-15-spcx-called-away-at-135.md
+- 2026-08-09 | Why TSLL Can Decouple on a Huge Up Day | articles/tesla/2026-08-09-why-tsll-can-decouple-on-a-huge-up-day.md
+- 2026-08-07 | Clarity Act Delayed, Bitcoin Still Stuck Around 64,000 | articles/markets/2026-08-07-clarity-act-delayed-bitcoin-and-ibit.md
 
 ### AI tools and agents
 
+- 2026-10-13 | Alaska Miles Are Ridiculously Easy Right Now — I Booked Eight Business Awards | articles/ai/2026-10-13-alaska-miles-too-easy-eight-business-awards.md
 - 2026-10-12 | I Built an Alaska Miles Award Finder | articles/ai/2026-10-12-i-built-an-alaska-miles-award-finder.md
 - 2026-10-06 | A New Era: Booking EVA Air Award Tickets Through Live Text Chat | articles/ai/2026-10-06-eva-award-tickets-via-live-text-chat.md
 - 2026-10-02 | When AI Does the Price-Comparing, Hassle Stops Being a Moat | articles/markets/2026-10-02-ai-price-comparison-erodes-the-hassle-moat.md
@@ -114,6 +118,7 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 ### Life and mindset
 
 - 2026-10-13 | Investing Is Like Playing Baseball | articles/markets/2026-10-13-investing-is-like-baseball.md
+- 2026-10-13 | Alaska Miles Are Ridiculously Easy Right Now — I Booked Eight Business Awards | articles/ai/2026-10-13-alaska-miles-too-easy-eight-business-awards.md
 - 2026-10-12 | I Built an Alaska Miles Award Finder | articles/ai/2026-10-12-i-built-an-alaska-miles-award-finder.md
 - 2026-10-11 | I Meant to Book One Ticket, and Ended Up Planning the Whole Year | articles/life/2026-10-11-one-ticket-turned-into-a-years-holidays.md
 - 2026-10-03 | For People Just Starting Out | articles/life/2026-10-03-for-people-just-starting-out.md
