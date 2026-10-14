@@ -11,8 +11,18 @@ FOLDER_FALLBACK = {"tesla": [T], "markets": [U], "ai": [A], "life": [L]}
 
 # Filled by reading each article (title + opening lines). Keyed by relative path.
 TOPICS = {
+    "articles/tesla/2026-07-30-hell-train-boarding.md": [T],
+    "articles/tesla/2026-08-03-spcx-wheel-and-spotting-scams.md": [T, U],
+    "articles/tesla/2026-08-04-hell-train-tsll-last-4000-shares.md": [T, U],
+    "articles/markets/2026-08-05-clarity-act-odds-ibit-ethb-and-spcx.md": [U],
+    "articles/markets/2026-08-06-clarity-act-this-week-ibit-long-strangle.md": [U],
     "articles/markets/2026-08-07-clarity-act-delayed-bitcoin-and-ibit.md": [U],
     "articles/tesla/2026-08-09-why-tsll-can-decouple-on-a-huge-up-day.md": [T, U],
+    "articles/tesla/2026-08-13-spcx-about-to-get-called-away.md": [T, U],
+    "articles/tesla/2026-08-12-tsll-assigned-another-8000-shares.md": [T, U],
+    "articles/tesla/2026-08-11-my-1000-shares-of-boundless-ocean.md": [T, U],
+    "articles/life/2026-08-10-tuna-belly-at-the-market.md": [L],
+    "articles/tesla/2026-08-08-spcx-1000-shares-cost-135.md": [T, U],
     "articles/ai/2026-10-13-alaska-miles-too-easy-eight-business-awards.md": [A, L],
     "articles/markets/2026-08-21-where-does-the-money-come-from.md": [R, U],
     "articles/markets/2026-08-21-half-a-day-of-bitcoin.md": [U],
