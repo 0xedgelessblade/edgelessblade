@@ -17,6 +17,120 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - Topics: US equities, index valuation, US Treasury market, Tesla (TSLA), TSLL, TSLA/SPCX relative strength, trading psychology, niche building for individual creators
 
 =====
+File: articles/tesla/2026-10-14-tesla-and-spacex-will-merge.md
+
+# I'm Increasingly Convinced Tesla and SpaceX Will Merge
+
+**Date:** 2026-10-14
+
+---
+
+I'm more and more convinced
+Tesla and SpaceX will merge in the end
+Put a few recent pieces of news side by side and it really is getting more and more interesting
+
+On October 8, SpaceX announced it had signed a deal to acquire a nationwide 800 MHz spectrum portfolio
+
+SpaceX was very clear: Starlink Mobile will combine satellites in space with terrestrial networks to fill in coverage, indoors included
+
+Reading that far, some people's first thought is: "So how much is SpaceX going to spend building cell towers next?"
+My first thought, though, was:
+Cybercab
+
+Because on Tesla's earnings call this July, Musk had already talked about two things:
+One, integrating Starlink into Cybercab to fix patchy mobile coverage.
+Two, the Starlink terminals in Tesla cars could potentially serve as a terrestrial relay for nearby phone or Wi-Fi users
+
+In other words, "the car provides internet on the side" is a direction Musk himself has already floated.
+What comes next is the business logic I find most interesting
+
+For a telecom company, more coverage usually means another round of spending on equipment, power, sites and maintenance
+
+But for a Cybercab fleet, the cars have to be bought anyway, they already have power, they're already on the road, and they already need a stable connection to operate
+Suppose that someday these cars could also provide connectivity to people nearby:
+the same car would get a shot at splitting its costs across two services, transport and telecom
+
+Especially at big events
+We've all been there: the concert lets out, everyone's packed shoulder to shoulder, phones just keep spinning, even hailing a ride freezes
+Traditional carriers might have to send in extra cell-on-wheels trucks for backup
+If Cybercab could double as a comms node in the future, the picture gets pretty funny:
+
+Everyone else's backup trucks drive out there specifically to patch the signal
+Cybercab gets paid a fare to go pick people up, and brings the comms gear to the scene while it's at it🤣
+Crowds create ride demand, and ride demand brings the cars right to the crowds
+One trip, a shot at two businesses
+
+So I see SpaceX's spectrum purchase as a puzzle piece that could also serve Tesla's fleet in the future
+On one side: satellites, spectrum and a communications network
+On the other: vehicles, batteries, and a self-driving fleet that may keep growing
+
+Cooperation doesn't have to mean a merger, I know that
+But my read is that the business case for a merger keeps growing
+
+Last of all, really, don't underestimate Cybercab
+The biggest advantage of a silicon-based vehicle is
+redeployment costs so low it's outrageous
+Wherever you send the fleet, the fleet goes
+As long as regulations don't stand in the way
+someday when a city hosts a big event, it could even pull in Cybercabs from the major cities within 100 to 200 kilometers around
+
+## Replies
+
+> Reader: Space car
+
+Musk should raffle off one lucky car first
+and shoot it into the sky
+
+> Reader: In terms of power, Musk has more say at SpaceX, so he can slowly give Tesla a shot at a merger route that works better for his whole blueprint!
+
+Looking back after the fact
+buying Twitter turned out right again
+but the fruit ripened on SPCX
+while Tesla shareholders put up the money
+
+> Reader: A merger will definitely happen, but it only becomes real after Tesla's Shanghai factory is carved out
+
+Honestly, I agree completely, there's a very good chance Tesla's China business gets cut loose
+After all, SPCX has too much US national business
+and possibly more and more of it
+
+> Reader: Curious, would a leveraged one like this just get liquidated?
+
+There's a very small chance tsll decouples
+I wrote a post about it before
+
+> Reader: I remember there's a Taiwan-listed software company that specializes in improving telecom coverage, and on the side uses the behavioral data from that traffic to push ads
+> If you made good use of every Cybercab's network-usage data, it could even become the No. 3 ad business, right behind Meta and Google
+
+There's one more thing too
+the Taiwan market really can find a supply-chain play to feast on in anything
+
+> Reader: Very likely, it's just that for national security reasons someone has to be found to take over the China factory
+
+Yes
+Just remember: when cutting off the China business causes a drop
+you must buy
+
+> Reader: Buying the car requires an SPCX subscription
+
+> Reader: Imagination is the biggest driving force behind investing in Tesla😭
+
+> Reader: Well, I'm a believer anyway
+
+LOL
+I believe it too
+Here's a sneak peek for you
+at tomorrow's post
+
+> Reader: Bottom line? To the moon!
+
+Bottom line: wait
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/Ded6SO5DkYd
+
+=====
 File: articles/markets/2026-10-13-investing-is-like-baseball.md
 
 # Investing Is Like Playing Baseball
@@ -4136,6 +4250,40 @@ They've been doing great all along
 Original post: https://www.threads.com/@edgeless.blade/post/DbsO8dQDmkN
 
 =====
+File: articles/life/2026-08-06-focusing-on-monthly-salary.md
+
+# Fixating on Your Monthly Salary
+
+**Date:** 2026-08-06
+
+---
+
+Fixate on your monthly salary
+and you'll misjudge your own level
+Down 1% this month? Not so bad, right😑
+Down several months' salary this month?
+AAAARGH the pain😖
+
+## Replies
+
+> Reader: Edgeless Daddy, save me, I've lost decades' worth
+
+How rich would you have to be for that?
+
+> Reader: Can't tell if it's my salary being low or my losses being big
+> Either way, I don't dare upsize my McDonald's fries anymore
+
+> Reader: Crying. I figure it'll take me another five years before 1% even equals a month's salary
+
+> Reader: Measuring losses in monthly salaries is a common cognitive bias. What matters is the drawdown as a share of total assets, not the absolute amount. Controlling overall volatility is the key.
+
+> Reader: It's not like you're planning to sell today, so what's this? Pulling the bread out of the oven half-baked to eat it? Super weird
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/Dbs39hKCOT9
+
+=====
 File: articles/markets/2026-08-05-clarity-act-odds-ibit-ethb-and-spcx.md
 
 # Clarity Act Odds Fading: Adding IBIT and ETHB, Selling SPCX Calls
@@ -4411,3 +4559,219 @@ and that's assuming you can even borrow the money
 ---
 
 Original post: https://www.threads.com/@edgeless.blade/post/DbZ5sbCCFQM
+
+=====
+File: articles/markets/2026-07-28-mstr-buys-back-strc.md
+
+# MSTR Stepped In to Buy Back STRC
+
+**Date:** 2026-07-28
+
+---
+
+mstr stepped in to buy back strc
+I don't think it's a good thing
+The best way through a crisis of trust is
+for STRC to keep paying its dividends steadily
+and let the market take the price up or down as it likes
+Once mstr
+calls out a price line of 86, below which it will buy back
+it takes on the duty of holding the price up
+When the price falls below 86 again
+MSTR = has put itself on the opposite side of the market
+The worst outcome is burning through huge amounts of capital fast, trying to hold above 86, then running out of cash and getting knocked flat
+I think MSTR's best move has always been
+to ignore the STRC price
+keep paying dividends
+and if it truly has capacity to spare
+it can announce a 0.5%-1% dividend increase
+and let the market react on its own
+rather than promise a price
+
+![Strategy press release: company repurchases $25 million of STRC; USD Reserve rises to $3.75 billion and will not fund repurchases](../../images/DbVD18vEbvx-1.jpg)
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DbVD18vEbvx
+
+=====
+File: articles/markets/2026-07-27-qqq-top-divergence.md
+
+# QQQ Keeps Tracing a Top Divergence
+
+**Date:** 2026-07-27
+
+---
+
+QQQ keeps tracing a top divergence
+paired with a surprise Fed rate hike in July
+
+A real 10% pullback to retest
+landing right on QQQ's 200-day moving average
+is a very possible scenario
+
+But what we need to think about is
+how is one hike or two hikes
+any different from a rate-hiking cycle in the traditional sense?
+
+Our scenario looks more like there's no room to keep hiking
+just 1-2 hikes to rein in inflation and that's enough
+
+So if there's only room for 1-2
+rather than a hiking cycle
+
+then the low can be predicted at the moment of peak panic around the 1st-2nd hike
+
+As for QQQ falling 10%
+how much does high-beta tsla fall?
+My estimate is also 10%
+because it was oversold before
+
+As for btc, less than 10%
+but if the CLARITY Act doesn't pass
+it'll have to catch down
+so maybe -15% overall
+
+![QQQ daily chart with orange downward arrows drawn over it](../../images/DbSXiYUiJm7-1.jpg)
+
+## Replies
+
+> Reader: That's just brutal
+
+> Reader: A surprise Fed hike in July?
+> Are you a time traveler from the future?
+
+I'm talking about this as a scenario
+
+> Reader: Tesla urgently needs a cheap model
+> otherwise no matter how high revenue gets
+> the margins will get eaten up
+> Robots and robotaxis haven't arrived yet
+> I'm afraid the money will be burned through first
+
+> Reader: This doesn't really look like a top divergence...
+
+> Reader: The macro environment really isn't right for hikes, it all depends on whether the war can wind down soon
+
+> Reader: Meta AI, has the US raised rates?
+
+> Meta AI: The US hasn't raised rates yet.
+> The Fed "held steady" in July. The market had priced in only about a 30% chance of a July hike, and in the end there was none. The federal funds rate is still in the 3.50%-3.75% range, and the June meeting also left it unchanged.
+> The "surprise July hike" the original poster mentioned hasn't happened, which is why a reader quipped, "Are you a time traveler from the future?"
+> That said, the market is pricing in roughly an 80% chance of a September hike, and Wall Street banks like BofA and Deutsche Bank are forecasting a possible 25 bp hike in September.
+
+> Reader: Over the weekend I was also looking at roughly 10%
+
+> Reader: Agreed, the dot plot supports this argument
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DbSXiYUiJm7
+
+=====
+File: articles/markets/2026-07-27-bitcoin-along-the-200-week-ma.md
+
+# Bitcoin Is Moving Along Its 200-Week Moving Average
+
+**Date:** 2026-07-27
+
+---
+
+Lately bitcoin has just been moving along its 200-week moving average
+The trend is OK, no big rally, no big drop either
+As long as the CLARITY Act talks haven't collapsed
+the market still has hope
+I'll keep holding my ibit position
+
+The US Senate goes into recess starting August 7
+Besides the senators' stance
+the big banks' stance matters a lot too
+Among the top 25 banks by assets in the Federal Reserve's rankings
+Goldman Sachs explicitly supports the latest July 22 text or advancing the bill
+JPMorgan Chase explicitly opposed the Senate's text at the time
+No clear position: 23 banks
+
+The way I see it
+having even one bank explicitly in support
+is already a bonus, no?
+The wind is picking up!
+
+## Replies
+
+> Reader: Awoooooooooooo
+
+> Reader: Bill passes: bearish short term, bullish long term. Just another day in crypto, works every single time
+
+Pump for a stretch
+then a dump out of nowhere
+then bullish long term
+
+> Reader: Exactly. They love pumping it before it passes to con the leeks (retail suckers), then after it passes, out of nowhere it's "all the good news is priced in" and they 🈹 (harvest) the leeks
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DbSR2BDCJ_a
+
+=====
+File: articles/life/2026-07-25-which-floor-you-live-on.md
+
+# Which Floor You Live On
+
+**Date:** 2026-07-25
+
+---
+
+When you live on the second floor
+you trade insults with people on the street
+When you live on the fifth floor
+you can hear passersby cursing you
+When you live on the tenth floor
+you think the people on the street are waving hello
+When you live on the 100th floor
+you go: Say what?
+I don't see any pedestrians
+You're asking where I live?
+I live on the ground floor🤣
+In all my years out in the world I've rarely argued with anyone
+Arguing with someone means:
+"You expected others to receive you with a higher standard of treatment"
+"But it didn't happen"
+But in my world
+if we run into each other
+it means we're still on the same floor
+If we're no longer on the same floor
+we naturally won't meet again
+
+## Replies
+
+> Reader: Daddy, I live on B20, save me (995)
+
+One more floor down and you're the B-21 elite bomber
+
+> Reader: If SpaceX drops again on Monday I'll get to fly the bomber
+
+> Reader: I used to be on the third floor, now I'm on B1. Still scooped up some shares this round
+> Love you
+
+Owners come and go
+Looking forward to you reaching the top floor
+
+> Reader: I live in the basement, so rough...
+> 🥹🥹
+
+Move up bit by bit
+
+> Reader: Going all out with the mosaic just for the clicks🤣
+> Tesla's ripping
+
+> Reader: Still out in the park...
+
+The park is the most complicated area
+
+> Reader: Daddy, if it keeps falling like this, is it time to pack our bags?
+
+Already abroad🤣
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DbNFPjdkXwe

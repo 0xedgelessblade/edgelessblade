@@ -47,6 +47,7 @@ As of October 2026.
 
 ### Tesla and TSLA
 
+- 2026-10-14 | I'm Increasingly Convinced Tesla and SpaceX Will Merge | articles/tesla/2026-10-14-tesla-and-spacex-will-merge.md
 - 2026-10-10 | Covering the Retreat Again, Then Trimming My TSLL | articles/tesla/2026-10-10-covering-the-retreat-then-trimming-tsll.md
 - 2026-10-09 | TSLA vs. SPCX: A Relative Strength Index for a Possible Acquisition | articles/tesla/2026-10-09-tsla-spcx-relative-strength-index.md
 - 2026-10-09 | Tesla Fleet Daily: 150 More Cybercabs in Texas | articles/tesla/2026-10-09-tesla-fleet-daily.md
@@ -87,9 +88,11 @@ As of October 2026.
 - 2026-08-24 | Intervening in the 30-Year Is a Great Signal | articles/markets/2026-08-24-intervening-in-the-30-year-is-a-great-signal.md
 - 2026-08-21 | Where Does the Money Come From? | articles/markets/2026-08-21-where-does-the-money-come-from.md
 - 2026-08-20 | The Market Is Short on Cash | articles/markets/2026-08-20-the-market-is-short-on-cash.md
+- 2026-07-27 | QQQ Keeps Tracing a Top Divergence | articles/markets/2026-07-27-qqq-top-divergence.md
 
 ### US stocks and valuation
 
+- 2026-10-14 | I'm Increasingly Convinced Tesla and SpaceX Will Merge | articles/tesla/2026-10-14-tesla-and-spacex-will-merge.md
 - 2026-10-13 | Investing Is Like Playing Baseball | articles/markets/2026-10-13-investing-is-like-baseball.md
 - 2026-10-02 | When AI Does the Price-Comparing, Hassle Stops Being a Moat | articles/markets/2026-10-02-ai-price-comparison-erodes-the-hassle-moat.md
 - 2026-10-01 | Introduction: Where I Stand on the Market | articles/markets/2026-10-01-introduction.md
@@ -128,9 +131,13 @@ As of October 2026.
 - 2026-08-08 | SPCX: 1,000 Shares at a Cost of 135 | articles/tesla/2026-08-08-spcx-1000-shares-cost-135.md
 - 2026-08-07 | Clarity Act Delayed, Bitcoin Still Stuck Around 64,000 | articles/markets/2026-08-07-clarity-act-delayed-bitcoin-and-ibit.md
 - 2026-08-06 | Clarity Act This Week: A Long Strangle on IBIT | articles/markets/2026-08-06-clarity-act-this-week-ibit-long-strangle.md
+- 2026-08-06 | Fixating on Your Monthly Salary | articles/life/2026-08-06-focusing-on-monthly-salary.md
 - 2026-08-05 | Clarity Act Odds Fading: Adding IBIT and ETHB, Selling SPCX Calls | articles/markets/2026-08-05-clarity-act-odds-ibit-ethb-and-spcx.md
 - 2026-08-04 | Off the Hell Train: The Last 4,000 TSLL Shares | articles/tesla/2026-08-04-hell-train-tsll-last-4000-shares.md
 - 2026-08-03 | Wheeling SPCX, and How to Spot Scams | articles/tesla/2026-08-03-spcx-wheel-and-spotting-scams.md
+- 2026-07-28 | MSTR Stepped In to Buy Back STRC | articles/markets/2026-07-28-mstr-buys-back-strc.md
+- 2026-07-27 | QQQ Keeps Tracing a Top Divergence | articles/markets/2026-07-27-qqq-top-divergence.md
+- 2026-07-27 | Bitcoin Is Moving Along Its 200-Week Moving Average | articles/markets/2026-07-27-bitcoin-along-the-200-week-ma.md
 
 ### AI tools and agents
 
@@ -166,13 +173,17 @@ As of October 2026.
 - 2026-08-26 | Credit Is a Divine Weapon | articles/markets/2026-08-26-credit-is-a-divine-weapon.md
 - 2026-08-25 | Stop Measuring Your Assets by Your Monthly Salary | articles/markets/2026-08-25-stop-measuring-assets-by-your-salary.md
 - 2026-08-10 | Tuna Belly at the Market | articles/life/2026-08-10-tuna-belly-at-the-market.md
+- 2026-08-06 | Fixating on Your Monthly Salary | articles/life/2026-08-06-focusing-on-monthly-salary.md
+- 2026-07-25 | Which Floor You Live On | articles/life/2026-07-25-which-floor-you-live-on.md
 <!-- topics:end -->
 
 ## Articles
 
 | Date | Category | Title | Path |
 |---|---|---|---|
+| 2026-10-14 | tesla | [I'm Increasingly Convinced Tesla and SpaceX Will Merge](articles/tesla/2026-10-14-tesla-and-spacex-will-merge.md) | `articles/tesla/2026-10-14-tesla-and-spacex-will-merge.md` |
 | 2026-10-13 | markets | [Investing Is Like Playing Baseball](articles/markets/2026-10-13-investing-is-like-baseball.md) | `articles/markets/2026-10-13-investing-is-like-baseball.md` |
+| 2026-10-13 | ai | [Alaska Miles Are Ridiculously Easy Right Now — I Booked Eight Business Awards](articles/ai/2026-10-13-alaska-miles-too-easy-eight-business-awards.md) | `articles/ai/2026-10-13-alaska-miles-too-easy-eight-business-awards.md` |
 | 2026-10-12 | ai | [I Built an Alaska Miles Award Finder](articles/ai/2026-10-12-i-built-an-alaska-miles-award-finder.md) | `articles/ai/2026-10-12-i-built-an-alaska-miles-award-finder.md` |
 | 2026-10-11 | life | [I Meant to Book One Ticket, and Ended Up Planning the Whole Year](articles/life/2026-10-11-one-ticket-turned-into-a-years-holidays.md) | `articles/life/2026-10-11-one-ticket-turned-into-a-years-holidays.md` |
 | 2026-10-10 | tesla | [Covering the Retreat Again, Then Trimming My TSLL](articles/tesla/2026-10-10-covering-the-retreat-then-trimming-tsll.md) | `articles/tesla/2026-10-10-covering-the-retreat-then-trimming-tsll.md` |
@@ -226,9 +237,30 @@ As of October 2026.
 | 2026-08-24 | markets | [Intervening in the 30-Year Is a Great Signal](articles/markets/2026-08-24-intervening-in-the-30-year-is-a-great-signal.md) | `articles/markets/2026-08-24-intervening-in-the-30-year-is-a-great-signal.md` |
 | 2026-08-23 | markets | [Options: Many Plays, Same Premise](articles/markets/2026-08-23-options-many-plays-same-premise.md) | `articles/markets/2026-08-23-options-many-plays-same-premise.md` |
 | 2026-08-22 | tesla | [Riding Tesla and Bitcoin's Breakout](articles/tesla/2026-08-22-riding-tesla-and-bitcoins-breakout.md) | `articles/tesla/2026-08-22-riding-tesla-and-bitcoins-breakout.md` |
+| 2026-08-21 | markets | [Ten Years to Turn, Half a Day for Bitcoin](articles/markets/2026-08-21-half-a-day-of-bitcoin.md) | `articles/markets/2026-08-21-half-a-day-of-bitcoin.md` |
+| 2026-08-21 | markets | [Where Does the Money Come From?](articles/markets/2026-08-21-where-does-the-money-come-from.md) | `articles/markets/2026-08-21-where-does-the-money-come-from.md` |
 | 2026-08-20 | markets | [The Market Is Short on Cash](articles/markets/2026-08-20-the-market-is-short-on-cash.md) | `articles/markets/2026-08-20-the-market-is-short-on-cash.md` |
+| 2026-08-19 | markets | [BTC at 68,000](articles/markets/2026-08-19-btc-at-68000.md) | `articles/markets/2026-08-19-btc-at-68000.md` |
+| 2026-08-18 | tesla | [My Answer Key for This AI Cycle](articles/tesla/2026-08-18-my-answer-key-for-this-ai-cycle.md) | `articles/tesla/2026-08-18-my-answer-key-for-this-ai-cycle.md` |
 | 2026-08-15 | tesla | [My SPCX Got Called Away at 135](articles/tesla/2026-08-15-spcx-called-away-at-135.md) | `articles/tesla/2026-08-15-spcx-called-away-at-135.md` |
 | 2026-08-14 | tesla | [Tesla Gets a Nevada Permit for Ten Cars](articles/tesla/2026-08-14-nevada-permit-for-ten-cars.md) | `articles/tesla/2026-08-14-nevada-permit-for-ten-cars.md` |
+| 2026-08-13 | tesla | [My SPCX Is About to Get Called Away](articles/tesla/2026-08-13-spcx-about-to-get-called-away.md) | `articles/tesla/2026-08-13-spcx-about-to-get-called-away.md` |
+| 2026-08-12 | tesla | [TSLL Assigned Another 8,000 Shares](articles/tesla/2026-08-12-tsll-assigned-another-8000-shares.md) | `articles/tesla/2026-08-12-tsll-assigned-another-8000-shares.md` |
+| 2026-08-11 | tesla | [My 1,000 Shares of Stars and Ocean](articles/tesla/2026-08-11-my-1000-shares-of-boundless-ocean.md) | `articles/tesla/2026-08-11-my-1000-shares-of-boundless-ocean.md` |
+| 2026-08-10 | life | [Tuna Belly at the Market](articles/life/2026-08-10-tuna-belly-at-the-market.md) | `articles/life/2026-08-10-tuna-belly-at-the-market.md` |
+| 2026-08-09 | tesla | [Why TSLL Can Decouple on a Huge Up Day](articles/tesla/2026-08-09-why-tsll-can-decouple-on-a-huge-up-day.md) | `articles/tesla/2026-08-09-why-tsll-can-decouple-on-a-huge-up-day.md` |
+| 2026-08-08 | tesla | [SPCX: 1,000 Shares at a Cost of 135](articles/tesla/2026-08-08-spcx-1000-shares-cost-135.md) | `articles/tesla/2026-08-08-spcx-1000-shares-cost-135.md` |
+| 2026-08-07 | markets | [Clarity Act Delayed, Bitcoin Still Stuck Around 64,000](articles/markets/2026-08-07-clarity-act-delayed-bitcoin-and-ibit.md) | `articles/markets/2026-08-07-clarity-act-delayed-bitcoin-and-ibit.md` |
+| 2026-08-06 | life | [Fixating on Your Monthly Salary](articles/life/2026-08-06-focusing-on-monthly-salary.md) | `articles/life/2026-08-06-focusing-on-monthly-salary.md` |
+| 2026-08-06 | markets | [Clarity Act This Week: A Long Strangle on IBIT](articles/markets/2026-08-06-clarity-act-this-week-ibit-long-strangle.md) | `articles/markets/2026-08-06-clarity-act-this-week-ibit-long-strangle.md` |
+| 2026-08-05 | markets | [Clarity Act Odds Fading: Adding IBIT and ETHB, Selling SPCX Calls](articles/markets/2026-08-05-clarity-act-odds-ibit-ethb-and-spcx.md) | `articles/markets/2026-08-05-clarity-act-odds-ibit-ethb-and-spcx.md` |
+| 2026-08-04 | tesla | [Off the Hell Train: The Last 4,000 TSLL Shares](articles/tesla/2026-08-04-hell-train-tsll-last-4000-shares.md) | `articles/tesla/2026-08-04-hell-train-tsll-last-4000-shares.md` |
+| 2026-08-03 | tesla | [Wheeling SPCX, and How to Spot Scams](articles/tesla/2026-08-03-spcx-wheel-and-spotting-scams.md) | `articles/tesla/2026-08-03-spcx-wheel-and-spotting-scams.md` |
+| 2026-07-30 | tesla | [Boarding the Hell Train](articles/tesla/2026-07-30-hell-train-boarding.md) | `articles/tesla/2026-07-30-hell-train-boarding.md` |
+| 2026-07-28 | markets | [MSTR Stepped In to Buy Back STRC](articles/markets/2026-07-28-mstr-buys-back-strc.md) | `articles/markets/2026-07-28-mstr-buys-back-strc.md` |
+| 2026-07-27 | markets | [Bitcoin Is Moving Along Its 200-Week Moving Average](articles/markets/2026-07-27-bitcoin-along-the-200-week-ma.md) | `articles/markets/2026-07-27-bitcoin-along-the-200-week-ma.md` |
+| 2026-07-27 | markets | [QQQ Keeps Tracing a Top Divergence](articles/markets/2026-07-27-qqq-top-divergence.md) | `articles/markets/2026-07-27-qqq-top-divergence.md` |
+| 2026-07-25 | life | [Which Floor You Live On](articles/life/2026-07-25-which-floor-you-live-on.md) | `articles/life/2026-07-25-which-floor-you-live-on.md` |
 
 ## Not to be confused with
 

@@ -11,6 +11,11 @@ FOLDER_FALLBACK = {"tesla": [T], "markets": [U], "ai": [A], "life": [L]}
 
 # Filled by reading each article (title + opening lines). Keyed by relative path.
 TOPICS = {
+    "articles/tesla/2026-10-14-tesla-and-spacex-will-merge.md": [T, U],
+    "articles/markets/2026-07-28-mstr-buys-back-strc.md": [U],
+    "articles/markets/2026-07-27-qqq-top-divergence.md": [U, R],
+    "articles/markets/2026-07-27-bitcoin-along-the-200-week-ma.md": [U],
+    "articles/life/2026-07-25-which-floor-you-live-on.md": [L],
     "articles/tesla/2026-07-30-hell-train-boarding.md": [T],
     "articles/tesla/2026-08-03-spcx-wheel-and-spotting-scams.md": [T, U],
     "articles/tesla/2026-08-04-hell-train-tsll-last-4000-shares.md": [T, U],
@@ -22,6 +27,7 @@ TOPICS = {
     "articles/tesla/2026-08-12-tsll-assigned-another-8000-shares.md": [T, U],
     "articles/tesla/2026-08-11-my-1000-shares-of-boundless-ocean.md": [T, U],
     "articles/life/2026-08-10-tuna-belly-at-the-market.md": [L],
+    "articles/life/2026-08-06-focusing-on-monthly-salary.md": [L, U],
     "articles/tesla/2026-08-08-spcx-1000-shares-cost-135.md": [T, U],
     "articles/ai/2026-10-13-alaska-miles-too-easy-eight-business-awards.md": [A, L],
     "articles/markets/2026-08-21-where-does-the-money-come-from.md": [R, U],
