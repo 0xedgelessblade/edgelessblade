@@ -47,6 +47,7 @@ As of October 2026.
 
 ### Tesla and TSLA
 
+- 2026-10-15 | Plan Your Trade, Trade Your Plan | articles/tesla/2026-10-15-plan-your-trade-trade-your-plan.md
 - 2026-10-14 | I'm Increasingly Convinced Tesla and SpaceX Will Merge | articles/tesla/2026-10-14-tesla-and-spacex-will-merge.md
 - 2026-10-10 | Covering the Retreat Again, Then Trimming My TSLL | articles/tesla/2026-10-10-covering-the-retreat-then-trimming-tsll.md
 - 2026-10-09 | TSLA vs. SPCX: A Relative Strength Index for a Possible Acquisition | articles/tesla/2026-10-09-tsla-spcx-relative-strength-index.md
@@ -77,6 +78,7 @@ As of October 2026.
 - 2026-07-23 | Tesla Flattened Me Right After I Bought | articles/tesla/2026-07-23-tesla-flattened-me-after-i-bought.md
 - 2026-07-23 | Another 5,000 TSLL at 8.86 | articles/tesla/2026-07-23-another-5000-tsll-at-8-86.md
 - 2026-07-21 | Mid-Barbecue, 120 TSLL Puts | articles/tesla/2026-07-21-grilling-tsll-120-puts.md
+- 2026-07-06 | Can You Feel It? Higher Lows | articles/tesla/2026-07-06-can-you-feel-it-higher-lows.md
 
 ### US Treasury yields and interest rates
 
@@ -97,6 +99,7 @@ As of October 2026.
 
 ### US stocks and valuation
 
+- 2026-10-15 | Plan Your Trade, Trade Your Plan | articles/tesla/2026-10-15-plan-your-trade-trade-your-plan.md
 - 2026-10-14 | I'm Increasingly Convinced Tesla and SpaceX Will Merge | articles/tesla/2026-10-14-tesla-and-spacex-will-merge.md
 - 2026-10-13 | Investing Is Like Playing Baseball | articles/markets/2026-10-13-investing-is-like-baseball.md
 - 2026-10-02 | When AI Does the Price-Comparing, Hassle Stops Being a Moat | articles/markets/2026-10-02-ai-price-comparison-erodes-the-hassle-moat.md
@@ -152,6 +155,9 @@ As of October 2026.
 - 2026-07-17 | Am I the Only One Stuck at the SPCX IPO Price? | articles/markets/2026-07-17-spcx-stuck-at-ipo-price.md
 - 2026-07-15 | Two Days Left: Will I Get Assigned 1000 Shares of SPCX? | articles/markets/2026-07-15-two-days-left-spcx-assignment.md
 - 2026-07-14 | My SPCX Puts Are Still On | articles/markets/2026-07-14-spcx-puts-still-on.md
+- 2026-07-06 | Can You Feel It? Higher Lows | articles/tesla/2026-07-06-can-you-feel-it-higher-lows.md
+- 2026-06-17 | SPCX Options Are Open | articles/markets/2026-06-17-spcx-options-are-open.md
+- 2026-06-15 | Picked Up 1,000 SPCX Before Friday's Close | articles/markets/2026-06-15-flipping-spcx-ipo-10000-profit.md
 
 ### AI tools and agents
 
@@ -191,12 +197,15 @@ As of October 2026.
 - 2026-07-29 | Every Time I'm Abroad, I Crave Sashimi | articles/life/2026-07-29-craving-sashimi-abroad.md
 - 2026-07-25 | Which Floor You Live On | articles/life/2026-07-25-which-floor-you-live-on.md
 - 2026-07-15 | How Do I Comfort the Teacher in Class Tomorrow? | articles/life/2026-07-15-how-do-i-comfort-the-teacher.md
+- 2026-07-10 | If You Rent Cars Abroad Several Times a Year | articles/life/2026-07-10-if-you-rent-cars-abroad-often.md
+- 2026-06-20 | Discovering Fire Series: Adding Cards to Apple Pay | articles/life/2026-06-20-discovering-fire-apple-pay-cards.md
 <!-- topics:end -->
 
 ## Articles
 
 | Date | Category | Title | Path |
 |---|---|---|---|
+| 2026-10-15 | tesla | [Plan Your Trade, Trade Your Plan](articles/tesla/2026-10-15-plan-your-trade-trade-your-plan.md) | `articles/tesla/2026-10-15-plan-your-trade-trade-your-plan.md` |
 | 2026-10-14 | tesla | [I'm Increasingly Convinced Tesla and SpaceX Will Merge](articles/tesla/2026-10-14-tesla-and-spacex-will-merge.md) | `articles/tesla/2026-10-14-tesla-and-spacex-will-merge.md` |
 | 2026-10-13 | markets | [Investing Is Like Playing Baseball](articles/markets/2026-10-13-investing-is-like-baseball.md) | `articles/markets/2026-10-13-investing-is-like-baseball.md` |
 | 2026-10-13 | ai | [Alaska Miles Are Ridiculously Easy Right Now — I Booked Eight Business Awards](articles/ai/2026-10-13-alaska-miles-too-easy-eight-business-awards.md) | `articles/ai/2026-10-13-alaska-miles-too-easy-eight-business-awards.md` |
@@ -222,10 +231,10 @@ As of October 2026.
 | 2026-09-22 | markets | [Time in the Market, Not Timing the Market](articles/markets/2026-09-22-time-in-the-market.md) | `articles/markets/2026-09-22-time-in-the-market.md` |
 | 2026-09-21 | life | [Permanent Residency Is Not a Passport](articles/life/2026-09-21-permanent-residency-is-not-a-passport.md) | `articles/life/2026-09-21-permanent-residency-is-not-a-passport.md` |
 | 2026-09-20 | ai | [For Anyone Who Still Doesn't Know What AI Can Do](articles/ai/2026-09-20-for-anyone-who-doesnt-know-what-ai-can-do.md) | `articles/ai/2026-09-20-for-anyone-who-doesnt-know-what-ai-can-do.md` |
-| 2026-09-19 | life | [Inawashiro and Nekoma: Two Weeks of Skiing, Straight Up](articles/life/2026-09-19-inawashiro-and-nekoma.md) | `articles/life/2026-09-19-inawashiro-and-nekoma.md` |
 | 2026-09-19 | markets | [Wait, Rate Hikes Make Stocks Go Up?](articles/markets/2026-09-19-wait-rate-hikes-make-stocks-go-up.md) | `articles/markets/2026-09-19-wait-rate-hikes-make-stocks-go-up.md` |
-| 2026-09-18 | markets | [NT$100 Million Is Life's Escape Velocity](articles/markets/2026-09-18-nt-100-million-lifes-escape-velocity.md) | `articles/markets/2026-09-18-nt-100-million-lifes-escape-velocity.md` |
+| 2026-09-19 | life | [Inawashiro and Nekoma: Two Weeks of Skiing, Straight Up](articles/life/2026-09-19-inawashiro-and-nekoma.md) | `articles/life/2026-09-19-inawashiro-and-nekoma.md` |
 | 2026-09-18 | markets | [Rates Went Up, and So Did the Market](articles/markets/2026-09-18-rates-went-up-and-so-did-the-market.md) | `articles/markets/2026-09-18-rates-went-up-and-so-did-the-market.md` |
+| 2026-09-18 | markets | [NT$100 Million Is Life's Escape Velocity](articles/markets/2026-09-18-nt-100-million-lifes-escape-velocity.md) | `articles/markets/2026-09-18-nt-100-million-lifes-escape-velocity.md` |
 | 2026-09-17 | markets | [Find the Camp That's Your Calling](articles/markets/2026-09-17-find-the-camp-that-is-your-calling.md) | `articles/markets/2026-09-17-find-the-camp-that-is-your-calling.md` |
 | 2026-09-16 | markets | [The CLARITY Act Stalls, and Bitcoin's Bottom May Be Near](articles/markets/2026-09-16-clarity-act-stalls-bitcoin-bottom-near.md) | `articles/markets/2026-09-16-clarity-act-stalls-bitcoin-bottom-near.md` |
 | 2026-09-14 | markets | [Maybe Today Is the Starting Gun](articles/markets/2026-09-14-maybe-today-is-the-starting-gun.md) | `articles/markets/2026-09-14-maybe-today-is-the-starting-gun.md` |
@@ -239,8 +248,8 @@ As of October 2026.
 | 2026-09-07 | tesla | [Tesla's Odds Finally Line Up](articles/tesla/2026-09-07-teslas-odds-finally-line-up.md) | `articles/tesla/2026-09-07-teslas-odds-finally-line-up.md` |
 | 2026-09-06 | markets | [Maybe the Weather Is Turning](articles/markets/2026-09-06-maybe-the-weather-is-turning.md) | `articles/markets/2026-09-06-maybe-the-weather-is-turning.md` |
 | 2026-09-05 | tesla | [NHTSA Looks Like the Real Bull](articles/tesla/2026-09-05-nhtsa-looks-like-the-real-bull.md) | `articles/tesla/2026-09-05-nhtsa-looks-like-the-real-bull.md` |
-| 2026-09-04 | markets | [Bitcoin's 200-Day MA Turns Up](articles/markets/2026-09-04-bitcoins-200-day-ma-turns-up.md) | `articles/markets/2026-09-04-bitcoins-200-day-ma-turns-up.md` |
 | 2026-09-04 | tesla | [Covering the Dip, Per Usual](articles/tesla/2026-09-04-covering-the-dip-per-usual.md) | `articles/tesla/2026-09-04-covering-the-dip-per-usual.md` |
+| 2026-09-04 | markets | [Bitcoin's 200-Day MA Turns Up](articles/markets/2026-09-04-bitcoins-200-day-ma-turns-up.md) | `articles/markets/2026-09-04-bitcoins-200-day-ma-turns-up.md` |
 | 2026-09-03 | markets | [The Casino Whose Chips Are Metal](articles/markets/2026-09-03-the-casino-whose-chips-are-metal.md) | `articles/markets/2026-09-03-the-casino-whose-chips-are-metal.md` |
 | 2026-09-03 | tesla | [To the Tesla Battles We Fought](articles/tesla/2026-09-03-to-the-tesla-battles-we-fought.md) | `articles/tesla/2026-09-03-to-the-tesla-battles-we-fought.md` |
 | 2026-09-02 | markets | [Standing With Bessent on Rates and AI](articles/markets/2026-09-02-standing-with-bessent-on-rates-and-ai.md) | `articles/markets/2026-09-02-standing-with-bessent-on-rates-and-ai.md` |
@@ -273,13 +282,26 @@ As of October 2026.
 | 2026-08-04 | tesla | [Off the Hell Train: The Last 4,000 TSLL Shares](articles/tesla/2026-08-04-hell-train-tsll-last-4000-shares.md) | `articles/tesla/2026-08-04-hell-train-tsll-last-4000-shares.md` |
 | 2026-08-03 | tesla | [Wheeling SPCX, and How to Spot Scams](articles/tesla/2026-08-03-spcx-wheel-and-spotting-scams.md) | `articles/tesla/2026-08-03-spcx-wheel-and-spotting-scams.md` |
 | 2026-07-30 | tesla | [Boarding the Hell Train](articles/tesla/2026-07-30-hell-train-boarding.md) | `articles/tesla/2026-07-30-hell-train-boarding.md` |
+| 2026-07-29 | life | [Every Time I'm Abroad, I Crave Sashimi](articles/life/2026-07-29-craving-sashimi-abroad.md) | `articles/life/2026-07-29-craving-sashimi-abroad.md` |
+| 2026-07-28 | tesla | [Stuck With Another 2,000 Shares](articles/tesla/2026-07-28-assigned-another-2000-shares.md) | `articles/tesla/2026-07-28-assigned-another-2000-shares.md` |
 | 2026-07-28 | markets | [MSTR Stepped In to Buy Back STRC](articles/markets/2026-07-28-mstr-buys-back-strc.md) | `articles/markets/2026-07-28-mstr-buys-back-strc.md` |
-| 2026-07-27 | markets | [Bitcoin Is Moving Along Its 200-Week Moving Average](articles/markets/2026-07-27-bitcoin-along-the-200-week-ma.md) | `articles/markets/2026-07-27-bitcoin-along-the-200-week-ma.md` |
 | 2026-07-27 | markets | [QQQ Keeps Tracing a Top Divergence](articles/markets/2026-07-27-qqq-top-divergence.md) | `articles/markets/2026-07-27-qqq-top-divergence.md` |
+| 2026-07-27 | markets | [Bitcoin Is Moving Along Its 200-Week Moving Average](articles/markets/2026-07-27-bitcoin-along-the-200-week-ma.md) | `articles/markets/2026-07-27-bitcoin-along-the-200-week-ma.md` |
 | 2026-07-25 | life | [Which Floor You Live On](articles/life/2026-07-25-which-floor-you-live-on.md) | `articles/life/2026-07-25-which-floor-you-live-on.md` |
+| 2026-07-24 | tesla | [Not Much Cover Fire, but I Did My Best](articles/tesla/2026-07-24-cover-fire-bought-10000-tsll.md) | `articles/tesla/2026-07-24-cover-fire-bought-10000-tsll.md` |
+| 2026-07-23 | tesla | [Another 5,000 TSLL at 8.86](articles/tesla/2026-07-23-another-5000-tsll-at-8-86.md) | `articles/tesla/2026-07-23-another-5000-tsll-at-8-86.md` |
+| 2026-07-23 | tesla | [Tesla Flattened Me Right After I Bought](articles/tesla/2026-07-23-tesla-flattened-me-after-i-bought.md) | `articles/tesla/2026-07-23-tesla-flattened-me-after-i-bought.md` |
+| 2026-07-21 | tesla | [Mid-Barbecue, 120 TSLL Puts](articles/tesla/2026-07-21-grilling-tsll-120-puts.md) | `articles/tesla/2026-07-21-grilling-tsll-120-puts.md` |
+| 2026-07-18 | markets | [SPCX Assigned at the IPO Price](articles/markets/2026-07-18-spcx-assigned-at-ipo-price.md) | `articles/markets/2026-07-18-spcx-assigned-at-ipo-price.md` |
 | 2026-07-17 | markets | [Am I the Only One Stuck at the SPCX IPO Price?](articles/markets/2026-07-17-spcx-stuck-at-ipo-price.md) | `articles/markets/2026-07-17-spcx-stuck-at-ipo-price.md` |
 | 2026-07-15 | markets | [Two Days Left: Will I Get Assigned 1000 Shares of SPCX?](articles/markets/2026-07-15-two-days-left-spcx-assignment.md) | `articles/markets/2026-07-15-two-days-left-spcx-assignment.md` |
+| 2026-07-15 | life | [How Do I Comfort the Teacher in Class Tomorrow?](articles/life/2026-07-15-how-do-i-comfort-the-teacher.md) | `articles/life/2026-07-15-how-do-i-comfort-the-teacher.md` |
 | 2026-07-14 | markets | [My SPCX Puts Are Still On](articles/markets/2026-07-14-spcx-puts-still-on.md) | `articles/markets/2026-07-14-spcx-puts-still-on.md` |
+| 2026-07-10 | life | [If You Rent Cars Abroad Several Times a Year](articles/life/2026-07-10-if-you-rent-cars-abroad-often.md) | `articles/life/2026-07-10-if-you-rent-cars-abroad-often.md` |
+| 2026-07-06 | tesla | [Can You Feel It? Higher Lows](articles/tesla/2026-07-06-can-you-feel-it-higher-lows.md) | `articles/tesla/2026-07-06-can-you-feel-it-higher-lows.md` |
+| 2026-06-20 | life | [Discovering Fire Series: Adding Cards to Apple Pay](articles/life/2026-06-20-discovering-fire-apple-pay-cards.md) | `articles/life/2026-06-20-discovering-fire-apple-pay-cards.md` |
+| 2026-06-17 | markets | [SPCX Options Are Open](articles/markets/2026-06-17-spcx-options-are-open.md) | `articles/markets/2026-06-17-spcx-options-are-open.md` |
+| 2026-06-15 | markets | [Picked Up 1,000 SPCX Before Friday's Close](articles/markets/2026-06-15-flipping-spcx-ipo-10000-profit.md) | `articles/markets/2026-06-15-flipping-spcx-ipo-10000-profit.md` |
 
 ## Not to be confused with
 
