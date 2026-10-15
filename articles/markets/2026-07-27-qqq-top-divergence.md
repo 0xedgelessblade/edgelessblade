@@ -54,6 +54,13 @@ I'm talking about this as a scenario
 
 > Reader: The macro environment really isn't right for hikes, it all depends on whether the war can wind down soon
 
+> Reader: Meta AI, has the US raised rates?
+
+> Meta AI: The US hasn't raised rates yet.
+> The Fed "held steady" in July. The market had priced in only about a 30% chance of a July hike, and in the end there was none. The federal funds rate is still in the 3.50%-3.75% range, and the June meeting also left it unchanged.
+> The "surprise July hike" the original poster mentioned hasn't happened, which is why a reader quipped, "Are you a time traveler from the future?"
+> That said, the market is pricing in roughly an 80% chance of a September hike, and Wall Street banks like BofA and Deutsche Bank are forecasting a possible 25 bp hike in September.
+
 > Reader: Over the weekend I was also looking at roughly 10%
 
 > Reader: Agreed, the dot plot supports this argument
