@@ -11,6 +11,10 @@ FOLDER_FALLBACK = {"tesla": [T], "markets": [U], "ai": [A], "life": [L]}
 
 # Filled by reading each article (title + opening lines). Keyed by relative path.
 TOPICS = {
+    "articles/tesla/2026-07-23-tesla-flattened-me-after-i-bought.md": [T, U],
+    "articles/tesla/2026-07-21-grilling-tsll-120-puts.md": [T, U],
+    "articles/markets/2026-07-18-spcx-assigned-at-ipo-price.md": [U],
+    "articles/life/2026-07-15-how-do-i-comfort-the-teacher.md": [L],
     "articles/tesla/2026-10-14-tesla-and-spacex-will-merge.md": [T, U],
     "articles/markets/2026-07-28-mstr-buys-back-strc.md": [U],
     "articles/markets/2026-07-27-qqq-top-divergence.md": [U, R],
