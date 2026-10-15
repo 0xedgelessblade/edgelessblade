@@ -72,6 +72,9 @@ As of October 2026.
 - 2026-08-04 | Off the Hell Train: The Last 4,000 TSLL Shares | articles/tesla/2026-08-04-hell-train-tsll-last-4000-shares.md
 - 2026-08-03 | Wheeling SPCX, and How to Spot Scams | articles/tesla/2026-08-03-spcx-wheel-and-spotting-scams.md
 - 2026-07-30 | Boarding the Hell Train | articles/tesla/2026-07-30-hell-train-boarding.md
+- 2026-07-28 | Stuck With Another 2,000 Shares | articles/tesla/2026-07-28-assigned-another-2000-shares.md
+- 2026-07-24 | Not Much Cover Fire, but I Did My Best | articles/tesla/2026-07-24-cover-fire-bought-10000-tsll.md
+- 2026-07-23 | Another 5,000 TSLL at 8.86 | articles/tesla/2026-07-23-another-5000-tsll-at-8-86.md
 
 ### US Treasury yields and interest rates
 
@@ -135,9 +138,15 @@ As of October 2026.
 - 2026-08-05 | Clarity Act Odds Fading: Adding IBIT and ETHB, Selling SPCX Calls | articles/markets/2026-08-05-clarity-act-odds-ibit-ethb-and-spcx.md
 - 2026-08-04 | Off the Hell Train: The Last 4,000 TSLL Shares | articles/tesla/2026-08-04-hell-train-tsll-last-4000-shares.md
 - 2026-08-03 | Wheeling SPCX, and How to Spot Scams | articles/tesla/2026-08-03-spcx-wheel-and-spotting-scams.md
+- 2026-07-28 | Stuck With Another 2,000 Shares | articles/tesla/2026-07-28-assigned-another-2000-shares.md
 - 2026-07-28 | MSTR Stepped In to Buy Back STRC | articles/markets/2026-07-28-mstr-buys-back-strc.md
 - 2026-07-27 | QQQ Keeps Tracing a Top Divergence | articles/markets/2026-07-27-qqq-top-divergence.md
 - 2026-07-27 | Bitcoin Is Moving Along Its 200-Week Moving Average | articles/markets/2026-07-27-bitcoin-along-the-200-week-ma.md
+- 2026-07-24 | Not Much Cover Fire, but I Did My Best | articles/tesla/2026-07-24-cover-fire-bought-10000-tsll.md
+- 2026-07-23 | Another 5,000 TSLL at 8.86 | articles/tesla/2026-07-23-another-5000-tsll-at-8-86.md
+- 2026-07-17 | Am I the Only One Stuck at the SPCX IPO Price? | articles/markets/2026-07-17-spcx-stuck-at-ipo-price.md
+- 2026-07-15 | Two Days Left: Will I Get Assigned 1000 Shares of SPCX? | articles/markets/2026-07-15-two-days-left-spcx-assignment.md
+- 2026-07-14 | My SPCX Puts Are Still On | articles/markets/2026-07-14-spcx-puts-still-on.md
 
 ### AI tools and agents
 
@@ -174,6 +183,7 @@ As of October 2026.
 - 2026-08-25 | Stop Measuring Your Assets by Your Monthly Salary | articles/markets/2026-08-25-stop-measuring-assets-by-your-salary.md
 - 2026-08-10 | Tuna Belly at the Market | articles/life/2026-08-10-tuna-belly-at-the-market.md
 - 2026-08-06 | Fixating on Your Monthly Salary | articles/life/2026-08-06-focusing-on-monthly-salary.md
+- 2026-07-29 | Every Time I'm Abroad, I Crave Sashimi | articles/life/2026-07-29-craving-sashimi-abroad.md
 - 2026-07-25 | Which Floor You Live On | articles/life/2026-07-25-which-floor-you-live-on.md
 <!-- topics:end -->
 
@@ -261,6 +271,9 @@ As of October 2026.
 | 2026-07-27 | markets | [Bitcoin Is Moving Along Its 200-Week Moving Average](articles/markets/2026-07-27-bitcoin-along-the-200-week-ma.md) | `articles/markets/2026-07-27-bitcoin-along-the-200-week-ma.md` |
 | 2026-07-27 | markets | [QQQ Keeps Tracing a Top Divergence](articles/markets/2026-07-27-qqq-top-divergence.md) | `articles/markets/2026-07-27-qqq-top-divergence.md` |
 | 2026-07-25 | life | [Which Floor You Live On](articles/life/2026-07-25-which-floor-you-live-on.md) | `articles/life/2026-07-25-which-floor-you-live-on.md` |
+| 2026-07-17 | markets | [Am I the Only One Stuck at the SPCX IPO Price?](articles/markets/2026-07-17-spcx-stuck-at-ipo-price.md) | `articles/markets/2026-07-17-spcx-stuck-at-ipo-price.md` |
+| 2026-07-15 | markets | [Two Days Left: Will I Get Assigned 1000 Shares of SPCX?](articles/markets/2026-07-15-two-days-left-spcx-assignment.md) | `articles/markets/2026-07-15-two-days-left-spcx-assignment.md` |
+| 2026-07-14 | markets | [My SPCX Puts Are Still On](articles/markets/2026-07-14-spcx-puts-still-on.md) | `articles/markets/2026-07-14-spcx-puts-still-on.md` |
 
 ## Not to be confused with
 
