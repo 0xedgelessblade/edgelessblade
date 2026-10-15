@@ -16,6 +16,8 @@ TOPICS = {
     "articles/tesla/2026-07-06-can-you-feel-it-higher-lows.md": [T, U],
     "articles/life/2026-06-20-discovering-fire-apple-pay-cards.md": [L],
     "articles/markets/2026-06-17-spcx-options-are-open.md": [U],
+    "articles/markets/2026-06-18-spcx-pulled-back-still-cashing-in.md": [U],
+    "articles/ai/2026-10-15-alaska-search-adds-4-destinations.md": [A, L],
     "articles/markets/2026-06-15-flipping-spcx-ipo-10000-profit.md": [U],
     "articles/tesla/2026-07-23-tesla-flattened-me-after-i-bought.md": [T, U],
     "articles/tesla/2026-07-21-grilling-tsll-120-puts.md": [T, U],

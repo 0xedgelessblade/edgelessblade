@@ -140,11 +140,13 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - 2026-07-15 | Two Days Left: Will I Get Assigned 1000 Shares of SPCX? | articles/markets/2026-07-15-two-days-left-spcx-assignment.md
 - 2026-07-14 | My SPCX Puts Are Still On | articles/markets/2026-07-14-spcx-puts-still-on.md
 - 2026-07-06 | Can You Feel It? Higher Lows | articles/tesla/2026-07-06-can-you-feel-it-higher-lows.md
+- 2026-06-18 | SPCX Pulled Back Hard Today | articles/markets/2026-06-18-spcx-pulled-back-still-cashing-in.md
 - 2026-06-17 | SPCX Options Are Open | articles/markets/2026-06-17-spcx-options-are-open.md
 - 2026-06-15 | Picked Up 1,000 SPCX Before Friday's Close | articles/markets/2026-06-15-flipping-spcx-ipo-10000-profit.md
 
 ### AI tools and agents
 
+- 2026-10-15 | Alaska Search Site Adds 4 More Destinations | articles/ai/2026-10-15-alaska-search-adds-4-destinations.md
 - 2026-10-13 | Alaska Miles Are Ridiculously Easy Right Now — I Booked Eight Business Awards | articles/ai/2026-10-13-alaska-miles-too-easy-eight-business-awards.md
 - 2026-10-12 | I Built an Alaska Miles Award Finder | articles/ai/2026-10-12-i-built-an-alaska-miles-award-finder.md
 - 2026-10-06 | A New Era: Booking EVA Air Award Tickets Through Live Text Chat | articles/ai/2026-10-06-eva-award-tickets-via-live-text-chat.md
@@ -159,6 +161,7 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 
 ### Life and mindset
 
+- 2026-10-15 | Alaska Search Site Adds 4 More Destinations | articles/ai/2026-10-15-alaska-search-adds-4-destinations.md
 - 2026-10-13 | Investing Is Like Playing Baseball | articles/markets/2026-10-13-investing-is-like-baseball.md
 - 2026-10-13 | Alaska Miles Are Ridiculously Easy Right Now — I Booked Eight Business Awards | articles/ai/2026-10-13-alaska-miles-too-easy-eight-business-awards.md
 - 2026-10-12 | I Built an Alaska Miles Award Finder | articles/ai/2026-10-12-i-built-an-alaska-miles-award-finder.md
