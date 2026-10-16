@@ -97,6 +97,7 @@ As of October 2026.
 - 2026-08-21 | Where Does the Money Come From? | articles/markets/2026-08-21-where-does-the-money-come-from.md
 - 2026-08-20 | The Market Is Short on Cash | articles/markets/2026-08-20-the-market-is-short-on-cash.md
 - 2026-07-27 | QQQ Keeps Tracing a Top Divergence | articles/markets/2026-07-27-qqq-top-divergence.md
+- 2026-06-10 | The 6/17 Fed Rate Decision Meeting | articles/markets/2026-06-10-fed-qt-first-then-cuts.md
 
 ### US stocks and valuation
 
@@ -165,6 +166,10 @@ As of October 2026.
 - 2026-06-12 | SpaceX IPO: 1,000 Shares at the 150 Opening Cross | articles/markets/2026-06-12-spacex-ipo-1000-shares-at-150.md
 - 2026-06-12 | Results Are In: SpaceX IPO, Allocated 0 | articles/markets/2026-06-12-results-are-in-spacex-ipo-zero.md
 - 2026-06-12 | Applied for 4,500 SpaceX IPO Shares, Got 0 | articles/markets/2026-06-12-applied-4500-spacex-ipo-shares-got-0.md
+- 2026-06-11 | Investing in SpaceX | articles/markets/2026-06-11-investing-in-spacex-unlock-dates.md
+- 2026-06-10 | The 6/17 Fed Rate Decision Meeting | articles/markets/2026-06-10-fed-qt-first-then-cuts.md
+- 2026-06-06 | I Caught US$100,000 of Bitcoin | articles/markets/2026-06-06-caught-100000-of-bitcoin-at-200-week-ma.md
+- 2026-06-04 | The Time Machine Has Been Invented | articles/markets/2026-06-04-the-time-machine-has-been-invented.md
 
 ### AI tools and agents
 
@@ -319,6 +324,11 @@ As of October 2026.
 | 2026-06-13 | markets | [Zero SpaceX IPO Shares, but Still Made $22,000](articles/markets/2026-06-13-zero-spacex-ipo-shares-still-made-22000.md) | `articles/markets/2026-06-13-zero-spacex-ipo-shares-still-made-22000.md` |
 | 2026-06-12 | markets | [SpaceX IPO: 1,000 Shares at the 150 Opening Cross](articles/markets/2026-06-12-spacex-ipo-1000-shares-at-150.md) | `articles/markets/2026-06-12-spacex-ipo-1000-shares-at-150.md` |
 | 2026-06-12 | markets | [Results Are In: SpaceX IPO, Allocated 0](articles/markets/2026-06-12-results-are-in-spacex-ipo-zero.md) | `articles/markets/2026-06-12-results-are-in-spacex-ipo-zero.md` |
+| 2026-06-12 | markets | [Applied for 4,500 SpaceX IPO Shares, Got 0](articles/markets/2026-06-12-applied-4500-spacex-ipo-shares-got-0.md) | `articles/markets/2026-06-12-applied-4500-spacex-ipo-shares-got-0.md` |
+| 2026-06-11 | markets | [Investing in SpaceX](articles/markets/2026-06-11-investing-in-spacex-unlock-dates.md) | `articles/markets/2026-06-11-investing-in-spacex-unlock-dates.md` |
+| 2026-06-10 | markets | [The 6/17 Fed Rate Decision Meeting](articles/markets/2026-06-10-fed-qt-first-then-cuts.md) | `articles/markets/2026-06-10-fed-qt-first-then-cuts.md` |
+| 2026-06-06 | markets | [I Caught US$100,000 of Bitcoin](articles/markets/2026-06-06-caught-100000-of-bitcoin-at-200-week-ma.md) | `articles/markets/2026-06-06-caught-100000-of-bitcoin-at-200-week-ma.md` |
+| 2026-06-04 | markets | [The Time Machine Has Been Invented](articles/markets/2026-06-04-the-time-machine-has-been-invented.md) | `articles/markets/2026-06-04-the-time-machine-has-been-invented.md` |
 
 ## Not to be confused with
 
