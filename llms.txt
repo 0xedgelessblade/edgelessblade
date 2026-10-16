@@ -31,6 +31,7 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 
 ### Tesla and TSLA
 
+- 2026-10-16 | Kept Adding TSLL Sell Puts While the Market Panicked | articles/tesla/2026-10-16-kept-adding-tsll-sell-puts.md
 - 2026-10-15 | Plan Your Trade, Trade Your Plan | articles/tesla/2026-10-15-plan-your-trade-trade-your-plan.md
 - 2026-10-14 | I'm Increasingly Convinced Tesla and SpaceX Will Merge | articles/tesla/2026-10-14-tesla-and-spacex-will-merge.md
 - 2026-10-10 | Covering the Retreat Again, Then Trimming My TSLL | articles/tesla/2026-10-10-covering-the-retreat-then-trimming-tsll.md
@@ -83,6 +84,7 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 
 ### US stocks and valuation
 
+- 2026-10-16 | Kept Adding TSLL Sell Puts While the Market Panicked | articles/tesla/2026-10-16-kept-adding-tsll-sell-puts.md
 - 2026-10-15 | Plan Your Trade, Trade Your Plan | articles/tesla/2026-10-15-plan-your-trade-trade-your-plan.md
 - 2026-10-14 | I'm Increasingly Convinced Tesla and SpaceX Will Merge | articles/tesla/2026-10-14-tesla-and-spacex-will-merge.md
 - 2026-10-13 | Investing Is Like Playing Baseball | articles/markets/2026-10-13-investing-is-like-baseball.md
@@ -143,6 +145,9 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - 2026-06-18 | SPCX Pulled Back Hard Today | articles/markets/2026-06-18-spcx-pulled-back-still-cashing-in.md
 - 2026-06-17 | SPCX Options Are Open | articles/markets/2026-06-17-spcx-options-are-open.md
 - 2026-06-15 | Picked Up 1,000 SPCX Before Friday's Close | articles/markets/2026-06-15-flipping-spcx-ipo-10000-profit.md
+- 2026-06-13 | Zero SpaceX IPO Shares, but Still Made $22,000 | articles/markets/2026-06-13-zero-spacex-ipo-shares-still-made-22000.md
+- 2026-06-12 | SpaceX IPO: 1,000 Shares at the 150 Opening Cross | articles/markets/2026-06-12-spacex-ipo-1000-shares-at-150.md
+- 2026-06-12 | Results Are In: SpaceX IPO, Allocated 0 | articles/markets/2026-06-12-results-are-in-spacex-ipo-zero.md
 
 ### AI tools and agents
 
@@ -186,10 +191,13 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - 2026-07-15 | How Do I Comfort the Teacher in Class Tomorrow? | articles/life/2026-07-15-how-do-i-comfort-the-teacher.md
 - 2026-07-10 | If You Rent Cars Abroad Several Times a Year | articles/life/2026-07-10-if-you-rent-cars-abroad-often.md
 - 2026-06-20 | Discovering Fire Series: Adding Cards to Apple Pay | articles/life/2026-06-20-discovering-fire-apple-pay-cards.md
+- 2026-06-14 | I Thought It Was Just Mildly Enlarged Adenoids | articles/life/2026-06-14-thought-it-was-mildly-enlarged-adenoids.md
 <!-- topics:end -->
 
 ## Articles (newest first)
+- 2026-10-16 | tesla | [Kept Adding TSLL Sell Puts While the Market Panicked](articles/tesla/2026-10-16-kept-adding-tsll-sell-puts.md) | path: articles/tesla/2026-10-16-kept-adding-tsll-sell-puts.md
 - 2026-10-15 | tesla | [Plan Your Trade, Trade Your Plan](articles/tesla/2026-10-15-plan-your-trade-trade-your-plan.md) | path: articles/tesla/2026-10-15-plan-your-trade-trade-your-plan.md
+- 2026-10-15 | ai | [Alaska Search Site Adds 4 More Destinations](articles/ai/2026-10-15-alaska-search-adds-4-destinations.md) | path: articles/ai/2026-10-15-alaska-search-adds-4-destinations.md
 - 2026-10-14 | tesla | [I'm Increasingly Convinced Tesla and SpaceX Will Merge](articles/tesla/2026-10-14-tesla-and-spacex-will-merge.md) | path: articles/tesla/2026-10-14-tesla-and-spacex-will-merge.md
 - 2026-10-13 | markets | [Investing Is Like Playing Baseball](articles/markets/2026-10-13-investing-is-like-baseball.md) | path: articles/markets/2026-10-13-investing-is-like-baseball.md
 - 2026-10-13 | ai | [Alaska Miles Are Ridiculously Easy Right Now — I Booked Eight Business Awards](articles/ai/2026-10-13-alaska-miles-too-easy-eight-business-awards.md) | path: articles/ai/2026-10-13-alaska-miles-too-easy-eight-business-awards.md
@@ -284,5 +292,10 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - 2026-07-10 | life | [If You Rent Cars Abroad Several Times a Year](articles/life/2026-07-10-if-you-rent-cars-abroad-often.md) | path: articles/life/2026-07-10-if-you-rent-cars-abroad-often.md
 - 2026-07-06 | tesla | [Can You Feel It? Higher Lows](articles/tesla/2026-07-06-can-you-feel-it-higher-lows.md) | path: articles/tesla/2026-07-06-can-you-feel-it-higher-lows.md
 - 2026-06-20 | life | [Discovering Fire Series: Adding Cards to Apple Pay](articles/life/2026-06-20-discovering-fire-apple-pay-cards.md) | path: articles/life/2026-06-20-discovering-fire-apple-pay-cards.md
+- 2026-06-18 | markets | [SPCX Pulled Back Hard Today](articles/markets/2026-06-18-spcx-pulled-back-still-cashing-in.md) | path: articles/markets/2026-06-18-spcx-pulled-back-still-cashing-in.md
 - 2026-06-17 | markets | [SPCX Options Are Open](articles/markets/2026-06-17-spcx-options-are-open.md) | path: articles/markets/2026-06-17-spcx-options-are-open.md
 - 2026-06-15 | markets | [Picked Up 1,000 SPCX Before Friday's Close](articles/markets/2026-06-15-flipping-spcx-ipo-10000-profit.md) | path: articles/markets/2026-06-15-flipping-spcx-ipo-10000-profit.md
+- 2026-06-14 | life | [I Thought It Was Just Mildly Enlarged Adenoids](articles/life/2026-06-14-thought-it-was-mildly-enlarged-adenoids.md) | path: articles/life/2026-06-14-thought-it-was-mildly-enlarged-adenoids.md
+- 2026-06-13 | markets | [Zero SpaceX IPO Shares, but Still Made $22,000](articles/markets/2026-06-13-zero-spacex-ipo-shares-still-made-22000.md) | path: articles/markets/2026-06-13-zero-spacex-ipo-shares-still-made-22000.md
+- 2026-06-12 | markets | [SpaceX IPO: 1,000 Shares at the 150 Opening Cross](articles/markets/2026-06-12-spacex-ipo-1000-shares-at-150.md) | path: articles/markets/2026-06-12-spacex-ipo-1000-shares-at-150.md
+- 2026-06-12 | markets | [Results Are In: SpaceX IPO, Allocated 0](articles/markets/2026-06-12-results-are-in-spacex-ipo-zero.md) | path: articles/markets/2026-06-12-results-are-in-spacex-ipo-zero.md

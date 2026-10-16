@@ -17,6 +17,56 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - Topics: US equities, index valuation, US Treasury market, Tesla (TSLA), TSLL, TSLA/SPCX relative strength, trading psychology, niche building for individual creators
 
 =====
+File: articles/tesla/2026-10-16-kept-adding-tsll-sell-puts.md
+
+# Kept Adding TSLL Sell Puts While the Market Panicked
+
+**Date:** 2026-10-16
+
+---
+
+These past two days, while the market was in a panic
+I kept adding sell puts on tsll, 7,500 shares
+
+Yesterday my account was down as much as $200,000 in a single day
+All back by the morning session🥸
+
+Whatever the next 6 trading days bring
+$3,000 in premium is already in the bag
+
+A Roadster beyond all expectations🥸
+Gorgeous, but I'll pass on ordering one
+My 2020 Cybertruck order
+is still an interest-free loan to Tesla
+To anyone thinking of buying a car:
+put the deposit straight into the stock
+In a few years the car should honestly be free🤣
+
+![Brokerage portfolio: day P&L -8,325, TSLL Oct 23 '26 9 put and TSLL share positions](../../images/Deiz-5WjoMV-1.jpg)
+
+![Filled orders Oct 14 and 15: sold 60 and 15 TSLL Oct 23 '26 9 puts](../../images/Deiz-5WjoMV-2.jpg)
+
+## Replies
+
+> Reader: Glorious October
+
+All kinds of surprises
+That's the market for you
+
+> Reader: Upvoting this line:
+> "To anyone thinking of buying a car: put the deposit straight into the stock. In a few years the car should honestly be free."
+> I think so too.
+> 🥹🥹
+
+The self-cultivation of a veteran shareholder
+
+---
+
+Quoted post: https://www.threads.com/@edgeless.blade/post/DegdLnOERV3
+
+Original post: https://www.threads.com/@edgeless.blade/post/Deiz-5WjoMV
+
+=====
 File: articles/tesla/2026-10-15-plan-your-trade-trade-your-plan.md
 
 # Plan Your Trade, Trade Your Plan
@@ -5772,3 +5822,425 @@ I want to catch the rocket one more time🚀
 Original posts:
 https://www.threads.com/@edgeless.blade/post/DZmjHpKka3P
 https://www.threads.com/@edgeless.blade/post/DZoLWBQGFEV
+
+=====
+File: articles/life/2026-06-14-thought-it-was-mildly-enlarged-adenoids.md
+
+# I Thought It Was Just Mildly Enlarged Adenoids
+
+**Date:** 2026-06-14
+
+---
+
+I thought it was just mildly enlarged adenoids
+making my kid breathe through the mouth now and then during sleep
+Only once they went in for surgery did they find out
+it was huge
+completely blocking the back of the nasal passage
+Thank you to my ENT doctor
+The billing staff were really professional too
+and reminded me: if a primary schooler has surgery, remember to claim on the student insurance
+I checked, and it actually pays out 50,000
+With summer vacation just around the corner
+parents, if your child shows any of the following signs, take them to a hospital ENT doctor
+.
+Common outward signs include:
+* Mouth often hanging open (a blocked nose means breathing through the mouth)
+* A shorter, thicker upper lip
+* A receding or small-looking chin
+* A lengthening face (long face)
+* More noticeable dark circles
+* Tired, listless eyes
+* Snoring in sleep
+* A nasal or muffled-sounding voice
+.
+As for expression, parents often describe it as:
+* Looking a bit dazed
+* Low on energy
+* Mouth often hanging open
+* Seeming to space out all the time
+* Looking like they never get enough sleep
+
+![Infographic in Chinese on enlarged adenoids in children and the typical "adenoid face" features](../../images/DZkHp0xEYYv-1.jpg)
+
+![Endoscope view of an enlarged adenoid mass blocking the nasal passage](../../images/DZkHp0xEYYv-2.jpg)
+
+## Replies
+
+> Reader: That sounds exactly like nasal allergy symptoms
+
+It actually was
+We dealt with everything that needed dealing with
+
+> Reader: May I ask where you were seen?
+
+I believe any hospital's ENT department can handle it well. You can also check the hospital's doctor profile pages beforehand and look for a doctor whose specialties show they handle this area more often
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DZkHp0xEYYv
+
+=====
+File: articles/markets/2026-06-13-zero-spacex-ipo-shares-still-made-22000.md
+
+# Zero SpaceX IPO Shares, but Still Made $22,000
+
+**Date:** 2026-06-13
+
+---
+
+For the SpaceX IPO, I applied for several thousand shares through Taiwanese sub-brokerage and wasn't allocated a single one
+But I still bought 1,000 shares straight at the open, at 150
+and sold them intraday at 172 for one round trip, a $22,000 profit
+No allocation, yet a profit like this on day one: I'm more than satisfied
+Before the close I put in another buy for 1,000 at 161, and it filled right at the closing price
+
+The reason I go back and forth like this:
+the first few days of trading after a big IPO are extremely crowded
+turnover is very high, which means
+"those inside want out"
+"those outside want in"
+so the price tends to swing up and down
+
+At this point your own read on valuation matters a lot
+-I think 150 is roughly the highest valuation it can sustain in an optimistic scenario
+Above that, once the emotion fades, the market cap will be hard to hold, so I'm happy to sell into strength
+-150 to 135 is the zone where I'd buy back in
+-Below 135 is roughly where I can start preparing my long-term position
+
+The upcoming unlock dates matter a lot too
+
+![Filled orders Jun 13: five SPCX sells at about 172.5, realized +$22,347.32](../../images/DZhVX7aEfAy-1.jpg)
+
+![Filled order Jun 13: bought 1000 SPCX at 161 limit](../../images/DZhVX7aEfAy-2.jpg)
+
+－Musk can unlock no earlier than June 14, 2027
+－Some locked-up investors and executives unlock in stages after the 26Q4 earnings, so the estimated window is March 1 to August 9, 2027
+－Other insider holdings (employees, for example) are estimated to unlock from August 12 to December 9 this year
+－As for new shares employees subscribed to themselves through the IPO's directed share program: those can trade right away
+
+But whatever you do, don't wait until the reference dates to plan your sale
+There are far too many off-exchange ways to lock in a price early
+so the best approach is still to think in terms of valuation
+Treat the unlock dates only as public market information, background context
+
+## Replies
+
+> Reader: Master Blade, so funny, your prices look a lot like the ones I put in yesterday XD
+> 150-135
+> (100 was just me tossing one out there to see if it'd hit~)
+
+> Reader: Tesla's ripping
+
+> Reader: Low float is such a rush, swinging back and forth
+
+> Reader: I figured 140 was the safe bet, who knew it'd start from 150
+
+Too bad you didn't get matched
+
+> Reader: I put in 150 but didn't get any!!!
+
+Sold out right when it was your turn?
+That can happen?
+
+> Reader: Bro, next time you make a move like this, tell us earlier🥺🥺🥺
+
+I did
+I posted yesterday
+But it's pretty random
+Just call yesterday Lunar New Year come early
+
+> Reader: You bought the lowest and sold the highest on this one, I'm truly in awe
+
+A bit unexpected for me too
+Maybe Musk
+saw his long-term shareholders hadn't made much
+and worked a little miracle
+
+> Reader: Sub-brokerage can't get you any at all🥹
+
+> Reader: For my dad's sub-brokerage I placed direct orders premarket from 150 up to 175, and right at the open they all filled at 150. For myself I only had direct orders at 150 and 155, so those filled at the open too, but the conditional orders at 160, 165, 170 and 175 didn't fill. Cancel them fast and switch to direct orders intraday and you can still get in
+
+---
+
+Original posts:
+https://www.threads.com/@edgeless.blade/post/DZhVX7aEfAy
+https://www.threads.com/@edgeless.blade/post/DZhVX3ZkQ12
+
+=====
+File: articles/markets/2026-06-12-spacex-ipo-1000-shares-at-150.md
+
+# SpaceX IPO: 1,000 Shares at the 150 Opening Cross
+
+**Date:** 2026-06-12
+
+---
+
+SpaceX IPO
+The opening cross matched at 150
+Got my 1,000 shares
+150 really is the valuation ceiling
+Just a starter base position for now
+
+![Filled order Jun 12: bought 1000 SPCX at 150 limit](../../images/DZfda4PmFgN-1.jpg)
+
+Just sold
+Afraid you'd all yell at me
+so I'm telling you right away, brothers
+Took $22,000 and walked
+However I run the numbers, it should still be 150
+Putting in 150 to scoop them up again🤣
+
+![Filled orders: SPCX sells at about 172.5, realized +$22,347.32](../../images/DZfs9n5k79H-1.jpg)
+
+## Replies
+
+> Reader: Bro, you're not allowed to run, we agreed you'd stay for the value investing
+
+Before bed I put in 161, ready to hop back on
+and you guys woke me up again
+I so wanna sleep, man😂
+
+In the end, before bed I'd set 150 to buy them back
+thought it over and changed it to 161
+Filled again😂 1,000 shares
+I'm back
+
+> Reader: I'm a high-class SPCX investor
+
+This one isn't that high-priced
+
+> Reader: 150 +1. Master Sword, how high do you think it goes today?
+
+Can't predict
+I think 150 is the ceiling of a normal valuation
+Hard to hold above that
+I'm just building a base position today
+
+> Reader: Didn't get even half a share at 150🥲
+
+> Reader: Lucky you, getting 150👍 All we could do was buy at the open
+
+So you got matched at 150 too, right?
+
+> Reader: Charged in at 160, out at 173🤭
+
+> Reader: Beast mode👍 Winner winner🤩✨
+
+As long as you got some
+Come to think of it, good thing it didn't match at 151
+
+> Reader: I got 150 too
+
+Turns out a lot of people got 150
+
+> Reader: I'm all at 150. As long as I make something, no need to push it
+
+It's up👍
+
+> Reader: Rich guy
+
+Don't say that
+We're all just making a living in the market
+
+> Reader: 666, so many shares
+
+> Reader: 1,000 shares, a whale
+
+Mid-sized fish at most
+
+> Reader: Just curious, can you buy and sell US stocks the same day?
+
+Sure
+And then buy and sell again😆
+
+> Reader: That's godlike😂 but so risky
+
+> Reader: Curious: if you placed an order above 150 before the open, does it also fill at 150? How come it seems like everyone bought at 150
+
+That's how the auction match works
+Everything gets matched into one print and fills together
+I just happened to put in 150 directly
+which happened to be the indicative price
+If it had matched at 151 I wouldn't have gotten any
+
+> Reader: I only put in 100 shares on IB, also
+> @150
+> 🤪
+> But I charged in premarket at 200 on hyperliquid, now I'm bagholding🤡
+> Should've just waited for the open and gone all-freaking-in lol
+
+> Reader: How do you buy it?
+
+Just put in a 150 limit
+The first cross happened to be 150
+Everyone at 150 or above was a winner
+
+> Reader: Holy crap, you're a beast
+
+> Reader: Next time we go to Mars you'll be a VIP with premium Martian hospitality, upgraded to first class👍
+
+With this many shares I might just make cabin crew
+
+> Reader: Put in 165 but got filled at 150, happy
+
+Nicely matched
+
+> Reader: Hoping it goes to 50-80
+
+That's a tough ask
+
+> Reader: Did any Taiwanese sub-brokerage get an allocation??
+
+> Reader: 1,000 shares, congrats! Raking it in
+
+> Reader: I also got 12 shares at 150, sold half at 170, a little lunch money, now waiting for the employee and institutional selling later
+
+We're all doing the same thing
+
+> Reader: How come some people can day-trade US stocks?
+
+> Reader: Keep it low-key
+
+Ah, too late🤣
+
+> Reader: Moneybags
+
+It's the taking part that counts
+
+> Reader: Jealous of everyone who got 150, I'm the one getting fleeced🥺
+
+No biggie
+Once it goes up, remember to swap back into more
+
+> Reader: Looks like almost everyone who had an order in at the open got 150🫡
+
+> Reader: Seems like a lot of people got 150
+> But getting 150 again will be hard
+> haha
+
+> Reader: I figured it was already at 175 before the IPO, so I put my order in and slept easy, who knew it'd come down to 150
+
+You still bought at 150
+Good order
+
+> Reader: Did you buy this straight through a bank's sub-brokerage?
+
+---
+
+Original posts:
+https://www.threads.com/@edgeless.blade/post/DZfda4PmFgN
+https://www.threads.com/@edgeless.blade/post/DZfs9n5k79H
+
+=====
+File: articles/markets/2026-06-12-results-are-in-spacex-ipo-zero.md
+
+# Results Are In: SpaceX IPO, Allocated 0
+
+**Date:** 2026-06-12
+
+---
+
+Results are in
+SpaceX IPO
+Taiwanese sub-brokerage allocation: 0
+Are they doing this on purpose to earn interest on my US dollars or wut🤔
+
+Ran the numbers: in interest alone, versus leaving it at IB
+I'm out more than NT$20,000 these past few days
+
+## Replies
+
+> Reader: Which broker?
+
+Probably the same at every Taiwanese one
+If only a few of them came up empty, then I'll start ranting🤣
+
+> Reader: Tesla's ripping
+
+I'll take a look tonight🤔
+
+> Reader: I used a US broker (online). To be eligible you need $100,000, allocation not guaranteed, waiting for the draw now
+
+Let me know how it goes
+
+> Reader: I actually asked Cathay Securities. Besides the fees and other rules, their assistant manager said they'd wait until listing day (today) and buy in the open market <after> the open. I asked him on the spot: then couldn't I just buy it myself???? He said: yeah, actually you can just buy it yourself~ And this was after I'd seen the official PPT with the Cathay logo he sent me, a discussion right there at the branch. All I can say is I was speechless
+
+Wait, Cathay's IPO subscription
+means they just buy for you at the open????
+No way@@.
+
+> Reader: I thought it was ridiculous too, so I never even wired the money over. I'd planned to join a few more brokers to raise my odds, but Cathay really left me speechless...
+> That said, Cathay's US ETF trades are a flat $3 per buy or sell order, really cheap
+
+> Reader: So you've got over 2 million USD sitting at IB? Seriously rich, and you didn't even move it into bonds
+
+Still got dreams😺
+
+> Reader: I decided long ago not to enter, just bought a few shares of spxc to scratch the itch
+
+> Reader: Curious which one, my Cathay one hasn't notified me yet!!
+
+> Reader: Heard the retail allocation got cut to 20%, so lots of people didn't get any
+
+It was supposed to be an allocation, y'know
+Turns out the source got 0🤣
+
+> Reader: The pie's not big enough, and too many people want a bite🤣
+
+Must be nice being upstream
+
+> Reader: Didn't win either😁
+
+I can hear the "better luck next time" jingle
+
+> Reader: If it closes below the IPO price, that's a whole other story🤣
+
+> Reader: Capital Securities: no luck, and they ate my US$100 fee
+
+The whole firm got nothing
+They should refund it
+
+> Reader: Saving my spot. Crying with you
+
+Came back to sub-brokerage for once
+and got let down again😄
+
+> Reader: I tried Mega and SinoPac, didn't win at either
+
+> Reader: Didn't win +1
+> Still debating whether to chase at the open
+
+> Reader: So does this mean no one in all of Taiwan got any?
+
+That's my guess
+At least half of them share the same upstream
+
+> Reader: May I ask which bank you all used? KGI?
+
+My guess is it's the same everywhere in Taiwan
+
+> Reader: Don't you need 3000w (NT$30 million) to enter?? That many rich people???
+
+Compared with having the 3,000 W itself
+I think the slightly harder part is getting the 3,000 W back from abroad
+
+> Reader: Take the money that didn't get allocated and top up on Tesla; when Old Musk announces a share-swap merger and it rips, sell; then wait for SPCX's original shareholders to dump their shares in bulk, let the price crash by half, and go in to buy the bottom. Why do I say it'll crash by half? Because if an Old Musk company's stock never gets cut in half, it isn't an Old Musk company!
+
+> Reader: My broker told me from the start that if you don't put in $100,000, your odds of getting an allocation aren't high
+
+> Reader: It's a sign, all in TSLA🤣
+
+> Reader: The man let down by sub-brokerage
+
+> Reader: That man who worked for nothing
+
+Working for the bank
+
+> Reader: Got allocated 6 shares
+
+---
+
+Original posts:
+https://www.threads.com/@edgeless.blade/post/DZeCLM8GOg6
+https://www.threads.com/@edgeless.blade/post/DZeEe91kQtH
