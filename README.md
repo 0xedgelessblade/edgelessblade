@@ -80,6 +80,7 @@ As of October 2026.
 - 2026-07-23 | Another 5,000 TSLL at 8.86 | articles/tesla/2026-07-23-another-5000-tsll-at-8-86.md
 - 2026-07-21 | Mid-Barbecue, 120 TSLL Puts | articles/tesla/2026-07-21-grilling-tsll-120-puts.md
 - 2026-07-06 | Can You Feel It? Higher Lows | articles/tesla/2026-07-06-can-you-feel-it-higher-lows.md
+- 2026-06-06 | Rock Bottom of the Passionless Valley | articles/tesla/2026-06-06-rock-bottom-of-the-passionless-valley.md
 
 ### US Treasury yields and interest rates
 
@@ -168,11 +169,14 @@ As of October 2026.
 - 2026-06-12 | Applied for 4,500 SpaceX IPO Shares, Got 0 | articles/markets/2026-06-12-applied-4500-spacex-ipo-shares-got-0.md
 - 2026-06-11 | Investing in SpaceX | articles/markets/2026-06-11-investing-in-spacex-unlock-dates.md
 - 2026-06-10 | The 6/17 Fed Rate Decision Meeting | articles/markets/2026-06-10-fed-qt-first-then-cuts.md
+- 2026-06-08 | What Goes Around Comes Around | articles/markets/2026-06-08-what-goes-around-comes-around-germany-bitcoin.md
 - 2026-06-06 | I Caught US$100,000 of Bitcoin | articles/markets/2026-06-06-caught-100000-of-bitcoin-at-200-week-ma.md
+- 2026-06-05 | Hang In There, Brothers | articles/markets/2026-06-05-hang-in-there-brothers.md
 - 2026-06-04 | The Time Machine Has Been Invented | articles/markets/2026-06-04-the-time-machine-has-been-invented.md
 
 ### AI tools and agents
 
+- 2026-10-16 | Four Business Seats, Taipei to Tokyo, in Under Five Minutes | articles/ai/2026-10-16-four-business-seats-taipei-tokyo-in-five-minutes.md
 - 2026-10-15 | Alaska Search Site Adds 4 More Destinations | articles/ai/2026-10-15-alaska-search-adds-4-destinations.md
 - 2026-10-13 | Alaska Miles Are Ridiculously Easy Right Now — I Booked Eight Business Awards | articles/ai/2026-10-13-alaska-miles-too-easy-eight-business-awards.md
 - 2026-10-12 | I Built an Alaska Miles Award Finder | articles/ai/2026-10-12-i-built-an-alaska-miles-award-finder.md
@@ -188,6 +192,7 @@ As of October 2026.
 
 ### Life and mindset
 
+- 2026-10-16 | Four Business Seats, Taipei to Tokyo, in Under Five Minutes | articles/ai/2026-10-16-four-business-seats-taipei-tokyo-in-five-minutes.md
 - 2026-10-15 | Alaska Search Site Adds 4 More Destinations | articles/ai/2026-10-15-alaska-search-adds-4-destinations.md
 - 2026-10-13 | Investing Is Like Playing Baseball | articles/markets/2026-10-13-investing-is-like-baseball.md
 - 2026-10-13 | Alaska Miles Are Ridiculously Easy Right Now — I Booked Eight Business Awards | articles/ai/2026-10-13-alaska-miles-too-easy-eight-business-awards.md
@@ -214,6 +219,9 @@ As of October 2026.
 - 2026-07-10 | If You Rent Cars Abroad Several Times a Year | articles/life/2026-07-10-if-you-rent-cars-abroad-often.md
 - 2026-06-20 | Discovering Fire Series: Adding Cards to Apple Pay | articles/life/2026-06-20-discovering-fire-apple-pay-cards.md
 - 2026-06-14 | I Thought It Was Just Mildly Enlarged Adenoids | articles/life/2026-06-14-thought-it-was-mildly-enlarged-adenoids.md
+- 2026-06-09 | The Earlier You Book Hotels, the Cheaper They Are | articles/life/2026-06-09-book-swiss-christmas-hotels-early.md
+- 2026-06-06 | Rock Bottom of the Passionless Valley | articles/tesla/2026-06-06-rock-bottom-of-the-passionless-valley.md
+- 2026-06-05 | Hang In There, Brothers | articles/markets/2026-06-05-hang-in-there-brothers.md
 <!-- topics:end -->
 
 ## Articles
@@ -221,6 +229,7 @@ As of October 2026.
 | Date | Category | Title | Path |
 |---|---|---|---|
 | 2026-10-16 | tesla | [Kept Adding TSLL Sell Puts While the Market Panicked](articles/tesla/2026-10-16-kept-adding-tsll-sell-puts.md) | `articles/tesla/2026-10-16-kept-adding-tsll-sell-puts.md` |
+| 2026-10-16 | ai | [Four Business Seats, Taipei to Tokyo, in Under Five Minutes](articles/ai/2026-10-16-four-business-seats-taipei-tokyo-in-five-minutes.md) | `articles/ai/2026-10-16-four-business-seats-taipei-tokyo-in-five-minutes.md` |
 | 2026-10-15 | tesla | [Plan Your Trade, Trade Your Plan](articles/tesla/2026-10-15-plan-your-trade-trade-your-plan.md) | `articles/tesla/2026-10-15-plan-your-trade-trade-your-plan.md` |
 | 2026-10-15 | ai | [Alaska Search Site Adds 4 More Destinations](articles/ai/2026-10-15-alaska-search-adds-4-destinations.md) | `articles/ai/2026-10-15-alaska-search-adds-4-destinations.md` |
 | 2026-10-14 | tesla | [I'm Increasingly Convinced Tesla and SpaceX Will Merge](articles/tesla/2026-10-14-tesla-and-spacex-will-merge.md) | `articles/tesla/2026-10-14-tesla-and-spacex-will-merge.md` |
@@ -327,7 +336,11 @@ As of October 2026.
 | 2026-06-12 | markets | [Applied for 4,500 SpaceX IPO Shares, Got 0](articles/markets/2026-06-12-applied-4500-spacex-ipo-shares-got-0.md) | `articles/markets/2026-06-12-applied-4500-spacex-ipo-shares-got-0.md` |
 | 2026-06-11 | markets | [Investing in SpaceX](articles/markets/2026-06-11-investing-in-spacex-unlock-dates.md) | `articles/markets/2026-06-11-investing-in-spacex-unlock-dates.md` |
 | 2026-06-10 | markets | [The 6/17 Fed Rate Decision Meeting](articles/markets/2026-06-10-fed-qt-first-then-cuts.md) | `articles/markets/2026-06-10-fed-qt-first-then-cuts.md` |
+| 2026-06-09 | life | [The Earlier You Book Hotels, the Cheaper They Are](articles/life/2026-06-09-book-swiss-christmas-hotels-early.md) | `articles/life/2026-06-09-book-swiss-christmas-hotels-early.md` |
+| 2026-06-08 | markets | [What Goes Around Comes Around](articles/markets/2026-06-08-what-goes-around-comes-around-germany-bitcoin.md) | `articles/markets/2026-06-08-what-goes-around-comes-around-germany-bitcoin.md` |
 | 2026-06-06 | markets | [I Caught US$100,000 of Bitcoin](articles/markets/2026-06-06-caught-100000-of-bitcoin-at-200-week-ma.md) | `articles/markets/2026-06-06-caught-100000-of-bitcoin-at-200-week-ma.md` |
+| 2026-06-06 | tesla | [Rock Bottom of the Passionless Valley](articles/tesla/2026-06-06-rock-bottom-of-the-passionless-valley.md) | `articles/tesla/2026-06-06-rock-bottom-of-the-passionless-valley.md` |
+| 2026-06-05 | markets | [Hang In There, Brothers](articles/markets/2026-06-05-hang-in-there-brothers.md) | `articles/markets/2026-06-05-hang-in-there-brothers.md` |
 | 2026-06-04 | markets | [The Time Machine Has Been Invented](articles/markets/2026-06-04-the-time-machine-has-been-invented.md) | `articles/markets/2026-06-04-the-time-machine-has-been-invented.md` |
 
 ## Not to be confused with
