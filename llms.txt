@@ -148,6 +148,7 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - 2026-06-13 | Zero SpaceX IPO Shares, but Still Made $22,000 | articles/markets/2026-06-13-zero-spacex-ipo-shares-still-made-22000.md
 - 2026-06-12 | SpaceX IPO: 1,000 Shares at the 150 Opening Cross | articles/markets/2026-06-12-spacex-ipo-1000-shares-at-150.md
 - 2026-06-12 | Results Are In: SpaceX IPO, Allocated 0 | articles/markets/2026-06-12-results-are-in-spacex-ipo-zero.md
+- 2026-06-12 | Applied for 4,500 SpaceX IPO Shares, Got 0 | articles/markets/2026-06-12-applied-4500-spacex-ipo-shares-got-0.md
 
 ### AI tools and agents
 
