@@ -173,6 +173,8 @@ As of October 2026.
 - 2026-06-06 | I Caught US$100,000 of Bitcoin | articles/markets/2026-06-06-caught-100000-of-bitcoin-at-200-week-ma.md
 - 2026-06-05 | Hang In There, Brothers | articles/markets/2026-06-05-hang-in-there-brothers.md
 - 2026-06-04 | The Time Machine Has Been Invented | articles/markets/2026-06-04-the-time-machine-has-been-invented.md
+- 2026-06-03 | Did I Invent a Time Machine? | articles/markets/2026-06-03-did-i-invent-a-time-machine.md
+- 2026-06-02 | Racing to the Bottom, Faster | articles/markets/2026-06-02-racing-to-the-bottom-faster.md
 - 2026-06-02 | Another Night of Me Picking Up the Tab | articles/markets/2026-06-02-another-night-picking-up-the-tab.md
 - 2026-05-30 | Only Blockchain Can Go to Space With Us | articles/markets/2026-05-30-only-blockchain-goes-to-space.md
 
@@ -347,7 +349,9 @@ As of October 2026.
 | 2026-06-06 | tesla | [Rock Bottom of the Passionless Valley](articles/tesla/2026-06-06-rock-bottom-of-the-passionless-valley.md) | `articles/tesla/2026-06-06-rock-bottom-of-the-passionless-valley.md` |
 | 2026-06-05 | markets | [Hang In There, Brothers](articles/markets/2026-06-05-hang-in-there-brothers.md) | `articles/markets/2026-06-05-hang-in-there-brothers.md` |
 | 2026-06-04 | markets | [The Time Machine Has Been Invented](articles/markets/2026-06-04-the-time-machine-has-been-invented.md) | `articles/markets/2026-06-04-the-time-machine-has-been-invented.md` |
+| 2026-06-03 | markets | [Did I Invent a Time Machine?](articles/markets/2026-06-03-did-i-invent-a-time-machine.md) | `articles/markets/2026-06-03-did-i-invent-a-time-machine.md` |
 | 2026-06-02 | markets | [Another Night of Me Picking Up the Tab](articles/markets/2026-06-02-another-night-picking-up-the-tab.md) | `articles/markets/2026-06-02-another-night-picking-up-the-tab.md` |
+| 2026-06-02 | markets | [Racing to the Bottom, Faster](articles/markets/2026-06-02-racing-to-the-bottom-faster.md) | `articles/markets/2026-06-02-racing-to-the-bottom-faster.md` |
 | 2026-05-31 | life | [A Month of Skiing in Europe: Buy the Swiss Magic Pass Now](articles/life/2026-05-31-buy-the-swiss-magic-pass-now.md) | `articles/life/2026-05-31-buy-the-swiss-magic-pass-now.md` |
 | 2026-05-30 | markets | [Only Blockchain Can Go to Space With Us](articles/markets/2026-05-30-only-blockchain-goes-to-space.md) | `articles/markets/2026-05-30-only-blockchain-goes-to-space.md` |
 
