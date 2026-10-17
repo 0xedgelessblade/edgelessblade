@@ -17,6 +17,136 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - Topics: US equities, index valuation, US Treasury market, Tesla (TSLA), TSLL, TSLA/SPCX relative strength, trading psychology, niche building for individual creators
 
 =====
+File: articles/tesla/2026-10-17-not-2022-anymore-tsll.md
+
+# No Way This Is 2022 Again
+
+**Date:** 2026-10-17
+
+---
+
+No way this is 2022
+Back then rates were under 1%, now they're above 3.75%
+How are you supposed to run another nonstop hiking cycle from here
+
+And productivity is worlds apart
+Everyone already has a secretary
+and soon everyone will have a driver too
+Paradise is on its way
+
+Yesterday I sold 1,000 shares of TSLL premarket
+Never imagined it could get this ugly during the session, so I scooped the 1,000 shares back up at 9.14🤣
+Then I remembered the position I'd cleared out earlier
+still had room for 1,500 shares, so I sold puts on another 1,500
+
+![Filled orders: bought back 1,000 TSLL at 9.14, sold TSLL and IBIT puts, sold 1,000 TSLL at 10.04](../../images/DelomnYDiac-1.jpg)
+
+## Replies
+
+> Reader: Welcome to 2022
+
+Stop opening random portals
+I'm not stepping through
+
+> Reader: Really?
+
+In my eyes, it is
+
+> Reader: Okay then, you are my eyes
+
+Planting a ward to keep an eye on the price
+
+> Reader: Boss: "Didn't I give every single one of you a secretary? So why hasn't revenue doubled yet?"
+
+Exactly
+The layoffs may be about to start
+
+> Reader: This is painful, my gains have almost turned negative, I'm just no good at stocks😭
+
+> Reader: Keep believing in the investment, top up your faith
+
+Control your risk with position sizing
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DelomnYDiac
+
+=====
+File: articles/ai/2026-10-17-alaska-us-routes-live.md
+
+# Alaska Award Finder: US Routes Are Live
+
+**Date:** 2026-10-17
+
+---
+
+The Alaska award finder
+US routes are officially live!
+Now you can find cheap business class between Taipei and the US too✈️
+
+At members' request, we've expanded the search from Asia to the US
+You can now search Taipei to and from Los Angeles, San Francisco, Seattle, Ontario and Phoenix
+
+Also, a new feature on the site!!!
+Click a flight in the table and it takes you straight to Alaska's official website
+Travel date and airports already picked for you
+One click and you're booking on the official site
+I tested it myself, it's so good I could cry🤣
+
+The site's features and bugs
+are pretty much sorted now
+The early Pro membership plan
+closes in six hours
+Six months for three US dollars
+Grab it while you can
+
+And finally, a special deal from the site
+Taipei ⇄ Phoenix nonstop business class: 85,000 points per person, one way
+
+🛫 Taipei → Phoenix
+▪️ Aug 24 (Tue) 20:10 | 2 seats
+▪️ Aug 26 (Thu) 20:10 | 1 seat
+▪️ Aug 29 (Sun) 20:10 | 1 seat
+
+🛬 Phoenix → Taipei
+▪️ Aug 14 (Sat) 23:55 | 1 seat
+▪️ Sep 7 (Tue) 23:25 | 2 seats
+▪️ Sep 11 (Sat) 23:25 | 4 seats
+
+![Poster: US routes are live, with return trips found too](../../images/DemRTYWjrga-1.jpg)
+
+![Poster: pick a date and go straight to the official site to search](../../images/DemRTYWjrga-2.jpg)
+
+![Poster: switch between Asia and the US in one tap](../../images/DemRTYWjrga-3.jpg)
+
+![Poster: business class from Taipei to Phoenix, 85,000 points](../../images/DemRTYWjrga-4.jpg)
+
+![Poster: business class from Phoenix back to Taiwan, 85,000 points](../../images/DemRTYWjrga-5.jpg)
+
+On my site
+US business class only shows
+dates at 75,000 and 85,000 points
+All the pricey dates are stripped out
+so the cheap ones are easy to find
+miles.edgelessblade.com
+
+![Award finder screenshot: US route departures with business class at 75k points](../../images/DemTVOBCNaR-1.jpg)
+
+## Replies
+
+> Reader: Banging my bowl for Europe next!
+
+👍 Which Alaska routes in Europe do Taiwanese travellers like?
+
+> Reader: STARLUX, Taipei to Prague
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DemRTYWjrga
+
+Also: https://www.threads.com/@edgeless.blade/post/DemTVOBCNaR
+
+=====
 File: articles/tesla/2026-10-16-kept-adding-tsll-sell-puts.md
 
 # Kept Adding TSLL Sell Puts While the Market Panicked
@@ -7057,3 +7187,398 @@ much the way that today, no matter which country's currency people hold, some of
 Original posts:
 - Part 1: https://www.threads.com/@edgeless.blade/post/DY9A--jET7G
 - Part 2: https://www.threads.com/@edgeless.blade/post/DY9UljDkXKL
+
+=====
+File: articles/markets/2026-05-29-cme-bitcoin-gap-ends.md
+
+# The CME Bitcoin Gap Ends Today
+
+**Date:** 2026-05-29
+
+---
+
+The CME futures gap that bitcoin traders love most
+will never happen again after today
+For the full reasons, see my post from 3/14
+At this turbulent moment for bitcoin
+a historic reform arrives
+Maybe it's the catalyst for a reversal
+
+Quoting my earlier post (2026-03-14): https://www.threads.com/@edgeless.blade/post/DV2ilq_EVaZ
+
+> Have institutions actually come into bitcoin or not?
+> Let me walk you through a CME notice
+>
+> On 3/15, the IP addresses for crypto futures
+> are all being swapped out
+> This is the world's largest derivatives exchange
+> rebuilding its entire trading logic for bitcoin
+>
+> Why change the IPs?
+> Because starting May 29
+> CME's crypto futures and options
+> officially move to 24/7 nonstop trading
+> (with just 2 hours of maintenance a week)
+>
+> What does that mean?
+> The bitcoin futures gap
+> the BTC CME Gap, is about to become history
+> Everyone's favorite technical indicator
+> that urban legend about gaps getting filled 98% of the time
+> After May 29, there won't be any more of them
+>
+> A few numbers to give you a feel for how big crypto is:
+> CME crypto derivatives volume in 2025: US$3 trillion
+> Average daily volume in 2026: 400,000 contracts, up 46% year over year
+> And it's not just BTC and ETH on the board
+> ADA, LINK and XLM are listed too
+>
+> Meanwhile, CME is moving the whole of Globex onto Google Cloud
+> and has built an ultra-low-latency private-cloud data center in Chicago
+>
+> What is Wall Street doing right now?
+> Not staring at charts
+> It's building a round-the-clock trading hub for bitcoin
+> Institutions aren't just coming in
+> they're building houses
+>
+> The one thing to watch is next Monday, 3/16
+> If some fly-by-night market maker
+> didn't switch IPs over the weekend
+> the order book will be paper-thin at the open
+> One big wick sweeps through
+> and crypto liquidation screenshots flood the feeds all over again
+
+**Part 2**
+
+Here's why
+(Also, watch out for scam links in the replies below)
+
+## Replies
+
+> Reader: Tesla's ripping!
+
+> Reader: Charge! Bitcoin tsunami
+
+---
+
+Original posts:
+- Part 1: https://www.threads.com/@edgeless.blade/post/DY5_0c_GFbU
+- Part 2: https://www.threads.com/@edgeless.blade/post/DY5_8EQGKT8
+
+=====
+File: articles/markets/2026-05-28-spacex-ipo-520k-wired.md
+
+# US$520K Wired to Lock In the SpaceX IPO
+
+**Date:** 2026-05-28
+
+---
+
+US$520,000 has been wired out to lock in
+my SpaceX IPO subscription
+No idea what the allotment ratio will be this time
+
+![Bank notice: a wire withdrawal of USD 520,000.00 has been sent](../../images/DY4lP0FmAJ-1.jpg)
+
+**Part 2**
+
+Threads users are all pretty sharp
+but please still stay alert
+I won't always catch them on my patrols
+
+## Replies
+
+> Reader: May I ask what it is about SpaceX that made you want to subscribe?
+
+> Reader: Couldn't you just hold it through a Tesla share swap? And what, is bitcoin something to be thrown away now?
+
+Haven't sold any of my Tesla shares
+Haven't sold any bitcoin either
+
+> Reader: Is there a lock-up period on this subscription?
+
+> Reader: Last year when I subscribed to SpaceX I put in about the same amount, and the allotment came in around 3–5%. Really not much, and it comes down to luck. A friend of mine subscribed through an institutional allocation and got a lot more, but the bar for that is even higher. I'd suggest opening a few more accounts and spreading your subscriptions around; your odds go up a little.
+
+Beast mode
+
+> Reader: I applied for 300K too, let's pray together
+
+Beast mode
+
+> Reader: You're even more of a beast, 500K!
+
+We're all beasts
+
+> Reader: These guys are such jerks, making lookalike IDs
+
+Sometimes they really do get on my nerves
+
+> Reader: Can't block them fast enough
+
+---
+
+Original posts:
+- Part 1: https://www.threads.com/@edgeless.blade/post/DY4lP0FmAJ-
+- Part 2: https://www.threads.com/@edgeless.blade/post/DY4oXDSGCwv
+
+=====
+File: articles/life/2026-05-27-hsbc-singapore-premier-test.md
+
+# Field Test: Opening HSBC Singapore Premier
+
+**Date:** 2026-05-27
+
+---
+
+Field-tested
+HSBC Singapore Premier
+Opening an account online is dead simple
+Just download the HSBC SG app and follow the steps
+
+To test it properly for you all
+I didn't link any of my other Global accounts
+I just opened a brand-new one
+The account was open in two days
+
+Passport + proof of address
+The easiest English-language proof of address
+is to go to your household registration office and apply for
+an English copy of your household registration transcript
+
+Next, the minimum deposit requirement is SGD 200,000
+Good news: you can use US stocks instead
+Bad news: I put it all in TSLA
+Surely a little fun won't drop me below the Premier balance, right?
+Sharing my field test with friends who need it
+
+## Replies
+
+> Reader: Get moving~~ Park NT$3 million in Taiwan. Use Global Premier to open Singapore. Put the NT$3 million in a time deposit, pledge it to borrow NT$2.85 million back, and buy the broad market. The deposit interest and the loan interest cancel out. That way NT$150,000 gets you Global Premier
+
+> Reader: HSBC SG charges a 0.15% fee on US stocks but no custody fee
+> Shares you transfer in carry no fee
+
+> Reader: May I ask what the perks of opening this Premier account are?
+
+> Reader: What's the difference between this and just opening HSBC Taiwan?
+
+> Reader: SGD 200K is about NT$4.5 million?
+
+> Reader: I don't get it but I really want to. Can someone explain what this post is for and what the perks are?
+
+> Reader: Do you transfer your brokerage positions in, or buy through the bank?
+
+> Reader: If my stocks are at IB or Firstrade, can I still do this? Or do I have to move the positions over to HSBC?
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DY02L0bmIpf
+
+=====
+File: articles/markets/2026-05-26-bksy-blacksky-technology.md
+
+# BKSY — BlackSky Technology Inc.
+
+**Date:** 2026-05-26
+
+---
+
+> Tier: Layer 1 — Sensing Infrastructure (real-time geospatial intelligence)
+> Hype level: Low | Dominance potential: ★★★★ | CEO killer instinct: ★★★★★
+
+---
+
+## Company Overview
+
+BlackSky is a real-time space intelligence company that combines satellite imagery with AI analytics to deliver near-real-time geospatial intelligence. Unlike Planet (daily coverage), BlackSky focuses on "on-demand, real-time, high-resolution" intelligence services — think of it as "a real-time reconnaissance plane, in space."
+
+- **Market cap tier**: Small cap
+- **Exchange**: NYSE: BKSY
+- **Headquarters**: Virginia, USA
+
+---
+
+## Why It Has Dominance in AI Real-Time Data
+
+### Core Logic
+
+```
+on-demand satellite tasking → AI-enabled detection → real-time intelligence feed
+```
+
+1. **Real-time intelligence, not static imagery**: BlackSky isn't selling "photos," it's selling "intelligence" — AI automatically detects ships, aircraft and vehicles and outputs actionable intelligence directly
+2. **The Gen-3 satellite revolution**: 35 cm ultra-high resolution, paired with AI analytics, takes the whole pipeline from capture to intelligence output in a matter of minutes
+3. **Deep defense roots**: Defense and intelligence agencies are core customers, and the contracts are extremely sticky (an eight-figure international contract already signed)
+4. **sensor-to-decision pipeline**: BlackSky's full pipeline covers everything from sensing to decision-making; it's not just a data vendor
+
+### Dominance Assessment
+
+～ In the niche of "real-time geospatial intelligence," BlackSky may be the listed company closest to being an "AI-native intelligence company." It doesn't just take pictures; it sells AI-generated intelligence directly — a higher-value data layer.
+
+---
+
+## CEO / Management Analysis
+
+### Brian O'Toole — CEO
+
+**Decisiveness / killer instinct: ★★★★★ (defense veteran + commercialization killer) | Founder Type: Professional Manager (an outside-hired CEO of the defense-contract-killer kind)**
+
+- **2025 CEO of the Year**: Named "Executive of the Year" at the Greater Washington GovCon Awards
+- **Deep defense background**: Knows the US defense procurement system inside out and lands high-value contracts with precision
+- **Stunning Gen-3 execution**: Rapidly completed commissioning and commercial operation of the Gen-3 satellites, sharply cutting the time from launch to commercial service
+- **Decisive international expansion**: Landed an eight-figure international contract in 2026-02, covering satellite sales + multi-year subscription services, a sign of strong appetite for expansion
+- **Style**: A "practitioner" of the defense world — no airy talk about vision, just lets contracts and revenue do the talking
+
+---
+
+## Financial Snapshot
+
+| Metric | Figure | Confidence |
+|------|------|------|
+| FY2025 revenue | $107M (record) | ✓ |
+| Backlog at end of 2025 | $345M (YoY +32%) | ✓ |
+| 2026 revenue guidance | $120M-$145M (YoY +24%) | ✓ |
+| 2026 Adjusted EBITDA guidance | $6M-$18M (positive!) | ✓ |
+| Share price (2026-03-06) | $23.73 | ✓ |
+
+---
+
+## Catalysts
+
+1. **Full commercialization of Gen-3 satellites**: 35 cm resolution + AI analytics, with defense and commercial demand taking off together
+2. **International expansion**: The eight-figure "sovereign space intelligence" contract model can be replicated across many countries
+3. **Growing AI defense budgets**: US + allied spending on space intelligence is in a structural uptrend
+4. **EBITDA about to turn positive**: The 2026 guidance of $6M-$18M in positive EBITDA shows the business model works
+
+## Risks
+
+1. **Customer concentration**: The US government accounts for a large share of revenue, so policy shifts are a big risk
+2. **Small-cap volatility**: Small market cap, violent share-price swings
+3. **Satellite race**: Planet, Maxar (acquired by Advent) and Capella Space are all fighting for turf
+4. **Geopolitical risk**: International contracts are at the mercy of diplomatic relations
+
+## Replies
+
+> Reader: Saving this
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DYzZRCgmCF1
+
+=====
+File: articles/markets/2026-05-25-spacex-ipo-taiwan-subscription.md
+
+# Subscribing to the SpaceX IPO From Taiwan
+
+**Date:** 2026-05-25
+
+---
+
+Bottom line first
+SpaceX IPO: subscribing from Taiwan
+Orders close 5/28
+
+US brokers only let Americans register
+Taiwanese folks, please come home and enter the draw through sub-brokerage
+As far as I know, Yuanta takes subscriptions
+Mega can too
+Mega waives the US$200 fee
+Prerequisite: you need professional investor certification, which requires NT$30 million in assets, e.g. real estate or proof of deposit balance
+
+The mechanism isn't quite like Taiwan's IPO lottery
+Let me explain
+Once you've submitted your subscription amount to the broker
+it's not like Taiwan stocks, where a few households celebrate and the rest weep
+Instead, everyone shares the same allotment ratio
+For example, I'll probably apply to subscribe NT$10 million
+If the allotment ratio ends up at 30%
+I'll get NT$3 million worth of shares
+Honestly, I don't dare buy too much
+Market sentiment is way too hot
+Start with a base position
+and if it gets cut in half, keep backing it
+
+## Replies
+
+> Reader: Getting ready to fill in the subscription form tomorrow; got a call from a Yuanta assistant manager today
+
+Did they say when it closes?
+
+> Reader: I only get the subscription form tomorrow, so I'm not clear on the details yet either
+
+> Reader: When it lists, everyone's going to dump Tesla and move it all into SpaceX, the most orthodox Musk stock there is
+
+> Reader: Does anyone have a Mega rep to recommend?
+
+> Reader: My Yuanta broker said I can't subscribe🧐
+
+Did they say why?
+
+> Reader: Nope
+
+> Reader: My uncle is really good at buying
+
+ur unc is who
+
+> Reader: ur big unc, that's who
+
+> Reader: Glug glug
+
+Drink more water n u'll b fine
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DYwui70mMDw
+
+=====
+File: articles/life/2026-05-25-still-respect-money.md
+
+# Still, Respect Money
+
+**Date:** 2026-05-25
+
+---
+
+This year really has been easy money
+but please, all of you, still respect money
+
+## Replies
+
+> Reader: I'm hiding out nicely in BTC
+
+> Reader: I still pick up loose change next to vending machines
+
+Heaven rewards the diligent
+
+> Reader: When are you switching to Tesla……
+
+When are you switching to Tesla……
+
+> Reader: Respecting it plenty, I scoop up as much as I can. After all, it never used to come looking for me this often🤣
+
+> Reader: I'm in BTC and Tesla, living the plain, unadorned (and boring) life🥹
+
+I've been living it a while now
+Time to let someone else have a go🤣🤣
+
+> Reader: I'm in gold and Tesla (tlsa), hiding from the AI bull
+
+Gold-plated humblebrag
+
+> Reader: I just gnawed on a mango peel.
+
+Who do you think gnawed the mango pit
+
+> Reader: Not my turn yet (drooling)
+
+> Reader: I went all in. That's super respectful, right?
+
+> Reader: Haven't started making money this year yet🥹
+
+> Reader: So funny hahahahahaha
+> Okay, I'll stop laughing…
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DYwJSZRkYSB

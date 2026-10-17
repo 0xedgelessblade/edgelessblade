@@ -128,6 +128,14 @@ TOPICS = {
     "articles/life/2026-09-28-turning-a-four-bedroom-into-a-two-bedroom.md": [L],
     "articles/life/2026-09-21-permanent-residency-is-not-a-passport.md": [L],
     "articles/life/2026-09-19-inawashiro-and-nekoma.md": [L],
+    "articles/ai/2026-10-17-alaska-us-routes-live.md": [A, L],
+    "articles/tesla/2026-10-17-not-2022-anymore-tsll.md": [T, R, U],
+    "articles/markets/2026-05-29-cme-bitcoin-gap-ends.md": [U],
+    "articles/markets/2026-05-28-spacex-ipo-520k-wired.md": [U],
+    "articles/life/2026-05-27-hsbc-singapore-premier-test.md": [L],
+    "articles/markets/2026-05-26-bksy-blacksky-technology.md": [U, A],
+    "articles/markets/2026-05-25-spacex-ipo-taiwan-subscription.md": [U],
+    "articles/life/2026-05-25-still-respect-money.md": [L, U],
 }
 
 

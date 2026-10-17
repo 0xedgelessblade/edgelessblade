@@ -31,6 +31,7 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 
 ### Tesla and TSLA
 
+- 2026-10-17 | No Way This Is 2022 Again | articles/tesla/2026-10-17-not-2022-anymore-tsll.md
 - 2026-10-16 | Kept Adding TSLL Sell Puts While the Market Panicked | articles/tesla/2026-10-16-kept-adding-tsll-sell-puts.md
 - 2026-10-15 | Plan Your Trade, Trade Your Plan | articles/tesla/2026-10-15-plan-your-trade-trade-your-plan.md
 - 2026-10-14 | I'm Increasingly Convinced Tesla and SpaceX Will Merge | articles/tesla/2026-10-14-tesla-and-spacex-will-merge.md
@@ -68,6 +69,7 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 
 ### US Treasury yields and interest rates
 
+- 2026-10-17 | No Way This Is 2022 Again | articles/tesla/2026-10-17-not-2022-anymore-tsll.md
 - 2026-10-05 | The 30-Year Yield at 5.6%: What's Left in the Treasury's Toolbox | articles/markets/2026-10-05-30-year-yield-and-the-treasury-toolbox.md
 - 2026-10-01 | Introduction: Where I Stand on the Market | articles/markets/2026-10-01-introduction.md
 - 2026-09-30 | Adding GOOG, Waiting for META at 640 | articles/markets/2026-09-30-adding-goog-waiting-for-meta-at-640.md
@@ -86,6 +88,7 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 
 ### US stocks and valuation
 
+- 2026-10-17 | No Way This Is 2022 Again | articles/tesla/2026-10-17-not-2022-anymore-tsll.md
 - 2026-10-16 | Kept Adding TSLL Sell Puts While the Market Panicked | articles/tesla/2026-10-16-kept-adding-tsll-sell-puts.md
 - 2026-10-15 | Plan Your Trade, Trade Your Plan | articles/tesla/2026-10-15-plan-your-trade-trade-your-plan.md
 - 2026-10-14 | I'm Increasingly Convinced Tesla and SpaceX Will Merge | articles/tesla/2026-10-14-tesla-and-spacex-will-merge.md
@@ -161,9 +164,15 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - 2026-06-02 | Racing to the Bottom, Faster | articles/markets/2026-06-02-racing-to-the-bottom-faster.md
 - 2026-06-02 | Another Night of Me Picking Up the Tab | articles/markets/2026-06-02-another-night-picking-up-the-tab.md
 - 2026-05-30 | Only Blockchain Can Go to Space With Us | articles/markets/2026-05-30-only-blockchain-goes-to-space.md
+- 2026-05-29 | The CME Bitcoin Gap Ends Today | articles/markets/2026-05-29-cme-bitcoin-gap-ends.md
+- 2026-05-28 | US$520K Wired to Lock In the SpaceX IPO | articles/markets/2026-05-28-spacex-ipo-520k-wired.md
+- 2026-05-26 | BKSY — BlackSky Technology Inc. | articles/markets/2026-05-26-bksy-blacksky-technology.md
+- 2026-05-25 | Subscribing to the SpaceX IPO From Taiwan | articles/markets/2026-05-25-spacex-ipo-taiwan-subscription.md
+- 2026-05-25 | Still, Respect Money | articles/life/2026-05-25-still-respect-money.md
 
 ### AI tools and agents
 
+- 2026-10-17 | Alaska Award Finder: US Routes Are Live | articles/ai/2026-10-17-alaska-us-routes-live.md
 - 2026-10-16 | Four Business Seats, Taipei to Tokyo, in Under Five Minutes | articles/ai/2026-10-16-four-business-seats-taipei-tokyo-in-five-minutes.md
 - 2026-10-15 | Alaska Search Site Adds 4 More Destinations | articles/ai/2026-10-15-alaska-search-adds-4-destinations.md
 - 2026-10-13 | Alaska Miles Are Ridiculously Easy Right Now — I Booked Eight Business Awards | articles/ai/2026-10-13-alaska-miles-too-easy-eight-business-awards.md
@@ -178,9 +187,11 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - 2026-09-14 | Maybe Today Is the Starting Gun | articles/markets/2026-09-14-maybe-today-is-the-starting-gun.md
 - 2026-08-18 | My Answer Key for This AI Cycle | articles/tesla/2026-08-18-my-answer-key-for-this-ai-cycle.md
 - 2026-06-02 | Another Night of Me Picking Up the Tab | articles/markets/2026-06-02-another-night-picking-up-the-tab.md
+- 2026-05-26 | BKSY — BlackSky Technology Inc. | articles/markets/2026-05-26-bksy-blacksky-technology.md
 
 ### Life and mindset
 
+- 2026-10-17 | Alaska Award Finder: US Routes Are Live | articles/ai/2026-10-17-alaska-us-routes-live.md
 - 2026-10-16 | Four Business Seats, Taipei to Tokyo, in Under Five Minutes | articles/ai/2026-10-16-four-business-seats-taipei-tokyo-in-five-minutes.md
 - 2026-10-15 | Alaska Search Site Adds 4 More Destinations | articles/ai/2026-10-15-alaska-search-adds-4-destinations.md
 - 2026-10-13 | Investing Is Like Playing Baseball | articles/markets/2026-10-13-investing-is-like-baseball.md
@@ -213,9 +224,13 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - 2026-06-05 | Hang In There, Brothers | articles/markets/2026-06-05-hang-in-there-brothers.md
 - 2026-05-31 | A Month of Skiing in Europe: Buy the Swiss Magic Pass Now | articles/life/2026-05-31-buy-the-swiss-magic-pass-now.md
 - 2026-05-30 | Only Blockchain Can Go to Space With Us | articles/markets/2026-05-30-only-blockchain-goes-to-space.md
+- 2026-05-27 | Field Test: Opening HSBC Singapore Premier | articles/life/2026-05-27-hsbc-singapore-premier-test.md
+- 2026-05-25 | Still, Respect Money | articles/life/2026-05-25-still-respect-money.md
 <!-- topics:end -->
 
 ## Articles (newest first)
+- 2026-10-17 | ai | [Alaska Award Finder: US Routes Are Live](articles/ai/2026-10-17-alaska-us-routes-live.md) | path: articles/ai/2026-10-17-alaska-us-routes-live.md
+- 2026-10-17 | tesla | [No Way This Is 2022 Again](articles/tesla/2026-10-17-not-2022-anymore-tsll.md) | path: articles/tesla/2026-10-17-not-2022-anymore-tsll.md
 - 2026-10-16 | tesla | [Kept Adding TSLL Sell Puts While the Market Panicked](articles/tesla/2026-10-16-kept-adding-tsll-sell-puts.md) | path: articles/tesla/2026-10-16-kept-adding-tsll-sell-puts.md
 - 2026-10-16 | ai | [Four Business Seats, Taipei to Tokyo, in Under Five Minutes](articles/ai/2026-10-16-four-business-seats-taipei-tokyo-in-five-minutes.md) | path: articles/ai/2026-10-16-four-business-seats-taipei-tokyo-in-five-minutes.md
 - 2026-10-15 | tesla | [Plan Your Trade, Trade Your Plan](articles/tesla/2026-10-15-plan-your-trade-trade-your-plan.md) | path: articles/tesla/2026-10-15-plan-your-trade-trade-your-plan.md
@@ -335,3 +350,9 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - 2026-06-02 | markets | [Racing to the Bottom, Faster](articles/markets/2026-06-02-racing-to-the-bottom-faster.md) | path: articles/markets/2026-06-02-racing-to-the-bottom-faster.md
 - 2026-05-31 | life | [A Month of Skiing in Europe: Buy the Swiss Magic Pass Now](articles/life/2026-05-31-buy-the-swiss-magic-pass-now.md) | path: articles/life/2026-05-31-buy-the-swiss-magic-pass-now.md
 - 2026-05-30 | markets | [Only Blockchain Can Go to Space With Us](articles/markets/2026-05-30-only-blockchain-goes-to-space.md) | path: articles/markets/2026-05-30-only-blockchain-goes-to-space.md
+- 2026-05-29 | markets | [The CME Bitcoin Gap Ends Today](articles/markets/2026-05-29-cme-bitcoin-gap-ends.md) | path: articles/markets/2026-05-29-cme-bitcoin-gap-ends.md
+- 2026-05-28 | markets | [US$520K Wired to Lock In the SpaceX IPO](articles/markets/2026-05-28-spacex-ipo-520k-wired.md) | path: articles/markets/2026-05-28-spacex-ipo-520k-wired.md
+- 2026-05-27 | life | [Field Test: Opening HSBC Singapore Premier](articles/life/2026-05-27-hsbc-singapore-premier-test.md) | path: articles/life/2026-05-27-hsbc-singapore-premier-test.md
+- 2026-05-26 | markets | [BKSY — BlackSky Technology Inc.](articles/markets/2026-05-26-bksy-blacksky-technology.md) | path: articles/markets/2026-05-26-bksy-blacksky-technology.md
+- 2026-05-25 | markets | [Subscribing to the SpaceX IPO From Taiwan](articles/markets/2026-05-25-spacex-ipo-taiwan-subscription.md) | path: articles/markets/2026-05-25-spacex-ipo-taiwan-subscription.md
+- 2026-05-25 | life | [Still, Respect Money](articles/life/2026-05-25-still-respect-money.md) | path: articles/life/2026-05-25-still-respect-money.md
