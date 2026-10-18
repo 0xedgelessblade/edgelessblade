@@ -83,6 +83,8 @@ As of October 2026.
 - 2026-07-06 | Can You Feel It? Higher Lows | articles/tesla/2026-07-06-can-you-feel-it-higher-lows.md
 - 2026-06-06 | Rock Bottom of the Passionless Valley | articles/tesla/2026-06-06-rock-bottom-of-the-passionless-valley.md
 - 2026-05-21 | How I Built My TSLA Position | articles/tesla/2026-05-21-how-i-built-my-tsla-position.md
+- 2026-05-19 | Sorry, Couldn't Help Myself | articles/tesla/2026-05-19-sorry-couldnt-help-myself.md
+- 2026-05-15 | US Stocks, That's Not Very Sporting of You | articles/tesla/2026-05-15-us-stocks-not-very-sporting.md
 - 2026-05-14 | Tesla's Next Business Is Built for the Whole World | articles/tesla/2026-05-14-teslas-next-business-is-for-the-whole-world.md
 
 ### US Treasury yields and interest rates
@@ -188,7 +190,11 @@ As of October 2026.
 - 2026-05-25 | Subscribing to the SpaceX IPO From Taiwan | articles/markets/2026-05-25-spacex-ipo-taiwan-subscription.md
 - 2026-05-25 | Still, Respect Money | articles/life/2026-05-25-still-respect-money.md
 - 2026-05-22 | So Why Not Use Interactive Brokers? | articles/markets/2026-05-22-so-why-not-use-ib.md
+- 2026-05-22 | One Answer for Everyone: US Dollars | articles/markets/2026-05-22-one-answer-for-all-usd.md
+- 2026-05-19 | Sorry, Couldn't Help Myself | articles/tesla/2026-05-19-sorry-couldnt-help-myself.md
+- 2026-05-19 | Seagate's CEO "Refuses to Expand Capacity" | articles/markets/2026-05-19-seagate-refuses-to-expand-capacity.md
 - 2026-05-18 | Harvard Slashes Its Bitcoin Position | articles/markets/2026-05-18-harvard-slashes-its-bitcoin-position.md
+- 2026-05-15 | US Stocks, That's Not Very Sporting of You | articles/tesla/2026-05-15-us-stocks-not-very-sporting.md
 - 2026-05-15 | Ground Rules for Trading Cyclical Stocks | articles/markets/2026-05-15-trading-rules-for-cyclical-stocks.md
 - 2026-05-15 | The CLARITY Act Takes Another Big Step Forward | articles/markets/2026-05-15-clarity-act-another-big-step.md
 
@@ -251,6 +257,7 @@ As of October 2026.
 - 2026-05-30 | Only Blockchain Can Go to Space With Us | articles/markets/2026-05-30-only-blockchain-goes-to-space.md
 - 2026-05-27 | Field Test: Opening HSBC Singapore Premier | articles/life/2026-05-27-hsbc-singapore-premier-test.md
 - 2026-05-25 | Still, Respect Money | articles/life/2026-05-25-still-respect-money.md
+- 2026-05-22 | One Answer for Everyone: US Dollars | articles/markets/2026-05-22-one-answer-for-all-usd.md
 - 2026-05-16 | Want to Join the Hermès Stable? First Understand Its Blind-Box Machine | articles/life/2026-05-16-hermes-blind-box-mechanism.md
 <!-- topics:end -->
 
@@ -388,11 +395,15 @@ As of October 2026.
 | 2026-05-25 | life | [Still, Respect Money](articles/life/2026-05-25-still-respect-money.md) | `articles/life/2026-05-25-still-respect-money.md` |
 | 2026-05-23 | ai | [The Underlying Logic: AI's Three Stages, from Models to Data](articles/ai/2026-05-23-ai-three-stages-from-models-to-data.md) | `articles/ai/2026-05-23-ai-three-stages-from-models-to-data.md` |
 | 2026-05-22 | markets | [So Why Not Use Interactive Brokers?](articles/markets/2026-05-22-so-why-not-use-ib.md) | `articles/markets/2026-05-22-so-why-not-use-ib.md` |
+| 2026-05-22 | markets | [One Answer for Everyone: US Dollars](articles/markets/2026-05-22-one-answer-for-all-usd.md) | `articles/markets/2026-05-22-one-answer-for-all-usd.md` |
 | 2026-05-21 | tesla | [How I Built My TSLA Position](articles/tesla/2026-05-21-how-i-built-my-tsla-position.md) | `articles/tesla/2026-05-21-how-i-built-my-tsla-position.md` |
+| 2026-05-19 | tesla | [Sorry, Couldn't Help Myself](articles/tesla/2026-05-19-sorry-couldnt-help-myself.md) | `articles/tesla/2026-05-19-sorry-couldnt-help-myself.md` |
+| 2026-05-19 | markets | [Seagate's CEO "Refuses to Expand Capacity"](articles/markets/2026-05-19-seagate-refuses-to-expand-capacity.md) | `articles/markets/2026-05-19-seagate-refuses-to-expand-capacity.md` |
 | 2026-05-18 | markets | [Harvard Slashes Its Bitcoin Position](articles/markets/2026-05-18-harvard-slashes-its-bitcoin-position.md) | `articles/markets/2026-05-18-harvard-slashes-its-bitcoin-position.md` |
 | 2026-05-16 | life | [Want to Join the Hermès Stable? First Understand Its Blind-Box Machine](articles/life/2026-05-16-hermes-blind-box-mechanism.md) | `articles/life/2026-05-16-hermes-blind-box-mechanism.md` |
 | 2026-05-15 | markets | [The CLARITY Act Takes Another Big Step Forward](articles/markets/2026-05-15-clarity-act-another-big-step.md) | `articles/markets/2026-05-15-clarity-act-another-big-step.md` |
 | 2026-05-15 | markets | [Ground Rules for Trading Cyclical Stocks](articles/markets/2026-05-15-trading-rules-for-cyclical-stocks.md) | `articles/markets/2026-05-15-trading-rules-for-cyclical-stocks.md` |
+| 2026-05-15 | tesla | [US Stocks, That's Not Very Sporting of You](articles/tesla/2026-05-15-us-stocks-not-very-sporting.md) | `articles/tesla/2026-05-15-us-stocks-not-very-sporting.md` |
 | 2026-05-14 | tesla | [Tesla's Next Business Is Built for the Whole World](articles/tesla/2026-05-14-teslas-next-business-is-for-the-whole-world.md) | `articles/tesla/2026-05-14-teslas-next-business-is-for-the-whole-world.md` |
 
 ## Not to be confused with

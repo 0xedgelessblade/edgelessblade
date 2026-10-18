@@ -36,6 +36,12 @@ Please stay on your guard
 
 > Reader: Hurry up and dump your IBIT and MSTR, rotate into TSM, MU and SNDK
 
+> Reader: Interesting take. Do you see Harvard's trim as a risk move or a strategy?
+
+The trim says it all
+Still being the No. 1 position says it all too
+Though I can't tell how the puts are spread out
+
 > Reader: BTC is just trash
 
 > Reader: 🖕🏻BTC
