@@ -82,6 +82,7 @@ As of October 2026.
 - 2026-07-21 | Mid-Barbecue, 120 TSLL Puts | articles/tesla/2026-07-21-grilling-tsll-120-puts.md
 - 2026-07-06 | Can You Feel It? Higher Lows | articles/tesla/2026-07-06-can-you-feel-it-higher-lows.md
 - 2026-06-06 | Rock Bottom of the Passionless Valley | articles/tesla/2026-06-06-rock-bottom-of-the-passionless-valley.md
+- 2026-05-21 | How I Built My TSLA Position | articles/tesla/2026-05-21-how-i-built-my-tsla-position.md
 
 ### US Treasury yields and interest rates
 
@@ -185,6 +186,7 @@ As of October 2026.
 - 2026-05-26 | BKSY — BlackSky Technology Inc. | articles/markets/2026-05-26-bksy-blacksky-technology.md
 - 2026-05-25 | Subscribing to the SpaceX IPO From Taiwan | articles/markets/2026-05-25-spacex-ipo-taiwan-subscription.md
 - 2026-05-25 | Still, Respect Money | articles/life/2026-05-25-still-respect-money.md
+- 2026-05-22 | So Why Not Use Interactive Brokers? | articles/markets/2026-05-22-so-why-not-use-ib.md
 
 ### AI tools and agents
 
@@ -204,6 +206,7 @@ As of October 2026.
 - 2026-08-18 | My Answer Key for This AI Cycle | articles/tesla/2026-08-18-my-answer-key-for-this-ai-cycle.md
 - 2026-06-02 | Another Night of Me Picking Up the Tab | articles/markets/2026-06-02-another-night-picking-up-the-tab.md
 - 2026-05-26 | BKSY — BlackSky Technology Inc. | articles/markets/2026-05-26-bksy-blacksky-technology.md
+- 2026-05-23 | The Underlying Logic: AI's Three Stages, from Models to Data | articles/ai/2026-05-23-ai-three-stages-from-models-to-data.md
 
 ### Life and mindset
 
@@ -375,6 +378,9 @@ As of October 2026.
 | 2026-05-26 | markets | [BKSY — BlackSky Technology Inc.](articles/markets/2026-05-26-bksy-blacksky-technology.md) | `articles/markets/2026-05-26-bksy-blacksky-technology.md` |
 | 2026-05-25 | markets | [Subscribing to the SpaceX IPO From Taiwan](articles/markets/2026-05-25-spacex-ipo-taiwan-subscription.md) | `articles/markets/2026-05-25-spacex-ipo-taiwan-subscription.md` |
 | 2026-05-25 | life | [Still, Respect Money](articles/life/2026-05-25-still-respect-money.md) | `articles/life/2026-05-25-still-respect-money.md` |
+| 2026-05-23 | ai | [The Underlying Logic: AI's Three Stages, from Models to Data](articles/ai/2026-05-23-ai-three-stages-from-models-to-data.md) | `articles/ai/2026-05-23-ai-three-stages-from-models-to-data.md` |
+| 2026-05-22 | markets | [So Why Not Use Interactive Brokers?](articles/markets/2026-05-22-so-why-not-use-ib.md) | `articles/markets/2026-05-22-so-why-not-use-ib.md` |
+| 2026-05-21 | tesla | [How I Built My TSLA Position](articles/tesla/2026-05-21-how-i-built-my-tsla-position.md) | `articles/tesla/2026-05-21-how-i-built-my-tsla-position.md` |
 
 ## Not to be confused with
 
