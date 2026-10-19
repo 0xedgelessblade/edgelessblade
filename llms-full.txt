@@ -17,6 +17,92 @@ Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless P
 - Topics: US equities, index valuation, US Treasury market, Tesla (TSLA), TSLL, TSLA/SPCX relative strength, trading psychology, niche building for individual creators
 
 =====
+File: articles/tesla/2026-10-19-spacex-president-follows-tesla.md
+
+# SpaceX's President Follows Tesla: Are You Buying the Merger?
+
+**Date:** 2026-10-19
+
+---
+
+SpaceX's president follows only 46 accounts on X
+Yesterday a 47th showed up: Tesla
+Within 48 hours, executives on both sides started following each other on X
+
+The market immediately jumped to merger rumors
+Wall Street is betting on an announcement before December 6:
+a $2.1 trillion SpaceX swallowing a $1.5 trillion Tesla
+Are you buying it?
+
+![Video poster from the original post](../../images/DerYSWdj_rY-1.jpg)
+
+## Replies
+
+> Reader: Hold on a sec
+> Don't make off with my SPCX calls🫩
+
+Holding calls, what a humble-brag
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DerYSWdj_rY
+
+=====
+File: articles/ai/2026-10-19-alaska-award-finder-adds-premium-economy.md
+
+# Alaska Award Finder Adds Premium Economy
+
+**Date:** 2026-10-19
+
+---
+
+Taipei to Los Angeles, two people, one way
+
+Business: 170,000 points, plus a connection in Manila
+Premium economy: 100,000 points, STARLUX JX2 nonstop
+
+70,000 points fewer, and one less connection
+
+When redeeming points, most people only look at two options:
+economy or business
+But premium economy, right in between, is actually the best-value seat on US routes
+
+More importantly: you can actually get one
+Seattle, San Francisco, Los Angeles, Phoenix
+premium economy costs only 12,500 points more than economy
+
+In the 10/19 data
+US routes had 674 premium economy flights
+business had only 50, and most of them need a connection
+
+On some days a single premium economy flight still has 9 seats left, so even booking the whole family together has a shot
+
+What about Asia routes?
+Honestly, most of the time booking business straight away is the better deal
+
+Business 15,000, premium economy 10,000, just 5,000 points apart, and business has far more seats
+
+Premium economy is the fallback for when business is full
+Tokyo, Osaka, Fukuoka, Okinawa, Hong Kong and Ho Chi Minh City all have it
+
+The Alaska award finder can now search premium economy directly
+Find a seat, tap "Redeem", and it jumps to Alaska Airlines' official site with the dates and airports already filled in for you
+
+I wrote a website
+and to promote it, I've even gotten good at video editing==
+Being a one-person media outlet isn't easy
+
+**Part 2**
+
+https://miles.edgelessblade.com/?region=us
+
+---
+
+Original posts:
+- Part 1: https://www.threads.com/@edgeless.blade/post/DequNUKDr8l
+- Part 2: https://www.threads.com/@edgeless.blade/post/Deqx6PgDu9t
+
+=====
 File: articles/ai/2026-10-18-alaska-us-routes-free-for-six-hours.md
 
 # Alaska Award Finder: US Routes Free for 6 Hours
@@ -9258,3 +9344,507 @@ This brother just signed up for ten cars
 Original posts:
 - Part 1: https://www.threads.com/@edgeless.blade/post/DYB6q9Cju4j
 - Part 2: https://www.threads.com/@edgeless.blade/post/DYCh6BqERgB
+
+=====
+File: articles/markets/2026-05-07-if-china-made-the-same-announcement.md
+
+# If China Made the Same Announcement
+
+**Date:** 2026-05-07
+
+---
+
+If China made a similar announcement
+Taiwan stocks, free of their geopolitical shackles
+how high would the P/E go?
+
+![Screenshot attached to the original post](../../images/DYA_Q2Nk63j-1.jpg)
+
+## Replies
+
+> Reader: This is old news, though. Does TVBS get its news through Internet Explorer?
+
+> Reader: Nobody's said it outright, but I think Taiwan stocks have already changed at this point
+
+That's wild
+
+> Reader: Pumping into the universe
+
+How could the universe ever keep up with Taiwan
+
+> Reader: 100,000 in sight, pumping into outer space
+
+> Reader: I think after Venezuela's president was "forced to study abroad" in the US this January, the valuation model for Taiwan stocks changed because war risk dropped. A war really can't happen now. The old "there will be a war" takes mostly assumed Uncle Xi would lose his mind; now it feels like he doesn't even dare go mad.
+
+"Forced to study abroad"🤣🤣🤣
+
+> Reader: Probably one of those candles that shoots straight out of the monitor
+
+I think I've seen one going down that ran right into the volume bars
+
+> Reader: Let's not, thanks
+
+> Reader: Part of this big Taiwan rally is actually because the US hitting Iran looked like an adult beating up a kid, and it scared Xi Jinping to death. So the chance of a Taiwan Strait war, which looked quite likely around 2028, has dropped very low, and the money that had been parked in war hedges has all come out to buy Taiwan stocks.
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DYA_Q2Nk63j
+
+=====
+File: articles/markets/2026-05-06-saylor-says-sell-bitcoin-shrugs.md
+
+# Saylor Says He'll Sell BTC. Bitcoin Shrugs.
+
+**Date:** 2026-05-06
+
+---
+
+Skip the news, and you lose touch with reality
+Believe the news, and you lose touch with the facts
+
+The line going viral across crypto today: "Michael Saylor is getting ready to sell BTC"
+
+But did you notice something even stranger? Bitcoin barely reacted
+
+Here's what the news won't tell you:
+
+On yesterday's Q1 earnings call, Saylor said it himself: "We will probably sell some bitcoin to pay a dividend, just to inoculate the market."
+
+The headlines were everywhere, yet bitcoin just wobbled around 80K, nothing like the reaction you'd expect to "the biggest corporate HODLer is dumping"
+
+Why?
+Because this was already hashed out once before
+
+1. This isn't the first time they've been "almost out of cash"
+
+In bitcoin's slide into the 60Ks a few months ago, as it fell back from its highs, MicroStrategy already faced very similar pressure:
+
+BTC pulled back, mNAV was squeezed to around 1x, and the issue-shares-to-buy-coins flywheel lost efficiency fast
+
+Cash flow got tight, unrealized losses were huge, and the market started whispering, "Will they be forced to sell coins?"
+
+What happened next?
+Not a blowup, but this: they scrambled to build up their cash reserves and forced the short-term FUD of "will MicroStrategy be forced to sell" back down
+
+This round of "we might sell some coins" is really a sequel to last time's story, not a new script.
+
+2. mNAV stuck at 1x, the old flywheel is broken
+
+So far this year, MicroStrategy's mNAV has been moving sideways around 1x:
+
+Share price ≈ the underlying BTC net value, meaning the market isn't willing to pay much of a premium anymore.
+
+Under these conditions, issuing new shares through the ATM to buy BTC barely avoids hurting existing shareholders; the 2024 thrill of "issue shares and fatten BTC per share" is long gone
+
+So over these months, with prices at 60,000-80,000, how could MicroStrategy still buy the bitcoin dip so aggressively?
+Because they swapped in a new engine: STRC
+
+3. STRC: the real play behind the 11% yield
+
+What is STRC? Put simply, it's a perpetual preferred stock paying roughly 11% a year. MicroStrategy uses it to borrow from traditional credit markets and buys more BTC with the money.
+
+The structure hinges on two points:
+
+Lever up hard to buy BTC when it's cheap
+When the market wrongly dumps BTC and mNAV can't get off the floor, sweeping up coins at a fixed 11% cost can still be positive carry for them:
+
+They believe BTC's long-term annualized return can run at 20%+,
+
+Pay investors 11%, and the spread in between is the shareholders' alpha. Selling some coins near the highs is actually a reasonable move
+
+## Replies
+
+> Reader: Added to my position, bitcoin's pumping
+
+I don't dare open the app
+
+> Reader: All I know is I've been living at 158 in CRCL for over a year😭 Save me
+
+Someone bought 2x CRCL at the bottom
+So jealous
+
+> Reader: This just makes me feel like the biggest sucker of all😭
+
+In my book, just holding on gets you full marks
+
+> Reader: Bull case:
+> Through clever accounting and tax moves (such as tax-loss harvesting), MSTR turns its bitcoin holdings into a "super asset" that can generate a tax shield whenever needed, so the company can keep operating and servicing its debt without diluting equity. The strategy is like playing a "tax arbitrage game": using bitcoin's high volatility to create legal loss records to avoid tax, while keeping the real strength of the assets. The deciding factor of the bet may be whether, in the next bitcoin bull market, MSTR can prove its "BTC per share" is still rising rather than falling.
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DX_suQfkdMK
+
+=====
+File: articles/markets/2026-05-06-no-optics-no-memory-no-cpus.md
+
+# No Optics, No Memory, No CPUs: Only $1.39 Million This Month
+
+**Date:** 2026-05-06
+
+---
+
+No optics
+No memory
+No CPUs
+I only made $1.39 million this month
+Will you laugh at me?
+Those just really aren't my edge
+
+![Screenshot attached to the original post](../../images/DX_2qtgkd9u-1.jpg)
+
+## Replies
+
+> Reader: Dad, don't be sad. TSLA won't let you down, the next hundred million is waiting for you
+
+Is that hundred million you?
+
+> Reader: Great master, please accept my one dollar
+
+One dollar, and a new cycle begins
+
+> Reader: I won't
+
+What a nice person
+
+> Reader: Other people end up sleeping in a park; you built a park to sleep in🤣
+
+I'd rather build something else
+In Monopoly, what I hated most was someone turning my property into a park
+
+> Reader: Build a five-star ski resort
+
+A little ski cabin would make me perfectly happy
+
+> Reader: Lord of the Park!
+
+That's me
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DX_2qtgkd9u
+
+=====
+File: articles/markets/2026-05-06-mstr-may-sell-btc-ill-cover-the-retreat.md
+
+# MSTR May Sell BTC: You Go On, I'll Cover the Retreat
+
+**Date:** 2026-05-06
+
+---
+
+On MicroStrategy's earnings call Tuesday evening, MSTR President and CEO Phong Le made it clear that selling BTC for dollars, or using it to pay down debt, is on the table as long as it helps lift bitcoin per share
+
+As usual
+you all go on ahead
+I'll cover the retreat
+Whenever I sell IBIT
+and however much I sell, I'll announce it here
+
+Anyone who especially wants to talk is welcome to tap the link on my profile page🔗
+
+**Part 2**
+
+This one's automated shapeshifting routine seems to have glitched
+
+![Screenshot attached to the original post](../../images/DX-53PSkWNn-1.jpg)
+
+## Replies
+
+> Reader: Going on the offensive with BITX?
+
+All yours
+
+> Reader: I'm the poor soul who sold IBIT covered calls at 45 and 46
+
+Bank it while it's hot
+
+> Reader: Next run, keep buying, keep CC-ing, CC Lemon
+
+> Reader: BTC doesn't seem to be reacting much
+> I'll walk with you to the end
+> My Tesla's pumping
+
+Let's watch the open
+
+> Reader: Tesla's pumping!!
+
+LOL
+This time my heartstrings actually twitched
+
+> Reader: Ba-dum
+
+> Reader: I suspect Strategy is using all this talk of selling BTC to lure retail into shorting, piling up more short fuel to push the price higher. BTC just climbed to 81K and funding rates keep staying negative, all fuel courtesy of the shorts. As long as funding doesn't turn positive, the shorts won't die and the price won't stop🤭
+
+Maybe the company was just meeting its disclosure obligations
+but the media insists on spinning it like this
+maybe with ulterior motives
+
+> Reader: Indeed😆
+
+> Reader: Uh-oh, are we in trouble?
+
+> Reader: Would I lose if I just bought MSTU🥹
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DX-3wTWETG3
+
+=====
+File: articles/tesla/2026-05-05-robotaxi-fleet-surges-9-percent.md
+
+# Robotaxi Fleet Surges 9% in a Single Day
+
+**Date:** 2026-05-05
+
+---
+
+Tesla's Robotaxi testing is accelerating
+The unsupervised fleet surged 9% in a single day
+Actual total: 33 → 36 cars 🤣
+
+![Screenshot attached to the original post](../../images/DX8ORWnESrI-1.jpg)
+
+## Replies
+
+> Reader: That's way too fast, a whole 3 more cars
+
+A whopping three more cars
+
+> Reader: At 36 cars, 2 people are lining up to buy the stock
+> At 360,000 cars, everyone will be scrambling to buy XD
+
+You and me?
+At 3,600 it'll already be pumping
+At 360,000 it might pump all the way to Mars
+
+> Reader: Where can I see this data?
+
+robotaxitracker
+Just search for it
+
+> Reader: Thanks☺️
+
+> Reader: We used to laugh at Waymo, and now they've left us miles behind
+
+It's only just started to climb
+Once deployment matures
+Tesla's advantage is huge
+
+> Reader: 😮‍💨 If only the boss would stop bragging
+
+> Reader: Vroom vroom, the engine's starting
+
+Motor
+It's a motor
+
+> Reader: EVs don't go vroom vroom
+
+> Reader: Bitcoin's pumping
+
+> Reader: If this were the share price
+> I wouldn't be here fooling around
+> No idea what I'm so busy with, staring at fleet counts all day
+
+It'll get priced in gradually
+Three cars won't move it
++300 cars a day will
+
+> Reader: It's fine, at 300 cars
+> I'm going to stuff myself at A Joy, Dog Bro
+
+I'll book out 300 seats at A Joy
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DX8ORWnESrI
+
+=====
+File: articles/tesla/2026-05-04-tesla-only-good-news-left.md
+
+# Tesla's Mispricing: Only Good News Left
+
+**Date:** 2026-05-04
+
+---
+
+The market's pricing of Tesla right now is stuck on a crucial mismatch
+
+The bad news of the past few quarters, demand worries, slowing growth, the big jump in Capex, has basically been digested by the market over and over. When bad news no longer brings new information, the price naturally stops falling on the same old story.
+
+What still isn't fully priced in is FSD's progress.
+
+The next numbers to catch the market's eye
+are this set:
+"how fast the unsupervised test fleet is growing"
+Once FSD goes from concept to cash flow
+money will rush into this value trough
+
+Where the real moat is:
+Most self-driving companies are still validating technology, but Tesla already has three things at once:
+technology, production capacity, and software distribution
+
+Production capacity is easy to underestimate
+When everyone's Robotaxis are mature, others will have to slowly build out their fleets, but Tesla won't, because it already has enormous capacity on its production lines. The big jump in capex is precisely to build the even cheaper Cybercab
+
+Even more important is how it deploys:
+No retrofits, no extra hardware, just push the operating build over OTA and existing inventory instantly becomes usable assets. That means scaling has almost zero marginal cost, with practically no bottleneck to expansion
+
+So the question now isn't "is there any more bad news," but when the market starts to realize that "Tesla's future holds nothing but good news"
+
+Look at how steep this climb is
+
+![Screenshot attached to the original post](../../images/DX5zXvVkdRl-1.jpg)
+
+## Replies
+
+> Reader: Musk says wait for FSD V15
+
+Yes
+That doesn't stop smaller versions from testing first
+Once the test fleet scales up
+the market starts reacting
+It doesn't need to, and won't, wait until the very end
+The market likes to run ahead
+
+> Reader: Diamond Hands😭
+
+TS is slowly seeing the light
+
+> Reader: In the future, logistics companies will have nothing but Semis and Optimus hauling cargo. That's what I see in my dreams.
+
+Amazon has already brought quite a lot of them into its logistics warehouses
+Specialized work settings
+don't necessarily need such expensive robots
+But the beauty of general-purpose ones is
+on the consumer side they can do anything
+I can't wait for that world
+
+> Reader: Tesla's vision may arrive late, but it will arrive (gaze unwavering)
+
+It's just that the pie in the sky is often big and dry
+
+> Reader: Pumping!
+
+With intent to induce app-opening
+
+> Reader: Sorry, just felt like being cheeky
+
+We've built up a high tolerance
+Go trick the newbies🤣
+
+> Reader: The rate of likes tells me how cold it is up here on the mountaintop
+
+Got it
+Stylish
+
+> Reader: Tesla's pumping
+
+The market isn't even open yet
+Don't experiment on me🤣
+
+> Reader: The Grand Master is flexing
+
+I just wanted to post a chart
+It rocketed from 28 cars to 33🤣🤣
+For this one chart I even had to write a whole post
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DX5zXvVkdRl
+
+=====
+File: articles/markets/2026-05-03-bitcoin-and-tesla-sentiment-turning.md
+
+# Bitcoin and Tesla: Sentiment May Be Quietly Turning
+
+**Date:** 2026-05-03
+
+---
+
+The two weakest groups in US stocks may be quietly turning around on sentiment
+Bitcoin and Tesla
+For the past six months the market has treated them as invisible, but if you only watch the price and not the structure, you'll miss three things that are happening right now
+
+Signal one: Morgan Stanley steps into bitcoin
+
+On 4/8 Morgan Stanley launched its own MSBT, the first spot BTC ETF issued by a major US bank, and it pulled in over 100 million in its first week
+
+Launching your own ETF in the worst market sentiment isn't retail bottom-fishing; it's yet another Wall Street giant entering the game
+
+BlackRock's IBIT now holds more than 810,000 BTC
+When the world's largest asset manager and its largest investment bank are both adding
+do you want to stand with market sentiment, or with the institutions?
+
+Signal two: the uncertainty around the CLARITY Act is narrowing
+
+The CLARITY Act's stablecoin yield provision
+the biggest dispute that held up the whole industry for six months
+finally got a compromise text on 5/1: it bans "earning interest just for holding," but keeps reward mechanisms tied to real activity
+
+Senate Banking Committee Chairman Tim Scott says the bill is already "in the red zone," aiming for markup by mid-May. Over the same period, DeFi lost $630 million to hacks in April.
+
+But BTC still rose 12% in April, closing near $78K. When a string of industry setbacks no longer moves mainstream crypto, the worst of the sentiment may already be behind us
+
+Signal three: Tesla's last mile
+
+By the end of April, Tesla's unsupervised Robotaxi fleet had climbed from single digits to 25 cars, deployed across three Texas cities. The number is small, but the growth is exponential
+
+In the Q1 earnings, Musk confirmed the target of launching consumer unsupervised FSD in Q4, with plans to expand to a dozen or so states by year-end
+
+FSD is the one variable that lifts Tesla's valuation from "carmaker" to "platform"
+The stock is at about $391 now, and the CyberCab entering its production ramp early may be a sign
+that large-scale rollout really isn't far off
+
+## Replies
+
+> Reader: Tesla Avengers, assemble
+
+Bitcoin goes first
+Tesla still needs a few months
+Watch how fast their test fleet grows
+
+> Reader: What if I spent all my money on Tesla and have nothing left for bitcoin?
+
+Pick the one you love
+
+> Reader: Dad, I'm almost out of money🫴
+
+Young Master Musk, you've got the wrong dad
+
+> Reader: If the catch-up rally kicks off, I can't even imagine how happy I'll be. Lately my only sugar coating has come from Taiwan stocks
+
+Bitcoin will probably move first
+
+> Reader: No sales for three years, then one sale feeds you for thirty
+
+Hold on, Tesla's gone almost five years without a sale
+
+> Reader: Uncle, Tesla can't hold up much longer
+
+The world's richest man is holding it up with you
+Oh wait, he's also got SpaceX
+
+> Reader: I hold both, but I just leave them alone and buy other stuff. Talk about these two right now and you'll get flamed, especially BTC
+
+No big deal
+The market's so big
+why force everyone's holdings to line up?
+
+> Reader: How come my main holdings just happen to be these two
+> Held bitcoin from 30K to 100K, not bad
+> Tesla barely doubled, way too little
+> It's really grinding me down…
+
+Your cost basis is great
+
+> Reader: Heavy in Tesla, checking in. Hope one day it pumps so far I don't even recognize it
+
+Hope you make it
+
+> Reader: The longer it consolidates, the harder it pumps
+
+Tesla's weekly chart has been consolidating for 4-5 years🥹
+
+---
+
+Original post: https://www.threads.com/@edgeless.blade/post/DX4Ji2LkQAI

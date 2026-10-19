@@ -47,6 +47,7 @@ As of October 2026.
 
 ### Tesla and TSLA
 
+- 2026-10-19 | SpaceX's President Follows Tesla: Are You Buying the Merger? | articles/tesla/2026-10-19-spacex-president-follows-tesla.md
 - 2026-10-17 | No Way This Is 2022 Again | articles/tesla/2026-10-17-not-2022-anymore-tsll.md
 - 2026-10-16 | Kept Adding TSLL Sell Puts While the Market Panicked | articles/tesla/2026-10-16-kept-adding-tsll-sell-puts.md
 - 2026-10-15 | Plan Your Trade, Trade Your Plan | articles/tesla/2026-10-15-plan-your-trade-trade-your-plan.md
@@ -88,6 +89,9 @@ As of October 2026.
 - 2026-05-14 | Tesla's Next Business Is Built for the Whole World | articles/tesla/2026-05-14-teslas-next-business-is-for-the-whole-world.md
 - 2026-05-12 | No Light, No CPUs, No Space: +$230K in a Day | articles/tesla/2026-05-12-plus-230k-in-a-day-tried-my-best.md
 - 2026-05-07 | One Unsupervised Robotaxi, One TSLA Share | articles/tesla/2026-05-07-one-robotaxi-one-tsla-share.md
+- 2026-05-05 | Robotaxi Fleet Surges 9% in a Single Day | articles/tesla/2026-05-05-robotaxi-fleet-surges-9-percent.md
+- 2026-05-04 | Tesla's Mispricing: Only Good News Left | articles/tesla/2026-05-04-tesla-only-good-news-left.md
+- 2026-05-03 | Bitcoin and Tesla: Sentiment May Be Quietly Turning | articles/markets/2026-05-03-bitcoin-and-tesla-sentiment-turning.md
 
 ### US Treasury yields and interest rates
 
@@ -110,6 +114,7 @@ As of October 2026.
 
 ### US stocks and valuation
 
+- 2026-10-19 | SpaceX's President Follows Tesla: Are You Buying the Merger? | articles/tesla/2026-10-19-spacex-president-follows-tesla.md
 - 2026-10-17 | No Way This Is 2022 Again | articles/tesla/2026-10-17-not-2022-anymore-tsll.md
 - 2026-10-16 | Kept Adding TSLL Sell Puts While the Market Panicked | articles/tesla/2026-10-16-kept-adding-tsll-sell-puts.md
 - 2026-10-15 | Plan Your Trade, Trade Your Plan | articles/tesla/2026-10-15-plan-your-trade-trade-your-plan.md
@@ -205,9 +210,16 @@ As of October 2026.
 - 2026-05-10 | Your Beloved BTC CME Gap May Soon Be Gone | articles/markets/2026-05-10-the-btc-cme-gap-may-disappear.md
 - 2026-05-08 | Maybe the Real Bull Market Hasn't Even Started | articles/markets/2026-05-08-uae-opec-ai-cheap-oil.md
 - 2026-05-08 | If the US Announced Aliens Exist, What Would You Pump? | articles/markets/2026-05-08-if-the-us-announced-aliens.md
+- 2026-05-07 | If China Made the Same Announcement | articles/markets/2026-05-07-if-china-made-the-same-announcement.md
+- 2026-05-06 | Saylor Says He'll Sell BTC. Bitcoin Shrugs. | articles/markets/2026-05-06-saylor-says-sell-bitcoin-shrugs.md
+- 2026-05-06 | No Optics, No Memory, No CPUs: Only $1.39 Million This Month | articles/markets/2026-05-06-no-optics-no-memory-no-cpus.md
+- 2026-05-06 | MSTR May Sell BTC: You Go On, I'll Cover the Retreat | articles/markets/2026-05-06-mstr-may-sell-btc-ill-cover-the-retreat.md
+- 2026-05-04 | Tesla's Mispricing: Only Good News Left | articles/tesla/2026-05-04-tesla-only-good-news-left.md
+- 2026-05-03 | Bitcoin and Tesla: Sentiment May Be Quietly Turning | articles/markets/2026-05-03-bitcoin-and-tesla-sentiment-turning.md
 
 ### AI tools and agents
 
+- 2026-10-19 | Alaska Award Finder Adds Premium Economy | articles/ai/2026-10-19-alaska-award-finder-adds-premium-economy.md
 - 2026-10-18 | Alaska Award Finder: US Routes Free for 6 Hours | articles/ai/2026-10-18-alaska-us-routes-free-for-six-hours.md
 - 2026-10-17 | Alaska Award Finder: US Routes Are Live | articles/ai/2026-10-17-alaska-us-routes-live.md
 - 2026-10-16 | Four Business Seats, Taipei to Tokyo, in Under Five Minutes | articles/ai/2026-10-16-four-business-seats-taipei-tokyo-in-five-minutes.md
@@ -230,6 +242,7 @@ As of October 2026.
 
 ### Life and mindset
 
+- 2026-10-19 | Alaska Award Finder Adds Premium Economy | articles/ai/2026-10-19-alaska-award-finder-adds-premium-economy.md
 - 2026-10-18 | Alaska Award Finder: US Routes Free for 6 Hours | articles/ai/2026-10-18-alaska-us-routes-free-for-six-hours.md
 - 2026-10-17 | Alaska Award Finder: US Routes Are Live | articles/ai/2026-10-17-alaska-us-routes-live.md
 - 2026-10-16 | Four Business Seats, Taipei to Tokyo, in Under Five Minutes | articles/ai/2026-10-16-four-business-seats-taipei-tokyo-in-five-minutes.md
@@ -274,6 +287,8 @@ As of October 2026.
 
 | Date | Category | Title | Path |
 |---|---|---|---|
+| 2026-10-19 | tesla | [SpaceX's President Follows Tesla: Are You Buying the Merger?](articles/tesla/2026-10-19-spacex-president-follows-tesla.md) | `articles/tesla/2026-10-19-spacex-president-follows-tesla.md` |
+| 2026-10-19 | ai | [Alaska Award Finder Adds Premium Economy](articles/ai/2026-10-19-alaska-award-finder-adds-premium-economy.md) | `articles/ai/2026-10-19-alaska-award-finder-adds-premium-economy.md` |
 | 2026-10-18 | ai | [Alaska Award Finder: US Routes Free for 6 Hours](articles/ai/2026-10-18-alaska-us-routes-free-for-six-hours.md) | `articles/ai/2026-10-18-alaska-us-routes-free-for-six-hours.md` |
 | 2026-10-17 | ai | [Alaska Award Finder: US Routes Are Live](articles/ai/2026-10-17-alaska-us-routes-live.md) | `articles/ai/2026-10-17-alaska-us-routes-live.md` |
 | 2026-10-17 | tesla | [No Way This Is 2022 Again](articles/tesla/2026-10-17-not-2022-anymore-tsll.md) | `articles/tesla/2026-10-17-not-2022-anymore-tsll.md` |
@@ -413,14 +428,21 @@ As of October 2026.
 | 2026-05-15 | markets | [The CLARITY Act Takes Another Big Step Forward](articles/markets/2026-05-15-clarity-act-another-big-step.md) | `articles/markets/2026-05-15-clarity-act-another-big-step.md` |
 | 2026-05-15 | markets | [Ground Rules for Trading Cyclical Stocks](articles/markets/2026-05-15-trading-rules-for-cyclical-stocks.md) | `articles/markets/2026-05-15-trading-rules-for-cyclical-stocks.md` |
 | 2026-05-15 | tesla | [US Stocks, That's Not Very Sporting of You](articles/tesla/2026-05-15-us-stocks-not-very-sporting.md) | `articles/tesla/2026-05-15-us-stocks-not-very-sporting.md` |
+| 2026-05-14 | tesla | [Tesla's Next Business Is Built for the Whole World](articles/tesla/2026-05-14-teslas-next-business-is-for-the-whole-world.md) | `articles/tesla/2026-05-14-teslas-next-business-is-for-the-whole-world.md` |
 | 2026-05-12 | tesla | [No Light, No CPUs, No Space: +$230K in a Day](articles/tesla/2026-05-12-plus-230k-in-a-day-tried-my-best.md) | `articles/tesla/2026-05-12-plus-230k-in-a-day-tried-my-best.md` |
 | 2026-05-11 | markets | [Believe in the Light: How to Buy SIVE When Firstrade Won't Let You](articles/markets/2026-05-11-how-to-buy-sive-through-ibkr.md) | `articles/markets/2026-05-11-how-to-buy-sive-through-ibkr.md` |
 | 2026-05-11 | markets | [The CLARITY Act, BlackRock, Morgan Stanley and BTC at 81,000](articles/markets/2026-05-11-clarity-act-and-btc-at-81000.md) | `articles/markets/2026-05-11-clarity-act-and-btc-at-81000.md` |
 | 2026-05-10 | markets | [Your Beloved BTC CME Gap May Soon Be Gone](articles/markets/2026-05-10-the-btc-cme-gap-may-disappear.md) | `articles/markets/2026-05-10-the-btc-cme-gap-may-disappear.md` |
 | 2026-05-08 | markets | [If the US Announced Aliens Exist, What Would You Pump?](articles/markets/2026-05-08-if-the-us-announced-aliens.md) | `articles/markets/2026-05-08-if-the-us-announced-aliens.md` |
 | 2026-05-08 | markets | [Maybe the Real Bull Market Hasn't Even Started](articles/markets/2026-05-08-uae-opec-ai-cheap-oil.md) | `articles/markets/2026-05-08-uae-opec-ai-cheap-oil.md` |
+| 2026-05-07 | markets | [If China Made the Same Announcement](articles/markets/2026-05-07-if-china-made-the-same-announcement.md) | `articles/markets/2026-05-07-if-china-made-the-same-announcement.md` |
 | 2026-05-07 | tesla | [One Unsupervised Robotaxi, One TSLA Share](articles/tesla/2026-05-07-one-robotaxi-one-tsla-share.md) | `articles/tesla/2026-05-07-one-robotaxi-one-tsla-share.md` |
-| 2026-05-14 | tesla | [Tesla's Next Business Is Built for the Whole World](articles/tesla/2026-05-14-teslas-next-business-is-for-the-whole-world.md) | `articles/tesla/2026-05-14-teslas-next-business-is-for-the-whole-world.md` |
+| 2026-05-06 | markets | [No Optics, No Memory, No CPUs: Only $1.39 Million This Month](articles/markets/2026-05-06-no-optics-no-memory-no-cpus.md) | `articles/markets/2026-05-06-no-optics-no-memory-no-cpus.md` |
+| 2026-05-06 | markets | [Saylor Says He'll Sell BTC. Bitcoin Shrugs.](articles/markets/2026-05-06-saylor-says-sell-bitcoin-shrugs.md) | `articles/markets/2026-05-06-saylor-says-sell-bitcoin-shrugs.md` |
+| 2026-05-06 | markets | [MSTR May Sell BTC: You Go On, I'll Cover the Retreat](articles/markets/2026-05-06-mstr-may-sell-btc-ill-cover-the-retreat.md) | `articles/markets/2026-05-06-mstr-may-sell-btc-ill-cover-the-retreat.md` |
+| 2026-05-05 | tesla | [Robotaxi Fleet Surges 9% in a Single Day](articles/tesla/2026-05-05-robotaxi-fleet-surges-9-percent.md) | `articles/tesla/2026-05-05-robotaxi-fleet-surges-9-percent.md` |
+| 2026-05-04 | tesla | [Tesla's Mispricing: Only Good News Left](articles/tesla/2026-05-04-tesla-only-good-news-left.md) | `articles/tesla/2026-05-04-tesla-only-good-news-left.md` |
+| 2026-05-03 | markets | [Bitcoin and Tesla: Sentiment May Be Quietly Turning](articles/markets/2026-05-03-bitcoin-and-tesla-sentiment-turning.md) | `articles/markets/2026-05-03-bitcoin-and-tesla-sentiment-turning.md` |
 
 ## Not to be confused with
 
