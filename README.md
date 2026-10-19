@@ -86,6 +86,8 @@ As of October 2026.
 - 2026-05-19 | Sorry, Couldn't Help Myself | articles/tesla/2026-05-19-sorry-couldnt-help-myself.md
 - 2026-05-15 | US Stocks, That's Not Very Sporting of You | articles/tesla/2026-05-15-us-stocks-not-very-sporting.md
 - 2026-05-14 | Tesla's Next Business Is Built for the Whole World | articles/tesla/2026-05-14-teslas-next-business-is-for-the-whole-world.md
+- 2026-05-12 | No Light, No CPUs, No Space: +$230K in a Day | articles/tesla/2026-05-12-plus-230k-in-a-day-tried-my-best.md
+- 2026-05-07 | One Unsupervised Robotaxi, One TSLA Share | articles/tesla/2026-05-07-one-robotaxi-one-tsla-share.md
 
 ### US Treasury yields and interest rates
 
@@ -197,9 +199,12 @@ As of October 2026.
 - 2026-05-15 | US Stocks, That's Not Very Sporting of You | articles/tesla/2026-05-15-us-stocks-not-very-sporting.md
 - 2026-05-15 | Ground Rules for Trading Cyclical Stocks | articles/markets/2026-05-15-trading-rules-for-cyclical-stocks.md
 - 2026-05-15 | The CLARITY Act Takes Another Big Step Forward | articles/markets/2026-05-15-clarity-act-another-big-step.md
+- 2026-05-12 | No Light, No CPUs, No Space: +$230K in a Day | articles/tesla/2026-05-12-plus-230k-in-a-day-tried-my-best.md
 - 2026-05-11 | Believe in the Light: How to Buy SIVE When Firstrade Won't Let You | articles/markets/2026-05-11-how-to-buy-sive-through-ibkr.md
 - 2026-05-11 | The CLARITY Act, BlackRock, Morgan Stanley and BTC at 81,000 | articles/markets/2026-05-11-clarity-act-and-btc-at-81000.md
+- 2026-05-10 | Your Beloved BTC CME Gap May Soon Be Gone | articles/markets/2026-05-10-the-btc-cme-gap-may-disappear.md
 - 2026-05-08 | Maybe the Real Bull Market Hasn't Even Started | articles/markets/2026-05-08-uae-opec-ai-cheap-oil.md
+- 2026-05-08 | If the US Announced Aliens Exist, What Would You Pump? | articles/markets/2026-05-08-if-the-us-announced-aliens.md
 
 ### AI tools and agents
 
@@ -408,9 +413,13 @@ As of October 2026.
 | 2026-05-15 | markets | [The CLARITY Act Takes Another Big Step Forward](articles/markets/2026-05-15-clarity-act-another-big-step.md) | `articles/markets/2026-05-15-clarity-act-another-big-step.md` |
 | 2026-05-15 | markets | [Ground Rules for Trading Cyclical Stocks](articles/markets/2026-05-15-trading-rules-for-cyclical-stocks.md) | `articles/markets/2026-05-15-trading-rules-for-cyclical-stocks.md` |
 | 2026-05-15 | tesla | [US Stocks, That's Not Very Sporting of You](articles/tesla/2026-05-15-us-stocks-not-very-sporting.md) | `articles/tesla/2026-05-15-us-stocks-not-very-sporting.md` |
+| 2026-05-12 | tesla | [No Light, No CPUs, No Space: +$230K in a Day](articles/tesla/2026-05-12-plus-230k-in-a-day-tried-my-best.md) | `articles/tesla/2026-05-12-plus-230k-in-a-day-tried-my-best.md` |
 | 2026-05-11 | markets | [Believe in the Light: How to Buy SIVE When Firstrade Won't Let You](articles/markets/2026-05-11-how-to-buy-sive-through-ibkr.md) | `articles/markets/2026-05-11-how-to-buy-sive-through-ibkr.md` |
 | 2026-05-11 | markets | [The CLARITY Act, BlackRock, Morgan Stanley and BTC at 81,000](articles/markets/2026-05-11-clarity-act-and-btc-at-81000.md) | `articles/markets/2026-05-11-clarity-act-and-btc-at-81000.md` |
+| 2026-05-10 | markets | [Your Beloved BTC CME Gap May Soon Be Gone](articles/markets/2026-05-10-the-btc-cme-gap-may-disappear.md) | `articles/markets/2026-05-10-the-btc-cme-gap-may-disappear.md` |
+| 2026-05-08 | markets | [If the US Announced Aliens Exist, What Would You Pump?](articles/markets/2026-05-08-if-the-us-announced-aliens.md) | `articles/markets/2026-05-08-if-the-us-announced-aliens.md` |
 | 2026-05-08 | markets | [Maybe the Real Bull Market Hasn't Even Started](articles/markets/2026-05-08-uae-opec-ai-cheap-oil.md) | `articles/markets/2026-05-08-uae-opec-ai-cheap-oil.md` |
+| 2026-05-07 | tesla | [One Unsupervised Robotaxi, One TSLA Share](articles/tesla/2026-05-07-one-robotaxi-one-tsla-share.md) | `articles/tesla/2026-05-07-one-robotaxi-one-tsla-share.md` |
 | 2026-05-14 | tesla | [Tesla's Next Business Is Built for the Whole World](articles/tesla/2026-05-14-teslas-next-business-is-for-the-whole-world.md) | `articles/tesla/2026-05-14-teslas-next-business-is-for-the-whole-world.md` |
 
 ## Not to be confused with

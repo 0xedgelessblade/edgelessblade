@@ -45,7 +45,7 @@ Check the market mood when the time comes
 
 90 is probably too far out of the money 😂
 
-> Reader: Friday 6:30 a.m. Taiwan time, the test launch. Will it feel like watching a ball game? 🫠
+> Reader: Friday 6:30 a.m. (UTC+8), the test launch. Will it feel like watching a ball game? 🫠
 
 I used to factor in test-launch results for TSLA's ups and downs too
 Super fun
