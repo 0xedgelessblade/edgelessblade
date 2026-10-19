@@ -197,6 +197,9 @@ As of October 2026.
 - 2026-05-15 | US Stocks, That's Not Very Sporting of You | articles/tesla/2026-05-15-us-stocks-not-very-sporting.md
 - 2026-05-15 | Ground Rules for Trading Cyclical Stocks | articles/markets/2026-05-15-trading-rules-for-cyclical-stocks.md
 - 2026-05-15 | The CLARITY Act Takes Another Big Step Forward | articles/markets/2026-05-15-clarity-act-another-big-step.md
+- 2026-05-11 | Believe in the Light: How to Buy SIVE When Firstrade Won't Let You | articles/markets/2026-05-11-how-to-buy-sive-through-ibkr.md
+- 2026-05-11 | The CLARITY Act, BlackRock, Morgan Stanley and BTC at 81,000 | articles/markets/2026-05-11-clarity-act-and-btc-at-81000.md
+- 2026-05-08 | Maybe the Real Bull Market Hasn't Even Started | articles/markets/2026-05-08-uae-opec-ai-cheap-oil.md
 
 ### AI tools and agents
 
@@ -218,6 +221,7 @@ As of October 2026.
 - 2026-06-02 | Another Night of Me Picking Up the Tab | articles/markets/2026-06-02-another-night-picking-up-the-tab.md
 - 2026-05-26 | BKSY — BlackSky Technology Inc. | articles/markets/2026-05-26-bksy-blacksky-technology.md
 - 2026-05-23 | The Underlying Logic: AI's Three Stages, from Models to Data | articles/ai/2026-05-23-ai-three-stages-from-models-to-data.md
+- 2026-05-08 | Maybe the Real Bull Market Hasn't Even Started | articles/markets/2026-05-08-uae-opec-ai-cheap-oil.md
 
 ### Life and mindset
 
@@ -404,6 +408,9 @@ As of October 2026.
 | 2026-05-15 | markets | [The CLARITY Act Takes Another Big Step Forward](articles/markets/2026-05-15-clarity-act-another-big-step.md) | `articles/markets/2026-05-15-clarity-act-another-big-step.md` |
 | 2026-05-15 | markets | [Ground Rules for Trading Cyclical Stocks](articles/markets/2026-05-15-trading-rules-for-cyclical-stocks.md) | `articles/markets/2026-05-15-trading-rules-for-cyclical-stocks.md` |
 | 2026-05-15 | tesla | [US Stocks, That's Not Very Sporting of You](articles/tesla/2026-05-15-us-stocks-not-very-sporting.md) | `articles/tesla/2026-05-15-us-stocks-not-very-sporting.md` |
+| 2026-05-11 | markets | [Believe in the Light: How to Buy SIVE When Firstrade Won't Let You](articles/markets/2026-05-11-how-to-buy-sive-through-ibkr.md) | `articles/markets/2026-05-11-how-to-buy-sive-through-ibkr.md` |
+| 2026-05-11 | markets | [The CLARITY Act, BlackRock, Morgan Stanley and BTC at 81,000](articles/markets/2026-05-11-clarity-act-and-btc-at-81000.md) | `articles/markets/2026-05-11-clarity-act-and-btc-at-81000.md` |
+| 2026-05-08 | markets | [Maybe the Real Bull Market Hasn't Even Started](articles/markets/2026-05-08-uae-opec-ai-cheap-oil.md) | `articles/markets/2026-05-08-uae-opec-ai-cheap-oil.md` |
 | 2026-05-14 | tesla | [Tesla's Next Business Is Built for the Whole World](articles/tesla/2026-05-14-teslas-next-business-is-for-the-whole-world.md) | `articles/tesla/2026-05-14-teslas-next-business-is-for-the-whole-world.md` |
 
 ## Not to be confused with
