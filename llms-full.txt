@@ -4,6 +4,13 @@
 
 Not a sword. Not a game item. Not affiliated with Edgeless Systems or Edgeless PE.
 
+## Tools
+- [劍影 Studio](https://studio.edgelessblade.com/): Edgeless Studio, turns one URL or a few photos into a one-minute short video
+- [TSLA・SPCX 強勢觀察](https://edgelessblade.com/tsla-spcx/): daily relative strength of TSLA vs SPCX from public Yahoo Finance closes, CSV download
+- [Alaska 里程神器](https://miles.edgelessblade.com/): Alaska Mileage Plan award seats from and to Taiwan
+- [LifeMiles 里程神器](https://lifemiles.edgelessblade.com/): LifeMiles award seats from and to Taiwan
+- [edgelesstype](https://github.com/0xedgelessblade/edgelesstype): voice to text input tool
+
 ## Who I am
 - Pen name: 重劍無鋒
 - Name: edgelessblade (same person on every platform)

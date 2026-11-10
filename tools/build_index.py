@@ -217,7 +217,17 @@ def identity_header():
     return "\n".join(out).rstrip() + "\n"
 
 
+def check_tools_first():
+    """llms.txt lists the tools before anything else, Edgeless Studio first."""
+    text = (ROOT / "llms.txt").read_text(encoding="utf-8")
+    first = re.search(r"\]\((https?://[^)]+)\)", text)
+    if "## Tools" not in text or not first or "studio.edgelessblade.com" not in first.group(1):
+        raise SystemExit("llms.txt: the Tools section is missing, or Edgeless Studio "
+                         "is not the first link. Restore it before building.")
+
+
 def main():
+    check_tools_first()
     items = load()
     insert(ROOT / "README.md", topic_block(items))
     insert(ROOT / "llms.txt", topic_block(items))
